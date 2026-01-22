@@ -1,0 +1,3418 @@
+[
+  {
+    "question": "Câu 1: Theo Luật Kinh doanh bất động sản, tổ chức, cá nhân muốn kinh doanh BĐS phải có điều kiện gì?",
+    "options": [
+      "A. Thành lập doanh nghiệp/HTX, trừ trường hợp cá nhân kinh doanh nhỏ lẻ.",
+      "B. Có vốn pháp định tối thiểu 50 tỷ đồng.",
+      "C. Đăng ký hộ kinh doanh cá thể.",
+      "D. Được Sở Xây dựng cấp phép hành nghề."
+    ],
+    "correct_answer": "A. Thành lập doanh nghiệp/HTX, trừ trường hợp cá nhân kinh doanh nhỏ lẻ."
+  },
+  {
+    "question": "Câu 2: Doanh nghiệp kinh doanh BĐS phải đảm bảo tỷ lệ vốn chủ sở hữu bao nhiêu khi thực hiện dự án dưới 20 ha?",
+    "options": [
+      "A. Tối thiểu 10%.",
+      "B. Tối thiểu 15%.",
+      "C. Tối thiểu 20%.",
+      "D. Tối thiểu 25%."
+    ],
+    "correct_answer": "C. Tối thiểu 20%."
+  },
+  {
+    "question": "Câu 3: Bất động sản nào dưới đây không thuộc loại được phép kinh doanh theo Luật KDBĐS?",
+    "options": [
+      "A. Nhà ở có sẵn.",
+      "B. Công trình xây dựng hình thành trong tương lai.",
+      "C. Quyền sử dụng đất chưa có hạ tầng kỹ thuật.",
+      "D. Phần diện tích sàn trong công trình xây dựng."
+    ],
+    "correct_answer": "C. Quyền sử dụng đất chưa có hạ tầng kỹ thuật."
+  },
+  {
+    "question": "Câu 4: Điều kiện chuyển nhượng toàn bộ hoặc một phần dự án BĐS bao gồm:",
+    "options": [
+      "A. Có quyết định chủ trương đầu tư hoặc chấp thuận đầu tư.",
+      "B. Hoàn thành nghĩa vụ tài chính về đất đai, thuế, phí liên quan.",
+      "C. Dự án không thuộc diện bị thu hồi, không bị đình chỉ.",
+      "D. Tất cả các đáp án trên."
+    ],
+    "correct_answer": "D. Tất cả các đáp án trên."
+  },
+  {
+    "question": "Câu 5: Cơ quan nào có thẩm quyền chấp thuận chuyển nhượng toàn bộ dự án BĐS có quy mô lớn, ảnh hưởng đến phát triển KT-XH cả nước?",
+    "options": [
+      "A. UBND cấp huyện.",
+      "B. UBND cấp tỉnh.",
+      "C. Thủ tướng Chính phủ.",
+      "D. Bộ Xây dựng."
+    ],
+    "correct_answer": "C. Thủ tướng Chính phủ."
+  },
+  {
+    "question": "Câu 6: Trong kinh doanh quyền sử dụng đất (QSDĐ), hình thức nào sau đây được pháp luật cho phép?",
+    "options": [
+      "A. Chuyển nhượng QSDĐ khi chưa có quy hoạch chi tiết.",
+      "B. Chuyển nhượng QSDĐ đã có hạ tầng kỹ thuật.",
+      "C. Chuyển nhượng QSDĐ chưa có hạ tầng, đang giải phóng mặt bằng.",
+      "D. Thế chấp QSDĐ để bán nền trực tiếp."
+    ],
+    "correct_answer": "B. Chuyển nhượng QSDĐ đã có hạ tầng kỹ thuật."
+  },
+  {
+    "question": "Câu 7: Khi ký hợp đồng kinh doanh BĐS, nguyên tắc nào sau đây là đúng?",
+    "options": [
+      "A. Hợp đồng chỉ cần ký tay, không cần công chứng.",
+      "B. Chỉ ký khi BĐS đủ điều kiện đưa vào kinh doanh.",
+      "C. Có thể ký trước khi hoàn thành thủ tục pháp lý của BĐS.",
+      "D. Chỉ cần có thỏa thuận miệng giữa các bên."
+    ],
+    "correct_answer": "B. Chỉ ký khi BĐS đủ điều kiện đưa vào kinh doanh."
+  },
+  {
+    "question": "Câu 8: Trường hợp cá nhân kinh doanh BĐS ở quy mô nhỏ thì có cần phải thành lập doanh nghiệp kinh doanh BĐS không?",
+    "options": [
+      "A. Bắt buộc phải thành lập doanh nghiệp để kê khai nộp thuế.",
+      "B. Phải thành lập hợp tác xã nếu kinh doanh từ 03 BĐS trở lên.",
+      "C. Không phải thành lập doanh nghiệp nhưng phải kê khai nộp thuế theo quy định của pháp luật.",
+      "D. Phải thành lập doanh nghiệp kinh doanh BĐS theo quy định của Luật Doanh nghiệp."
+    ],
+    "correct_answer": "C. Không phải thành lập doanh nghiệp nhưng phải kê khai nộp thuế theo quy định của pháp luật."
+  },
+  {
+    "question": "Câu 9: Doanh nghiệp kinh doanh BĐS phải công khai thông tin dự án ở đâu?",
+    "options": [
+      "A. Website của Bộ Xây dựng.",
+      "B. Báo chí trung ương.",
+      "C. Hệ thống thông tin về nhà ở và thị trường BĐS & website của doanh nghiệp.",
+      "D. Chỉ cần niêm yết tại trụ sở doanh nghiệp."
+    ],
+    "correct_answer": "C. Hệ thống thông tin về nhà ở và thị trường BĐS & website của doanh nghiệp."
+  },
+  {
+    "question": "Câu 10: Trong thông tin công khai nhà ở hình thành trong tương lai, nội dung nào bắt buộc?",
+    "options": [
+      "A. Tiến độ dự án.",
+      "B. Giấy phép xây dựng (nếu có).",
+      "C. Bảo lãnh của ngân hàng cho bán/cho thuê mua.",
+      "D. Tất cả các nội dung trên."
+    ],
+    "correct_answer": "D. Tất cả các nội dung trên."
+  },
+  {
+    "question": "Câu 11: Sau khi hoàn thành việc chuyển nhượng dự án BĐS, bên nhận chuyển nhượng có quyền và nghĩa vụ như thế nào đối với hồ sơ dự án?",
+    "options": [
+      "A. Phải làm lại hồ sơ dự án, quy hoạch xây dựng và giấy phép xây dựng.",
+      "B. Kế thừa các quyền và nghĩa vụ của chủ đầu tư chuyển nhượng và phải đăng ký lại chủ đầu tư.",
+      "C. Phải nộp hồ sơ xin phép chuyển đổi mục tiêu đầu tư dự án.",
+      "D. Kế thừa các quyền, nghĩa vụ của chủ đầu tư chuyển nhượng và không phải làm lại hồ sơ dự án, quy hoạch xây dựng nếu không có thay đổi về nội dung của dự án."
+    ],
+    "correct_answer": "D. Kế thừa các quyền, nghĩa vụ của chủ đầu tư chuyển nhượng và không phải làm lại hồ sơ dự án, quy hoạch xây dựng nếu không có thay đổi về nội dung của dự án."
+  },
+  {
+    "question": "Câu 12: Hợp đồng nào sau đây không phải hợp đồng trong kinh doanh BĐS?",
+    "options": [
+      "A. Hợp đồng thuê mua nhà ở.",
+      "B. Hợp đồng chuyển nhượng dự án BĐS.",
+      "C. Hợp đồng dịch vụ môi giới BĐS.",
+      "D. Hợp đồng xây dựng công trình giao thông."
+    ],
+    "correct_answer": "D. Hợp đồng xây dựng công trình giao thông."
+  },
+  {
+    "question": "Câu 13: Hành vi nào sau đây BỊ NGHIÊM CẤM trong kinh doanh bất động sản theo Luật Kinh doanh BĐS 2023?",
+    "options": [
+      "A. Thực hiện giao dịch mua bán thông qua sàn giao dịch BĐS.",
+      "B. Giả mạo tài liệu, cố ý làm sai lệch thông tin về bất động sản, dự án bất động sản đưa vào kinh doanh.",
+      "C. Tổ chức, cá nhân thực hiện thanh toán không dùng tiền mặt trong giao dịch BĐS.",
+      "D. Thu, quản lý phí dịch vụ theo quy định của pháp luật."
+    ],
+    "correct_answer": "B. Giả mạo tài liệu, cố ý làm sai lệch thông tin về bất động sản, dự án bất động sản đưa vào kinh doanh."
+  },
+  {
+    "question": "Câu 14: Khi chuyển nhượng quyền sử dụng đất đã có hạ tầng kỹ thuật trong dự án BĐS, bên chuyển nhượng có trách nhiệm chính nào sau đây, trừ trường hợp có thỏa thuận khác?",
+    "options": [
+      "A. Bàn giao Giấy chứng nhận quyền sử dụng đất hiện có cho bên nhận chuyển nhượng.",
+      "B. Làm thủ tục để cơ quan nhà nước có thẩm quyền cấp giấy chứng nhận về quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất cho bên nhận chuyển nhượng.",
+      "C. Kê khai và nộp tất cả các loại thuế, phí, lệ phí liên quan.",
+      "D. Đảm bảo bên nhận chuyển nhượng tự xây dựng nhà ở theo đúng mẫu thiết kế."
+    ],
+    "correct_answer": "B. Làm thủ tục để cơ quan nhà nước có thẩm quyền cấp giấy chứng nhận về quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất cho bên nhận chuyển nhượng."
+  },
+  {
+    "question": "Câu 15: Thông tin nào sau đây KHÔNG thuộc thông tin bắt buộc phải công khai đối với dự án BĐS đưa vào kinh doanh?",
+    "options": [
+      "A. Quyết định chủ trương đầu tư hoặc chấp thuận chủ trương đầu tư.",
+      "B. Thông tin về quy hoạch chi tiết được cơ quan nhà nước có thẩm quyền phê duyệt.",
+      "C. Danh sách các nhà thầu phụ và đơn vị giám sát thi công.",
+      "D. Hợp đồng mẫu được sử dụng để ký kết trong giao dịch kinh doanh BĐS."
+    ],
+    "correct_answer": "C. Danh sách các nhà thầu phụ và đơn vị giám sát thi công."
+  },
+  {
+    "question": "Câu 16: Đối với dự án có quy mô từ 20 ha trở lên, vốn chủ sở hữu tối thiểu của chủ đầu tư là bao nhiêu?",
+    "options": [
+      "A. 10%.",
+      "B. 15%.",
+      "C. 20%.",
+      "D. 25%."
+    ],
+    "correct_answer": "B. 15%."
+  },
+  {
+    "question": "Câu 17: Theo Luật Nhà ở 2023, tổ chức, cá nhân nước ngoài được sở hữu nhà ở tại Việt Nam trong khu vực nào?",
+    "options": [
+      "A. Trong bất kỳ dự án nhà ở thương mại nào trên toàn quốc.",
+      "B. Trong dự án đầu tư xây dựng nhà ở, trừ dự án thuộc khu vực cần bảo đảm quốc phòng, an ninh theo quy định của pháp luật Việt Nam.",
+      "C. Chỉ được sở hữu nhà ở tại các khu công nghiệp, khu kinh tế.",
+      "D. Trong dự án nhà ở thương mại đã hoàn thành xây dựng và có Giấy chứng nhận."
+    ],
+    "correct_answer": "B. Trong dự án đầu tư xây dựng nhà ở, trừ dự án thuộc khu vực cần bảo đảm quốc phòng, an ninh theo quy định của pháp luật Việt Nam."
+  },
+  {
+    "question": "Câu 18: Tổ chức, cá nhân nước ngoài được phép sở hữu nhà ở tại Việt Nam thông qua hình thức nào sau đây, theo quy định tại Điều 17 của Luật Nhà ở 2023?",
+    "options": [
+      "A. Mua, thuê mua nhà ở thương mại của chủ đầu tư dự án đầu tư xây dựng nhà ở.",
+      "B. Nhận chuyển nhượng nhà ở riêng lẻ của cá nhân người Việt Nam đã sở hữu 20 năm.",
+      "C. Mua, thuê mua nhà ở xã hội (trừ trường hợp đầu tư xây dựng nhà ở xã hội).",
+      "D. Nhận tặng cho, nhận thừa kế nhà ở là biệt thự liền kề tại khu vực cần bảo đảm quốc phòng, an ninh."
+    ],
+    "correct_answer": "A. Mua, thuê mua nhà ở thương mại của chủ đầu tư dự án đầu tư xây dựng nhà ở."
+  },
+  {
+    "question": "Câu 19: Theo Luật Nhà ở 2023, cá nhân nước ngoài được sở hữu nhà ở tại Việt Nam phải đáp ứng điều kiện nào sau đây?",
+    "options": [
+      "A. Phải có giấy phép lao động còn hiệu lực tại Việt Nam.",
+      "B. Phải được phép nhập cảnh vào Việt Nam và có tài khoản thanh toán tại ngân hàng Việt Nam.",
+      "C. Phải không thuộc trường hợp được hưởng quyền ưu đãi, miễn trừ ngoại giao, lãnh sự theo quy định của pháp luật.",
+      "D. Phải có cam kết sở hữu nhà ở không quá 50 năm."
+    ],
+    "correct_answer": "C. Phải không thuộc trường hợp được hưởng quyền ưu đãi, miễn trừ ngoại giao, lãnh sự theo quy định của pháp luật."
+  },
+  {
+    "question": "Câu 20: Tổ chức, cá nhân nước ngoài (trừ tổ chức đầu tư xây dựng dự án) được sở hữu tối đa bao nhiêu căn nhà ở riêng lẻ (nhà biệt thự, nhà ở liền kề) trên một khu vực có quy mô dân số tương đương một phường?",
+    "options": [
+      "A. Không quá 100 căn nhà.",
+      "B. Không quá 500 căn nhà.",
+      "C. Không quá 30% tổng số lượng căn nhà riêng lẻ trong khu vực đó.",
+      "D. Không quá 250 căn nhà."
+    ],
+    "correct_answer": "D. Không quá 250 căn nhà."
+  },
+  {
+    "question": "Câu 21: Đối tượng nào sau đây được Luật Nhà ở 2023 xác định là được sở hữu nhà ở tại Việt Nam?",
+    "options": [
+      "A. Cá nhân nước ngoài nhập cảnh vào Việt Nam.",
+      "B. Người Việt Nam định cư ở nước ngoài không được phép nhập cảnh vào Việt Nam.",
+      "C. Tổ chức kinh tế có vốn đầu tư nước ngoài, chi nhánh ngân hàng nước ngoài đang hoạt động tại Việt Nam.",
+      "D. Tổ chức nước ngoài hoạt động tại Việt Nam nhưng không có Giấy chứng nhận đầu tư."
+    ],
+    "correct_answer": "A. Cá nhân nước ngoài nhập cảnh vào Việt Nam."
+  },
+  {
+    "question": "Câu 22: Hình thức nào sau đây KHÔNG ĐƯỢC Luật Nhà ở 2023 quy định là hình thức để tổ chức, cá nhân trong nước được sở hữu nhà ở?",
+    "options": [
+      "A. Nhận tặng cho, nhận thừa kế, nhận góp vốn.",
+      "B. Đầu tư xây dựng, mua, thuê mua nhà ở.",
+      "C. Mua nhà ở xã hội trong trường hợp không đúng đối tượng theo quy định của Luật này.",
+      "D. Nhận nhà ở phục vụ tái định cư."
+    ],
+    "correct_answer": "C. Mua nhà ở xã hội trong trường hợp không đúng đối tượng theo quy định của Luật này."
+  },
+  {
+    "question": "Câu 23: Người Việt Nam định cư ở nước ngoài được sở hữu nhà ở gắn với quyền sử dụng đất ở tại Việt Nam theo điều kiện nào?",
+    "options": [
+      "A. Có quốc tịch Việt Nam hoặc có gốc Việt Nam.",
+      "B. Phải có Giấy chứng nhận đầu tư tại Việt Nam.",
+      "C. Được phép nhập cảnh vào Việt Nam và tuân thủ quy định của pháp luật về đất đai.",
+      "D. Phải được cấp Giấy chứng nhận quyền sở hữu nhà ở trước."
+    ],
+    "correct_answer": "C. Được phép nhập cảnh vào Việt Nam và tuân thủ quy định của pháp luật về đất đai."
+  },
+  {
+    "question": "Câu 24: Trường hợp nào sau đây, tổ chức nước ngoài quy định tại Điều 17 (trừ tổ chức đầu tư dự án) phải có Giấy chứng nhận đầu tư để được sở hữu nhà ở tại Việt Nam?",
+    "options": [
+      "A. Tổ chức nước ngoài nhận chuyển nhượng lại nhà ở từ cá nhân nước ngoài đã sở hữu.",
+      "B. Chi nhánh, văn phòng đại diện của doanh nghiệp nước ngoài hoạt động tại Việt Nam.",
+      "C. Cá nhân nước ngoài được phép nhập cảnh vào Việt Nam.",
+      "D. Quỹ đầu tư nước ngoài đang hoạt động tại Việt Nam."
+    ],
+    "correct_answer": "D. Quỹ đầu tư nước ngoài đang hoạt động tại Việt Nam."
+  },
+  {
+    "question": "Câu 25: Chủ đầu tư dự án Nhà Ở Xã Hội (NƠXH) hình thành trong tương lai khi bán nhà có bắt buộc phải thực hiện nghĩa vụ bảo lãnh nhà ở hình thành trong tương lai không?",
+    "options": [
+      "A. Bắt buộc phải thực hiện nghĩa vụ bảo lãnh nếu thu tiền ứng trước của khách hàng.",
+      "B. Bắt buộc phải thông qua sàn giao dịch bất động sản để bán.",
+      "C. Chỉ cần bảo lãnh nếu dự án có quy mô từ 500 căn trở lên.",
+      "D. Không phải thực hiện nghĩa vụ bảo lãnh nhà ở hình thành trong tương lai."
+    ],
+    "correct_answer": "D. Không phải thực hiện nghĩa vụ bảo lãnh nhà ở hình thành trong tương lai."
+  },
+  {
+    "question": "Câu 26: Điều kiện nào sau đây là bắt buộc đối với việc bán, cho thuê mua NƠXH hình thành trong tương lai?",
+    "options": [
+      "A. Toàn bộ dự án phải hoàn thành việc xây dựng công trình trên đất.",
+      "B. Phải có xác nhận hoàn thành công tác phòng cháy, chữa cháy.",
+      "C. Đã có giấy phép xây dựng và hoàn thành việc xây dựng phần móng của nhà ở.",
+      "D. Phải hoàn thành việc xây dựng phần thân và mái của nhà ở."
+    ],
+    "correct_answer": "C. Đã có giấy phép xây dựng và hoàn thành việc xây dựng phần móng của nhà ở."
+  },
+  {
+    "question": "Câu 27: Tổng số tiền ứng trước mà bên mua NƠXH hình thành trong tương lai được thanh toán đến trước khi bàn giao nhà ở cho người mua không được vượt quá bao nhiêu phần trăm (%) giá trị hợp đồng?",
+    "options": [
+      "A. Không được vượt quá 95% giá trị hợp đồng.",
+      "B. Không được vượt quá 70% giá trị hợp đồng.",
+      "C. Không được vượt quá 50% giá trị hợp đồng.",
+      "D. Không được vượt quá 30% giá trị hợp đồng (bao gồm cả tiền đặt cọc)."
+    ],
+    "correct_answer": "B. Không được vượt quá 70% giá trị hợp đồng."
+  },
+  {
+    "question": "Câu 28: Thời hạn tối thiểu mà bên mua NƠXH không được bán lại nhà ở, kể từ ngày thanh toán đủ tiền mua nhà ở, là bao lâu?",
+    "options": [
+      "A. 03 năm, trừ trường hợp bán lại cho chủ đầu tư.",
+      "B. 05 năm, trừ trường hợp bán lại cho chủ đầu tư hoặc đối tượng được mua NƠXH.",
+      "C. 10 năm, kể từ ngày nghiệm thu đưa vào sử dụng.",
+      "D. 07 năm, kể từ ngày được cấp Giấy chứng nhận."
+    ],
+    "correct_answer": "B. 05 năm, trừ trường hợp bán lại cho chủ đầu tư hoặc đối tượng được mua NƠXH."
+  },
+  {
+    "question": "Câu 29: Trường hợp bên mua NƠXH đã thanh toán đủ tiền mua nhà ở, sau 05 năm có nhu cầu bán lại nhà ở này theo cơ chế thị trường, bên bán phải thực hiện nghĩa vụ tài chính nào?",
+    "options": [
+      "A. Phải nộp tiền sử dụng đất và thuế thu nhập cá nhân.",
+      "B. Không phải nộp tiền sử dụng đất và phải nộp thuế thu nhập cá nhân theo quy định của pháp luật về thuế, trừ trường hợp là nhà ở riêng lẻ.",
+      "C. Phải nộp tiền sử dụng đất theo quy định của Chính phủ và không phải nộp thuế thu nhập.",
+      "D. Phải nộp thuế giá trị gia tăng và thuế thu nhập cá nhân."
+    ],
+    "correct_answer": "B. Không phải nộp tiền sử dụng đất và phải nộp thuế thu nhập cá nhân theo quy định của pháp luật về thuế, trừ trường hợp là nhà ở riêng lẻ."
+  },
+  {
+    "question": "Câu 30: Đối với nhà ở xã hội cho thuê, chủ đầu tư dự án đầu tư xây dựng nhà ở xã hội được bán nhà ở này theo cơ chế thị trường sau bao lâu kể từ ngày nghiệm thu đưa vào sử dụng?",
+    "options": [
+      "A. Sau 05 năm kể từ ngày ký hợp đồng thuê mua.",
+      "B. Sau 05 năm kể từ ngày thanh toán đủ tiền mua nhà ở.",
+      "C. Sau 10 năm kể từ ngày nghiệm thu đưa vào sử dụng.",
+      "D. Sau 15 năm kể từ ngày có quyết định chấp thuận chủ trương đầu tư."
+    ],
+    "correct_answer": "C. Sau 10 năm kể từ ngày nghiệm thu đưa vào sử dụng."
+  },
+  {
+    "question": "Câu 31: Trường hợp hợp đồng mua bán NƠXH bị vô hiệu do vi phạm về đối tượng hoặc điều kiện, cơ quan nào có trách nhiệm tổ chức cưỡng chế để thu hồi lại nhà ở nếu bên mua không bàn giao?",
+    "options": [
+      "A. Bộ Xây dựng.",
+      "B. Chủ đầu tư dự án đầu tư xây dựng nhà ở xã hội.",
+      "C. Ủy ban nhân dân cấp tỉnh nơi có nhà ở.",
+      "D. Cơ quan quản lý nhà ở cấp tỉnh."
+    ],
+    "correct_answer": "C. Ủy ban nhân dân cấp tỉnh nơi có nhà ở."
+  },
+  {
+    "question": "Câu 32: Chủ đầu tư dự án NƠXH chỉ được ký hợp đồng đặt cọc và thu tiền đặt cọc thuê NƠXH hình thành trong tương lai tối đa bằng bao nhiêu tiền thuê nhà tạm tính?",
+    "options": [
+      "A. Tối đa bằng 06 tháng tiền thuê nhà tạm tính.",
+      "B. Tối đa bằng 03 tháng tiền thuê nhà tạm tính.",
+      "C. Tối đa bằng 09 tháng tiền thuê nhà tạm tính.",
+      "D. Tối đa bằng 12 tháng tiền thuê nhà tạm tính."
+    ],
+    "correct_answer": "D. Tối đa bằng 12 tháng tiền thuê nhà tạm tính."
+  },
+  {
+    "question": "Câu 33: Theo Luật Đất đai 2024, Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất là gì?",
+    "options": [
+      "A. Là văn bản của cơ quan có thẩm quyền cho phép người sử dụng đất thực hiện các quyền chuyển nhượng, tặng cho.",
+      "B. Là văn bản hành chính do Ủy ban nhân dân cấp tỉnh ban hành để quản lý đất đai.",
+      "C. Là tài liệu ghi nhận sự thỏa thuận về quyền sử dụng đất giữa Nhà nước và người sử dụng đất.",
+      "D. Là chứng thư pháp lý để Nhà nước xác nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất hợp pháp của người có quyền."
+    ],
+    "correct_answer": "D. Là chứng thư pháp lý để Nhà nước xác nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất hợp pháp của người có quyền."
+  },
+  {
+    "question": "Câu 34: Theo nguyên tắc cấp GCN, trường hợp nào GCN chỉ được cấp sau khi người sử dụng đất, chủ sở hữu tài sản gắn liền với đất hoàn thành nghĩa vụ tài chính?",
+    "options": [
+      "A. Trường hợp người sử dụng đất thuê đất trả tiền thuê đất hằng năm.",
+      "B. Trường hợp người sử dụng đất được miễn, được ghi nợ nghĩa vụ tài chính.",
+      "C. Trường hợp người sử dụng đất, chủ sở hữu tài sản gắn liền với đất thuộc đối tượng phải thực hiện nghĩa vụ tài chính.",
+      "D. Trường hợp người sử dụng đất tặng cho quyền sử dụng đất cho cộng đồng dân cư."
+    ],
+    "correct_answer": "C. Trường hợp người sử dụng đất, chủ sở hữu tài sản gắn liền với đất thuộc đối tượng phải thực hiện nghĩa vụ tài chính."
+  },
+  {
+    "question": "Câu 35: Thẩm quyền cấp GCN lần đầu cho tổ chức trong nước thuộc về cơ quan nào theo Luật Đất đai 2024?",
+    "options": [
+      "A. Tổ chức đăng ký đất đai cùng cấp.",
+      "B. Ủy ban nhân dân cấp tỉnh.",
+      "C. Ủy ban nhân dân cấp huyện.",
+      "D. Bộ Tài nguyên và Môi trường."
+    ],
+    "correct_answer": "B. Ủy ban nhân dân cấp tỉnh."
+  },
+  {
+    "question": "Câu 36: Trường hợp thửa đất là tài sản chung của vợ và chồng, nguyên tắc ghi tên trên GCN được quy định như thế nào?",
+    "options": [
+      "A. Bắt buộc phải ghi tên người chồng (hoặc người vợ) làm đại diện.",
+      "B. Ghi tên một người đại diện cho hộ gia đình.",
+      "C. Phải ghi cả họ, tên vợ và họ, tên chồng, trừ trường hợp vợ và chồng có thỏa thuận ghi tên một người.",
+      "D. Chỉ ghi tên người đứng tên trong hồ sơ giao đất, cho thuê đất ban đầu."
+    ],
+    "correct_answer": "C. Phải ghi cả họ, tên vợ và họ, tên chồng, trừ trường hợp vợ và chồng có thỏa thuận ghi tên một người."
+  },
+  {
+    "question": "Câu 37: Theo Luật Đất đai 2024, quyền chung của người sử dụng đất bao gồm quyền nào sau đây?",
+    "options": [
+      "A. Quyền chuyển đổi, chuyển nhượng quyền sử dụng đất (trừ các trường hợp hạn chế theo luật).",
+      "B. Quyền thế chấp, góp vốn bằng quyền sử dụng đất.",
+      "C. Quyền được bồi thường khi Nhà nước thu hồi đất.",
+      "D. Tất cả các quyền quy định tại Điều 27 (chuyển đổi, chuyển nhượng, cho thuê, thừa kế, tặng cho...), Điều 28, Điều 29 và Điều 30 (quyền lựa chọn hình thức trả tiền thuê đất)."
+    ],
+    "correct_answer": "A. Quyền chuyển đổi, chuyển nhượng quyền sử dụng đất (trừ các trường hợp hạn chế theo luật)."
+  },
+  {
+    "question": "Câu 38: Nghĩa vụ chung của người sử dụng đất là gì?",
+    "options": [
+      "A. Đảm bảo sử dụng đất đúng mục đích và hiệu quả.",
+      "B. Sử dụng đất đúng mục đích, ranh giới, an toàn; thực hiện đăng ký đất đai; thực hiện nghĩa vụ tài chính và bảo vệ đất.",
+      "C. Cải tạo đất, tăng độ màu mỡ của đất.",
+      "D. Hỗ trợ, hợp tác với cơ quan nhà nước trong việc thu hồi đất."
+    ],
+    "correct_answer": "B. Sử dụng đất đúng mục đích, ranh giới, an toàn; thực hiện đăng ký đất đai; thực hiện nghĩa vụ tài chính và bảo vệ đất."
+  },
+  {
+    "question": "Câu 39: Điều kiện nào là bắt buộc để người sử dụng đất thực hiện quyền chuyển nhượng quyền sử dụng đất?",
+    "options": [
+      "A. Đất không có tranh chấp và có nhu cầu chuyển nhượng.",
+      "B. Có Giấy chứng nhận quyền sử dụng đất, trừ trường hợp quy định tại khoản 2 Điều 137 của Luật này.",
+      "C. Đất không nằm trong khu vực có quy hoạch treo.",
+      "D. Đất đang trong thời hạn sử dụng và đã được cấp phép xây dựng."
+    ],
+    "correct_answer": "B. Có Giấy chứng nhận quyền sử dụng đất, trừ trường hợp quy định tại khoản 2 Điều 137 của Luật này."
+  },
+  {
+    "question": "Câu 40: Theo Luật Đất đai 2024, tổ chức kinh tế được Nhà nước giao đất có thu tiền sử dụng đất được thực hiện quyền nào sau đây?",
+    "options": [
+      "A. Bán tài sản gắn liền với đất trong thời gian thuê đất trả tiền hằng năm.",
+      "B. Cho thuê lại quyền sử dụng đất dưới hình thức trả tiền thuê đất một lần cho cả thời gian thuê.",
+      "C. Thế chấp bằng quyền sử dụng đất tại các tổ chức tín dụng nước ngoài không hoạt động tại Việt Nam.",
+      "D. Chuyển nhượng quyền sử dụng đất, tài sản gắn liền với đất thuộc sở hữu của mình."
+    ],
+    "correct_answer": "D. Chuyển nhượng quyền sử dụng đất, tài sản gắn liền với đất thuộc sở hữu của mình."
+  },
+  {
+    "question": "Câu 41: Căn cứ để giao đất, cho thuê đất thông qua đấu giá quyền sử dụng đất là gì?",
+    "options": [
+      "A. Quy hoạch sử dụng đất cấp tỉnh đã được phê duyệt.",
+      "B. Văn bản phê duyệt dự án đầu tư của cơ quan có thẩm quyền.",
+      "C. Văn bản phê duyệt kết quả trúng đấu giá quyền sử dụng đất của cơ quan nhà nước có thẩm quyền.",
+      "D. Quyết định đầu tư theo quy định của pháp luật về đầu tư công."
+    ],
+    "correct_answer": "C. Văn bản phê duyệt kết quả trúng đấu giá quyền sử dụng đất của cơ quan nhà nước có thẩm quyền."
+  },
+  {
+    "question": "Câu 42: Thẩm quyền quyết định giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất đối với cá nhân thuộc về cơ quan nào?",
+    "options": [
+      "A. Ủy ban nhân dân cấp tỉnh.",
+      "B. Ủy ban nhân dân cấp xã.",
+      "C. Ủy ban nhân dân cấp huyện.",
+      "D. Tổ chức đăng ký đất đai."
+    ],
+    "correct_answer": "C. Ủy ban nhân dân cấp huyện."
+  },
+  {
+    "question": "Câu 43: Cơ quan nào có thẩm quyền cho thuê đất thuộc quỹ đất nông nghiệp sử dụng vào mục đích công ích của xã, phường, thị trấn?",
+    "options": [
+      "A. Ủy ban nhân dân cấp huyện.",
+      "B. Cơ quan quản lý đất đai cấp huyện.",
+      "C. Ủy ban nhân dân cấp xã.",
+      "D. Ủy ban nhân dân cấp tỉnh."
+    ],
+    "correct_answer": "C. Ủy ban nhân dân cấp xã."
+  },
+  {
+    "question": "Câu 44: Đối với dự án thuộc danh mục cần thu hồi đất do Thủ tướng Chính phủ chấp thuận chủ trương đầu tư, căn cứ để giao đất, cho thuê đất KHÔNG thông qua đấu giá/đấu thầu là gì?",
+    "options": [
+      "A. Quyết định chấp thuận chủ trương đầu tư của Thủ tướng Chính phủ.",
+      "B. Văn bản chấp thuận chủ trương đầu tư đồng thời với chấp thuận nhà đầu tư.",
+      "C. Kế hoạch sử dụng đất hằng năm cấp huyện đã được phê duyệt và quyết định/chấp thuận đầu tư.",
+      "D. Quy hoạch chi tiết đã được phê duyệt và quyết định đầu tư công."
+    ],
+    "correct_answer": "C. Kế hoạch sử dụng đất hằng năm cấp huyện đã được phê duyệt và quyết định/chấp thuận đầu tư."
+  },
+  {
+    "question": "Câu 45: Định nghĩa \"Tiền sử dụng đất\" theo Luật Đất đai 2024 là gì?",
+    "options": [
+      "A. Số tiền mà người sử dụng đất phải trả cho Nhà nước khi được Nhà nước cho thuê đất.",
+      "B. Khoản tiền bồi thường cho Nhà nước khi sử dụng đất không đúng mục đích.",
+      "C. Số tiền mà người sử dụng đất phải trả cho Nhà nước khi được Nhà nước giao đất có thu tiền sử dụng đất hoặc cho phép chuyển mục đích sử dụng đất.",
+      "D. Số tiền mà người sử dụng đất phải trả cho Nhà nước khi được Nhà nước giao đất có thu tiền sử dụng đất, cho phép chuyển mục đích sử dụng đất hoặc các trường hợp sử dụng đất mà phải nộp tiền sử dụng đất theo quy định của pháp luật."
+    ],
+    "correct_answer": "D. Số tiền mà người sử dụng đất phải trả cho Nhà nước khi được Nhà nước giao đất có thu tiền sử dụng đất, cho phép chuyển mục đích sử dụng đất hoặc các trường hợp sử dụng đất mà phải nộp tiền sử dụng đất theo quy định của pháp luật."
+  },
+  {
+    "question": "Câu 46: Thẩm quyền quyết định giao đất, cho thuê đất đối với người gốc Việt Nam định cư ở nước ngoài, tổ chức kinh tế có vốn đầu tư nước ngoài thuộc về cơ quan nào?",
+    "options": [
+      "A. Bộ Tài nguyên và Môi trường.",
+      "B. Ủy ban nhân dân cấp tỉnh.",
+      "C. Ban Quản lý các khu công nghiệp.",
+      "D. Ủy ban nhân dân cấp huyện (sau khi có văn bản chấp thuận của cấp tỉnh)."
+    ],
+    "correct_answer": "B. Ủy ban nhân dân cấp tỉnh."
+  },
+  {
+    "question": "Câu 47: Thẩm quyền cấp GCN lần đầu đối với cá nhân thuộc về cơ quan nào theo Luật Đất đai 2024?",
+    "options": [
+      "A. Cơ quan quản lý đất đai cấp tỉnh.",
+      "B. Ủy ban nhân dân cấp huyện.",
+      "C. Tổ chức đăng ký đất đai cấp tỉnh.",
+      "D. Ủy ban nhân dân cấp xã."
+    ],
+    "correct_answer": "B. Ủy ban nhân dân cấp huyện."
+  },
+  {
+    "question": "Câu 48: Theo Luật Đất đai 2024, cơ quan nhà nước có thẩm quyền giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất có được phân cấp, ủy quyền cho cơ quan khác thực hiện không?",
+    "options": [
+      "A. Có, được ủy quyền cho cơ quan có chức năng quản lý đất đai cùng cấp.",
+      "B. Có, được phân cấp cho cấp dưới trực tiếp.",
+      "C. Có, được phân cấp, ủy quyền theo quy định của Chính phủ.",
+      "D. Không được phân cấp, không được ủy quyền."
+    ],
+    "correct_answer": "D. Không được phân cấp, không được ủy quyền."
+  },
+  {
+    "question": "Câu 49: Theo Luật Kinh doanh Bất động sản 2023, Dự án bất động sản là dự án đầu tư xây dựng công trình để kinh doanh những loại tài sản nào sau đây?",
+    "options": [
+      "A. Nhà ở, công trình xây dựng, máy móc thiết bị có giá trị cao.",
+      "B. Nhà ở, công trình xây dựng, tài sản công trình gắn liền với đất.",
+      "C. Nhà ở, công trình xây dựng, quyền sử dụng đất đã có hạ tầng kỹ thuật.",
+      "D. Nhà ở, công trình xây dựng, khu đất chưa có hạ tầng kỹ thuật."
+    ],
+    "correct_answer": "C. Nhà ở, công trình xây dựng, quyền sử dụng đất đã có hạ tầng kỹ thuật."
+  },
+  {
+    "question": "Câu 50: Theo Luật Kinh doanh Bất động sản 2023, một dự án bất động sản phải đáp ứng yêu cầu nào về quy hoạch?",
+    "options": [
+      "A. Phải phù hợp với quy hoạch chi tiết 1/500 đã được phê duyệt.",
+      "B. Phải phù hợp với quy hoạch, kế hoạch sử dụng đất và quy hoạch được phê duyệt theo quy định của pháp luật về xây dựng, pháp luật về quy hoạch đô thị.",
+      "C. Phải phù hợp với quy hoạch tỉnh và quy hoạch chung của khu vực.",
+      "D. Chỉ cần phù hợp với quy hoạch sử dụng đất cấp huyện."
+    ],
+    "correct_answer": "B. Phải phù hợp với quy hoạch, kế hoạch sử dụng đất và quy hoạch được phê duyệt theo quy định của pháp luật về xây dựng, pháp luật về quy hoạch đô thị."
+  },
+  {
+    "question": "Câu 51: Dự án bất động sản phải được đầu tư xây dựng theo các tiêu chí nào sau đây, ngoại trừ:",
+    "options": [
+      "A. Tiến độ được cơ quan nhà nước có thẩm quyền chấp thuận.",
+      "B. Quy hoạch và thiết kế đã được phê duyệt.",
+      "C. Trong thời hạn thực hiện dự án đầu tư được chấp thuận.",
+      "D. Phải tuân thủ quy chế quản lý của khu dân cư hiện hữu."
+    ],
+    "correct_answer": "D. Phải tuân thủ quy chế quản lý của khu dân cư hiện hữu."
+  },
+  {
+    "question": "Câu 52: Trình tự, thủ tục đầu tư xây dựng dự án bất động sản phải thực hiện theo quy định của các pháp luật nào?",
+    "options": [
+      "A. Pháp luật về đầu tư, đất đai, kinh doanh bất động sản và thuế.",
+      "B. Pháp luật về quy hoạch, xây dựng, nhà ở và đầu tư.",
+      "C. Pháp luật về đấu thầu, xây dựng, đất đai và nhà ở.",
+      "D. Pháp luật về quy hoạch, đầu tư, đất đai, xây dựng, nhà ở và pháp luật có liên quan."
+    ],
+    "correct_answer": "D. Pháp luật về quy hoạch, đầu tư, đất đai, xây dựng, nhà ở và pháp luật có liên quan."
+  },
+  {
+    "question": "Câu 53: Dự án đầu tư xây dựng khu đô thị được xác định là loại hình nào theo Luật Kinh doanh Bất động sản 2023?",
+    "options": [
+      "A. Dự án đầu tư xây dựng công trình hạ tầng kỹ thuật.",
+      "B. Dự án bất động sản.",
+      "C. Dự án đầu tư xây dựng khu dân cư nông thôn.",
+      "D. Dự án đầu tư xây dựng nhà ở."
+    ],
+    "correct_answer": "B. Dự án bất động sản."
+  },
+  {
+    "question": "Câu 54: Một dự án đầu tư xây dựng công trình có công năng phục vụ mục đích văn phòng, thương mại, dịch vụ được gọi là gì theo Luật Kinh doanh Bất động sản 2023?",
+    "options": [
+      "A. Dự án đầu tư xây dựng công trình hỗn hợp.",
+      "B. Dự án bất động sản.",
+      "C. Dự án đầu tư xây dựng khu công nghiệp.",
+      "D. Dự án đầu tư xây dựng công trình hạ tầng kỹ thuật."
+    ],
+    "correct_answer": "B. Dự án bất động sản."
+  },
+  {
+    "question": "Câu 55: Dự án đầu tư xây dựng kết cấu hạ tầng khu công nghiệp có được coi là Dự án bất động sản theo định nghĩa tại Luật Kinh doanh Bất động sản 2023 không?",
+    "options": [
+      "A. Không, vì đây là dự án hạ tầng, không phải dự án kinh doanh nhà ở.",
+      "B. Không, trừ khi có kèm theo khu nhà ở cho công nhân.",
+      "C. Có, vì đây là một trong các loại hình được liệt kê rõ trong định nghĩa.",
+      "D. Có, nhưng chỉ khi đó là dự án đầu tư xây dựng khu công nghệ cao."
+    ],
+    "correct_answer": "C. Có, vì đây là một trong các loại hình được liệt kê rõ trong định nghĩa."
+  },
+  {
+    "question": "Câu 56: Đối với dự án đầu tư xây dựng nhà ở, ngoài các yêu cầu chung đối với dự án bất động sản, còn phải đáp ứng yêu cầu nào khác?",
+    "options": [
+      "A. Phải có Giấy chứng nhận quyền sử dụng đất của toàn bộ dự án.",
+      "B. Phải được Bộ Xây dựng phê duyệt thiết kế cơ sở.",
+      "C. Phải đáp ứng các yêu cầu theo quy định của pháp luật về nhà ở.",
+      "D. Phải được thực hiện theo hình thức thuê đất trả tiền một lần."
+    ],
+    "correct_answer": "C. Phải đáp ứng các yêu cầu theo quy định của pháp luật về nhà ở."
+  },
+  {
+    "question": "Câu 57: Theo Luật Kinh doanh Bất động sản 2023, dự án bất động sản phải được đầu tư xây dựng theo các yêu cầu nào sau đây?",
+    "options": [
+      "A. Tuân thủ giấy phép xây dựng và phù hợp với tiến độ thi công do chủ đầu tư tự quyết định.",
+      "B. Phù hợp với quy hoạch chi tiết 1/500 và có quyết định phê duyệt của Bộ Xây dựng.",
+      "C. Theo tiến độ, quy hoạch, thiết kế và trong thời hạn thực hiện dự án đầu tư được cơ quan nhà nước có thẩm quyền chấp thuận.",
+      "D. Phải hoàn thành toàn bộ công trình hạ tầng kỹ thuật trước khi kinh doanh bất kỳ sản phẩm nào của dự án."
+    ],
+    "correct_answer": "C. Theo tiến độ, quy hoạch, thiết kế và trong thời hạn thực hiện dự án đầu tư được cơ quan nhà nước có thẩm quyền chấp thuận."
+  },
+  {
+    "question": "Câu 58: Chủ thể nào có vai trò chấp thuận chủ trương đầu tư và cấp phép xây dựng cho dự án bất động sản?",
+    "options": [
+      "A. Chủ đầu tư dự án.",
+      "B. Cơ quan có thẩm quyền.",
+      "C. Nhà hỗ trợ tài chính.",
+      "D. Nhà thầu xây dựng."
+    ],
+    "correct_answer": "B. Cơ quan có thẩm quyền."
+  },
+  {
+    "question": "Câu 59: Việc dự án bất động sản phải tuân thủ giấy phép xây dựng được quy định ở khoản nào trong Điều 11 Luật Kinh doanh Bất động sản 2023?",
+    "options": [
+      "A. Khoản quy định dự án phải phù hợp với quy hoạch, kế hoạch sử dụng đất.",
+      "B. Khoản quy định dự án phải phù hợp với quy hoạch được phê duyệt theo pháp luật về xây dựng.",
+      "C. Khoản quy định trình tự, thủ tục đầu tư xây dựng dự án bất động sản thực hiện theo pháp luật về đầu tư, đất đai, xây dựng.",
+      "D. Khoản quy định về việc tuân thủ giấy phép xây dựng đối với trường hợp phải cấp giấy phép xây dựng."
+    ],
+    "correct_answer": "D. Khoản quy định về việc tuân thủ giấy phép xây dựng đối với trường hợp phải cấp giấy phép xây dựng."
+  },
+  {
+    "question": "Câu 60: Đối với dự án đầu tư xây dựng nhà ở, ngoài việc đáp ứng các yêu cầu chung của dự án bất động sản quy định tại Khoản 1 đến Khoản 5 Điều 11 Luật Kinh doanh Bất động sản 2023, còn phải đáp ứng thêm yêu cầu nào?",
+    "options": [
+      "A. Phải có văn bản xác nhận hoàn thành 100% nghĩa vụ tài chính về đất đai của dự án.",
+      "B. Phải được Bộ Xây dựng phê duyệt thiết kế cơ sở và thiết kế kỹ thuật.",
+      "C. Phải đáp ứng các yêu cầu theo quy định của pháp luật về nhà ở.",
+      "D. Phải có văn bản bảo lãnh của ngân hàng thương mại cho toàn bộ căn nhà ở được hình thành."
+    ],
+    "correct_answer": "C. Phải đáp ứng các yêu cầu theo quy định của pháp luật về nhà ở."
+  },
+  {
+    "question": "Câu 61: Giả sử một nhà đầu tư đang thực hiện dự án đầu tư xây dựng nhà ở để kinh doanh. Ngoài việc tuân thủ các quy định chung về quy hoạch, tiến độ, thiết kế và giấy phép xây dựng, nhà đầu tư phải đặc biệt chú ý đến yêu cầu pháp lý nào sau đây, bởi nó có thể làm vô hiệu toàn bộ giao dịch mua bán nhà ở nếu vi phạm?",
+    "options": [
+      "A. Dự án phải hoàn thành nghĩa vụ tài chính về đất đai trước khi ký hợp đồng chuyển nhượng cho thuê mua nhà ở.",
+      "B. Dự án phải phù hợp với quy hoạch đô thị đã được phê duyệt và được Bộ Xây dựng kiểm tra chất lượng công trình.",
+      "C. Trình tự, thủ tục đầu tư xây dựng dự án phải thực hiện theo pháp luật về quy hoạch, đầu tư, đất đai, xây dựng và pháp luật có liên quan.",
+      "D. Ngoài việc đáp ứng các yêu cầu chung, dự án còn phải đáp ứng các yêu cầu theo quy định của pháp luật về nhà ở."
+    ],
+    "correct_answer": "D. Ngoài việc đáp ứng các yêu cầu chung, dự án còn phải đáp ứng các yêu cầu theo quy định của pháp luật về nhà ở."
+  },
+  {
+    "question": "Câu 62: Dự án đầu tư xây dựng kết cấu hạ tầng khu công nghệ cao được phân loại vào nhóm nào trong định nghĩa Dự án bất động sản?",
+    "options": [
+      "A. Dự án xây dựng khu dân cư nông thôn.",
+      "B. Dự án xây dựng nhà ở.",
+      "C. Dự án đầu tư xây dựng kết cấu hạ tầng.",
+      "D. Dự án công trình hỗn hợp."
+    ],
+    "correct_answer": "C. Dự án đầu tư xây dựng kết cấu hạ tầng."
+  },
+  {
+    "question": "Câu 63: Dự án bất động sản phải được đầu tư xây dựng trong thời hạn nào?",
+    "options": [
+      "A. Trong thời hạn 05 năm kể từ ngày được giao đất.",
+      "B. Trong thời hạn do chủ đầu tư tự xác định và cam kết.",
+      "C. Trong thời hạn thực hiện dự án đầu tư được cơ quan nhà nước có thẩm quyền chấp thuận.",
+      "D. Trong thời hạn tối đa 02 năm kể từ ngày khởi công."
+    ],
+    "correct_answer": "C. Trong thời hạn thực hiện dự án đầu tư được cơ quan nhà nước có thẩm quyền chấp thuận."
+  },
+  {
+    "question": "Câu 64: Ngoài quy hoạch, kế hoạch sử dụng đất, dự án bất động sản còn phải phù hợp với quy hoạch nào?",
+    "options": [
+      "A. Quy hoạch tài nguyên nước.",
+      "B. Quy hoạch giao thông.",
+      "C. Quy hoạch được phê duyệt theo pháp luật về xây dựng, pháp luật về quy hoạch đô thị.",
+      "D. Quy hoạch du lịch, dịch vụ."
+    ],
+    "correct_answer": "C. Quy hoạch được phê duyệt theo pháp luật về xây dựng, pháp luật về quy hoạch đô thị."
+  },
+  {
+    "question": "Câu 65: Năng lực pháp luật dân sự của pháp nhân chấm dứt kể từ thời điểm nào?",
+    "options": [
+      "A. Kể từ thời điểm pháp nhân hoàn thành thủ tục giải thể và thanh toán hết các khoản nợ.",
+      "B. Kể từ thời điểm cơ quan có thẩm quyền ra quyết định chấm dứt hoạt động của pháp nhân đó.",
+      "C. Kể từ thời điểm pháp nhân bị Tòa án tuyên bố phá sản hoặc bị giải thể theo quy định.",
+      "D. Kể từ thời điểm chấm dứt pháp nhân."
+    ],
+    "correct_answer": "D. Kể từ thời điểm chấm dứt pháp nhân."
+  },
+  {
+    "question": "Câu 66: Nhận định nào sau đây là ĐÚNG về quốc tịch của pháp nhân theo quy định của Bộ luật Dân sự 2015?",
+    "options": [
+      "A. Quốc tịch của pháp nhân được xác định dựa trên tỷ lệ vốn góp của các nhà đầu tư nước ngoài.",
+      "B. Pháp nhân được thành lập theo pháp luật Việt Nam vẫn có thể mang quốc tịch khác nếu trụ sở chính đặt ở nước ngoài.",
+      "C. Mọi pháp nhân được thành lập theo pháp luật Việt Nam đều là Pháp nhân Việt Nam.",
+      "D. Quốc tịch của pháp nhân được ưu tiên xác định theo quốc tịch của người đại diện theo pháp luật."
+    ],
+    "correct_answer": "C. Mọi pháp nhân được thành lập theo pháp luật Việt Nam đều là Pháp nhân Việt Nam."
+  },
+  {
+    "question": "Câu 67: Theo Bộ luật Dân sự 2015, năng lực pháp luật dân sự của pháp nhân phát sinh từ thời điểm nào?",
+    "options": [
+      "A. Từ thời điểm pháp nhân hoàn thành việc đăng ký kinh doanh tại cơ quan có thẩm quyền.",
+      "B. Từ thời điểm người đại diện pháp luật ký quyết định thành lập.",
+      "C. Từ thời điểm được cơ quan nhà nước có thẩm quyền thành lập hoặc cho phép thành lập.",
+      "D. Từ thời điểm được cơ quan nhà nước có thẩm quyền thành lập hoặc cho phép thành lập; nếu pháp nhân phải đăng ký hoạt động thì phát sinh từ thời điểm ghi vào sổ đăng ký."
+    ],
+    "correct_answer": "D. Từ thời điểm được cơ quan nhà nước có thẩm quyền thành lập hoặc cho phép thành lập; nếu pháp nhân phải đăng ký hoạt động thì phát sinh từ thời điểm ghi vào sổ đăng ký."
+  },
+  {
+    "question": "Câu 68: Tài sản của pháp nhân bao gồm những gì?",
+    "options": [
+      "A. Chỉ bao gồm vốn góp của chủ sở hữu, sáng lập viên, thành viên của pháp nhân",
+      "B. Chỉ bao gồm tài sản mà pháp nhân được xác lập quyền sở hữu theo quy định của pháp luật",
+      "C. Tài sản độc lập của cá nhân người đại diện pháp luật và tài sản pháp nhân trực tiếp quản lý.",
+      "D. Vốn góp của chủ sở hữu, sáng lập viên, thành viên của pháp nhân và tài sản khác mà pháp nhân được xác lập quyền sở hữu theo quy định của pháp luật"
+    ],
+    "correct_answer": "D. Vốn góp của chủ sở hữu, sáng lập viên, thành viên của pháp nhân và tài sản khác mà pháp nhân được xác lập quyền sở hữu theo quy định của pháp luật"
+  },
+  {
+    "question": "Câu 69: Cơ cấu tổ chức của pháp nhân bắt buộc phải có cơ quan nào?",
+    "options": [
+      "A. Cơ quan kiểm soát hoặc Ban kiểm soát.",
+      "B. Hội đồng thành viên hoặc Đại hội đồng cổ đông.",
+      "C. Chi nhánh, văn phòng đại diện.",
+      "D. Cơ quan điều hành."
+    ],
+    "correct_answer": "D. Cơ quan điều hành."
+  },
+  {
+    "question": "Câu 70: Giao dịch dân sự được định nghĩa là gì?",
+    "options": [
+      "A. Là sự thỏa thuận bằng văn bản giữa các bên về việc xác lập, thay đổi hoặc chấm dứt quyền, nghĩa vụ dân sự.",
+      "B. Là hợp đồng hoặc hành vi pháp lý đơn phương làm phát sinh, thay đổi hoặc chấm dứt quyền, nghĩa vụ dân sự.",
+      "C. Là hành vi tự nguyện của cá nhân hoặc pháp nhân tham gia vào quan hệ pháp luật dân sự.",
+      "D. Là sự thỏa thuận về việc chuyển nhượng quyền sở hữu tài sản."
+    ],
+    "correct_answer": "B. Là hợp đồng hoặc hành vi pháp lý đơn phương làm phát sinh, thay đổi hoặc chấm dứt quyền, nghĩa vụ dân sự."
+  },
+  {
+    "question": "Câu 71: Điều kiện nào sau đây là không bắt buộc để giao dịch dân sự có hiệu lực?",
+    "options": [
+      "A. Chủ thể có năng lực pháp luật dân sự, năng lực hành vi dân sự phù hợp.",
+      "B. Chủ thể tham gia giao dịch dân sự hoàn toàn tự nguyện.",
+      "C. Mục đích và nội dung của giao dịch không vi phạm điều cấm của luật, không trái đạo đức xã hội.",
+      "D. Giao dịch dân sự phải được lập thành văn bản có công chứng, chứng thực."
+    ],
+    "correct_answer": "D. Giao dịch dân sự phải được lập thành văn bản có công chứng, chứng thực."
+  },
+  {
+    "question": "Câu 72: Theo Bộ luật Dân sự 2015, hợp đồng vô hiệu do không tuân thủ quy định về hình thức có thời hiệu yêu cầu Tòa án tuyên bố vô hiệu là bao lâu?",
+    "options": [
+      "A. Thời hiệu yêu cầu Tòa án tuyên bố vô hiệu không bị hạn chế (áp dụng đối với hợp đồng liên quan đến đất đai).",
+      "B. 02 năm, kể từ ngày giao dịch dân sự được xác lập trong trường hợp không tuân thủ quy định về hình thức.",
+      "C. 03 năm, kể từ ngày người có quyền yêu cầu biết hoặc phải biết quyền và lợi ích hợp pháp của mình bị xâm phạm.",
+      "D. 01 năm, kể từ ngày cơ quan có thẩm quyền phát hiện vi phạm."
+    ],
+    "correct_answer": "B. 02 năm, kể từ ngày giao dịch dân sự được xác lập trong trường hợp không tuân thủ quy định về hình thức."
+  },
+  {
+    "question": "Câu 73: Hợp đồng được giao kết hợp pháp có hiệu lực từ thời điểm nào?",
+    "options": [
+      "A. Từ thời điểm các bên ký kết văn bản hợp đồng.",
+      "B. Từ thời điểm hợp đồng được công chứng, chứng thực theo quy định của pháp luật.",
+      "C. Từ thời điểm các bên hoàn thành nghĩa vụ chính.",
+      "D. Từ thời điểm giao kết, trừ trường hợp có thỏa thuận khác hoặc luật liên quan có quy định khác."
+    ],
+    "correct_answer": "D. Từ thời điểm giao kết, trừ trường hợp có thỏa thuận khác hoặc luật liên quan có quy định khác."
+  },
+  {
+    "question": "Câu 74: Hậu quả pháp lý của giao dịch dân sự vô hiệu là gì?",
+    "options": [
+      "A. Giao dịch vẫn làm phát sinh quyền, nghĩa vụ dân sự nhưng phải bồi thường thiệt hại.",
+      "B. Giao dịch dân sự vô hiệu không làm phát sinh, thay đổi, chấm dứt quyền, nghĩa vụ dân sự của các bên kể từ thời điểm giao dịch được xác lập và các bên khôi phục lại tình trạng ban đầu, hoàn trả cho nhau những gì đã nhận.",
+      "C. Các bên khôi phục lại tình trạng ban đầu, nhưng bên ngay tình vẫn được giữ hoa lợi, lợi tức.",
+      "D. Hợp đồng chuyển thành hợp đồng có điều kiện, bên có lỗi phải bồi thường thiệt hại."
+    ],
+    "correct_answer": "B. Giao dịch dân sự vô hiệu không làm phát sinh, thay đổi, chấm dứt quyền, nghĩa vụ dân sự của các bên kể từ thời điểm giao dịch được xác lập và các bên khôi phục lại tình trạng ban đầu, hoàn trả cho nhau những gì đã nhận."
+  },
+  {
+    "question": "Câu 75: Trong hợp đồng song vụ, quyền hoãn thực hiện nghĩa vụ được áp dụng khi nào?",
+    "options": [
+      "A. Khi một bên chết hoặc mất năng lực hành vi dân sự.",
+      "B. Khi một bên yêu cầu hủy bỏ hợp đồng.",
+      "C. Khi một bên không thực hiện hoặc không có khả năng thực hiện nghĩa vụ của mình.",
+      "D. Khi hoàn cảnh thay đổi cơ bản."
+    ],
+    "correct_answer": "C. Khi một bên không thực hiện hoặc không có khả năng thực hiện nghĩa vụ của mình."
+  },
+  {
+    "question": "Câu 76: Hợp đồng nào sau đây là hợp đồng mà hiệu lực phụ thuộc vào hợp đồng chính?",
+    "options": [
+      "A. Hợp đồng song vụ.",
+      "B. Hợp đồng chính.",
+      "C. Hợp đồng phụ.",
+      "D. Hợp đồng vì lợi ích của người thứ ba."
+    ],
+    "correct_answer": "C. Hợp đồng phụ."
+  },
+  {
+    "question": "Câu 77: Trường hợp hợp đồng theo mẫu có điều khoản miễn trách nhiệm của bên đưa ra hợp đồng theo mẫu, điều khoản này sẽ như thế nào?",
+    "options": [
+      "A. Điều khoản đó vẫn có hiệu lực nếu bên được đề nghị đã chấp nhận hợp đồng.",
+      "B. Điều khoản đó vẫn có hiệu lực nếu được lập thành văn bản riêng.",
+      "C. Điều khoản này không có hiệu lực, trừ trường hợp có thỏa thuận khác.",
+      "D. Điều khoản này không có hiệu lực và hợp đồng sẽ vô hiệu toàn bộ."
+    ],
+    "correct_answer": "C. Điều khoản này không có hiệu lực, trừ trường hợp có thỏa thuận khác."
+  },
+  {
+    "question": "Câu 78: Sự vô hiệu của hợp đồng phụ có làm chấm dứt hợp đồng chính không?",
+    "options": [
+      "A. Có, sự vô hiệu của hợp đồng phụ luôn làm chấm dứt hợp đồng chính.",
+      "B. Có, nếu hợp đồng phụ là biện pháp bảo đảm thực hiện nghĩa vụ.",
+      "C. Có, nếu hợp đồng phụ là một phần không thể tách rời của hợp đồng chính.",
+      "D. Không, trừ trường hợp các bên thỏa thuận hợp đồng phụ là một phần không thể tách rời của hợp đồng chính."
+    ],
+    "correct_answer": "D. Không, trừ trường hợp các bên thỏa thuận hợp đồng phụ là một phần không thể tách rời của hợp đồng chính."
+  },
+  {
+    "question": "Câu 79: Thời điểm giao kết hợp đồng bằng văn bản là khi nào?",
+    "options": [
+      "A. Khi bên đề nghị nhận được chấp nhận giao kết.",
+      "B. Khi hợp đồng được hoàn thành và đóng dấu.",
+      "C. Là thời điểm bên sau cùng ký vào văn bản hay bằng hình thức chấp nhận khác được thể hiện trên văn bản.",
+      "D. Là thời điểm hợp đồng được công chứng hoặc chứng thực."
+    ],
+    "correct_answer": "C. Là thời điểm bên sau cùng ký vào văn bản hay bằng hình thức chấp nhận khác được thể hiện trên văn bản."
+  },
+  {
+    "question": "Câu 80: Thời hiệu khởi kiện để yêu cầu Tòa án giải quyết tranh chấp hợp đồng là bao lâu?",
+    "options": [
+      "A. 02 năm, kể từ ngày hợp đồng được giao kết.",
+      "B. 03 năm, kể từ ngày người có quyền yêu cầu biết hoặc phải biết quyền và lợi ích hợp pháp của mình bị xâm phạm.",
+      "C. 01 năm, kể từ ngày vi phạm hợp đồng.",
+      "D. Thời hiệu không bị hạn chế đối với các tranh chấp liên quan đến tài sản là bất động sản."
+    ],
+    "correct_answer": "B. 03 năm, kể từ ngày người có quyền yêu cầu biết hoặc phải biết quyền và lợi ích hợp pháp của mình bị xâm phạm."
+  },
+  {
+    "question": "Câu 81: Giao dịch dân sự vô hiệu do vi phạm điều cấm của luật, trái đạo đức xã hội có thời hiệu yêu cầu Tòa án tuyên bố vô hiệu là bao lâu?",
+    "options": [
+      "A. 02 năm, kể từ ngày giao dịch được xác lập.",
+      "B. 03 năm, kể từ ngày phát hiện vi phạm.",
+      "C. Thời hiệu yêu cầu Tòa án tuyên bố giao dịch dân sự vô hiệu không bị hạn chế.",
+      "D. 05 năm, kể từ ngày giao dịch được xác lập."
+    ],
+    "correct_answer": "C. Thời hiệu yêu cầu Tòa án tuyên bố giao dịch dân sự vô hiệu không bị hạn chế."
+  },
+  {
+    "question": "Câu 82: Trường hợp cá nhân giao kết hợp đồng chết, hợp đồng sẽ chấm dứt khi nào?",
+    "options": [
+      "A. Hợp đồng luôn chấm dứt, trừ khi có thỏa thuận khác.",
+      "B. Hợp đồng không chấm dứt mà nghĩa vụ được chuyển cho người thừa kế.",
+      "C. Hợp đồng chấm dứt nếu hợp đồng phải do chính cá nhân đó thực hiện.",
+      "D. Hợp đồng chấm dứt nếu việc thực hiện hợp đồng gây thiệt hại cho tài sản thừa kế."
+    ],
+    "correct_answer": "C. Hợp đồng chấm dứt nếu hợp đồng phải do chính cá nhân đó thực hiện."
+  },
+  {
+    "question": "Câu 83: Mục đích của giao dịch dân sự là gì?",
+    "options": [
+      "A. Là sự tự nguyện của các bên khi tham gia giao dịch.",
+      "B. Là lợi ích hợp pháp mà chủ thể tham gia giao dịch đạt được.",
+      "C. Là lợi ích mà chủ thể mong muốn đạt được khi xác lập giao dịch đó.",
+      "D. Là làm phát sinh, thay đổi hoặc chấm dứt quyền, nghĩa vụ dân sự của các bên."
+    ],
+    "correct_answer": "C. Là lợi ích mà chủ thể mong muốn đạt được khi xác lập giao dịch đó."
+  },
+  {
+    "question": "Câu 84: Khi giao dịch dân sự vô hiệu và các bên phải hoàn trả lại cho nhau những gì đã nhận, nếu không thể hoàn trả bằng hiện vật thì sẽ xử lý như thế nào?",
+    "options": [
+      "A. Bên nhận không cần hoàn trả.",
+      "B. Các bên phải thỏa thuận mức bồi thường bằng tiền.",
+      "C. Hợp đồng vô hiệu từng phần.",
+      "D. Trị giá thành tiền để hoàn trả."
+    ],
+    "correct_answer": "D. Trị giá thành tiền để hoàn trả."
+  },
+  {
+    "question": "Câu 85. Theo Luật Công chứng 2024, tổ chức hành nghề công chứng bao gồm những loại hình nào?",
+    "options": [
+      "A. Chỉ có Phòng Công chứng.",
+      "B. Chỉ có Văn phòng công chứng.",
+      "C. Phòng Công chứng và Văn phòng công chứng.",
+      "D. Văn phòng công chứng và Công ty luật có chức năng công chứng."
+    ],
+    "correct_answer": "C. Phòng Công chứng và Văn phòng công chứng."
+  },
+  {
+    "question": "Câu 86. Văn bản công chứng có giá trị pháp lý như thế nào?",
+    "options": [
+      "A. Chỉ có giá trị tham khảo.",
+      "B. Có hiệu lực thi hành đối với các bên và có giá trị chứng cứ.",
+      "C. Cần phải được Tòa án phê duyệt mới có hiệu lực.",
+      "D. Có giá trị tương đương văn bản chứng thực."
+    ],
+    "correct_answer": "B. Có hiệu lực thi hành đối với các bên và có giá trị chứng cứ."
+  },
+  {
+    "question": "Câu 87. Trường hợp nào sau đây vẫn bắt buộc phải công chứng hoặc chứng thực theo quy định của Luật Đất đai 2024?",
+    "options": [
+      "A. Hợp đồng cho thuê Quyền sử dụng đất giữa hai doanh nghiệp.",
+      "B. Hợp đồng chuyển nhượng Quyền sử dụng đất mà một bên là doanh nghiệp kinh doanh BĐS.",
+      "C. Văn bản về thừa kế Quyền sử dụng đất giữa các cá nhân.",
+      "D. Hợp đồng chuyển đổi Quyền sử dụng đất nông nghiệp."
+    ],
+    "correct_answer": "C. Văn bản về thừa kế Quyền sử dụng đất giữa các cá nhân."
+  },
+  {
+    "question": "Câu 88. Doanh nghiệp kinh doanh BĐS có thể lựa chọn công chứng tại tổ chức hành nghề công chứng nào?",
+    "options": [
+      "A. Chỉ tại Phòng Công chứng nơi doanh nghiệp đặt trụ sở chính.",
+      "B. Chỉ tại Văn phòng công chứng nơi có BĐS.",
+      "C. Tại bất kỳ Phòng Công chứng hoặc Văn phòng công chứng nào trên toàn quốc.",
+      "D. Tại Phòng Công chứng hoặc Văn phòng công chứng trong phạm vi tỉnh/thành phố nơi có BĐS."
+    ],
+    "correct_answer": "D. Tại Phòng Công chứng hoặc Văn phòng công chứng trong phạm vi tỉnh/thành phố nơi có BĐS."
+  },
+  {
+    "question": "Câu 89. Thời hạn công chứng hợp đồng, giao dịch thông thường là bao lâu kể từ ngày nhận đủ hồ sơ hợp lệ?",
+    "options": [
+      "A. Không quá 01 ngày làm việc.",
+      "B. Không quá 02 ngày làm việc.",
+      "C. Không quá 05 ngày làm việc.",
+      "D. Không quá 10 ngày làm việc."
+    ],
+    "correct_answer": "B. Không quá 02 ngày làm việc."
+  },
+  {
+    "question": "Câu 90: Hợp đồng trong kinh doanh bất động sản phải công chứng",
+    "options": [
+      "A. Được ký kết giữa một bên là Doanh nghiệp và một bên là cá nhân",
+      "B. Được ký kết giữa hai bên là Doanh nghiệp kinh doanh bất động sản",
+      "C. Được ký kết giữa một bên là Doanh nghiệp kinh doanh bất động sản với cá nhân",
+      "D. Được ký kết giữa các bên là cá nhân"
+    ],
+    "correct_answer": "D. Được ký kết giữa các bên là cá nhân"
+  },
+  {
+    "question": "Câu 91: Người yêu cầu công chứng khi đến tổ chức hành nghề công chứng thực hiện giao dịch thì phải:",
+    "options": [
+      "A. Ghi phiếu cầu công chứng",
+      "B. Không ghi phiếu yêu cầu công chứng",
+      "C. Theo sự hướng dẫn của công chứng viên",
+      "D. Ghi lại thông tin cá nhân"
+    ],
+    "correct_answer": "B. Không ghi phiếu yêu cầu công chứng"
+  },
+  {
+    "question": "Câu 92: Ủy ban nhân dân xã, phường (gọi chung là Ủy ban nhân dân cấp xã) có thẩm quyền và trách nhiệm:",
+    "options": [
+      "A. Chứng thực bản sao từ bản chính các giấy tờ, văn bản do cơ quan có thẩm quyền của Việt Nam cấp hoặc chứng nhận; chữ ký trong các giấy tờ, văn bản, trừ việc chứng thực chữ ký người dịch;",
+      "B. Chứng thực hợp đồng, giao dịch liên quan đến tài sản là động sản; hợp đồng, giao dịch liên quan đến thực hiện các quyền của người sử dụng đất theo quy định của Luật Đất đai; hợp đồng, giao dịch về nhà ở theo quy định của Luật Nhà ở;",
+      "C.Chứng thực di chúc; văn bản từ chối nhận di sản; văn bản thỏa thuận phân chia di sản, văn bản khai nhận di sản mà di sản là tài sản",
+      "D. Cả 3 đều đúng"
+    ],
+    "correct_answer": "D. Cả 3 đều đúng"
+  },
+  {
+    "question": "Câu 93: Thời hạn chứng thực hợp đồng, giao dịch kể từ ngày nhận đủ hồ sơ yêu cầu chứng thực:",
+    "options": [
+      "A. Không quá 02 ngày làm việc",
+      "B. Không quá 10 ngày làm việc",
+      "C. Có thể kéo dài hơn 02 ngày làm việc",
+      "D. Theo yêu cầu của người chứng thực"
+    ],
+    "correct_answer": "A. Không quá 02 ngày làm việc"
+  },
+  {
+    "question": "Điều 94: Việc chứng thực các hợp đồng, giao dịch liên quan đến quyền của người sử dụng đất, nhà ở được thực hiện tại UBND cấp xã/phường:",
+    "options": [
+      "A. Nơi thường trú của các bên",
+      "B. Nơi ở hiện tại của các bên",
+      "C. Nơi hai bên ký kết hợp đồng, giao dịch",
+      "D. Nơi có đất, nhà ở"
+    ],
+    "correct_answer": "D. Nơi có đất, nhà ở"
+  },
+  {
+    "question": "Câu 95: Người yêu cầu công chứng nộp 01 bộ hồ sơ công chứng:",
+    "options": [
+      "A. Trực tuyến,",
+      "B. Trực tiếp",
+      "C. Gửi qua đường bưu chính",
+      "D. Một trong 3 trường hợp trên"
+    ],
+    "correct_answer": "D. Một trong 3 trường hợp trên"
+  },
+  {
+    "question": "Câu 96: Tổ chức hành nghề công chứng được cung cấp dịch vụ công chứng điện tử, phải:",
+    "options": [
+      "A.Có tài khoản để thực hiện công chứng điện tử;",
+      "B. Có chữ ký số và sử dụng dịch vụ cấp dấu thời gian theo quy định của pháp luật về giao dịch điện tử;",
+      "C. Có đủ trang thiết bị kỹ thuật để thực hiện công chứng điện tử.",
+      "D. Cả 3 trường hợp trên"
+    ],
+    "correct_answer": "D. Cả 3 trường hợp trên"
+  },
+  {
+    "question": "Câu 97: Văn bản công chứng điện tử là:",
+    "options": [
+      "A. Văn bản giao dịch bằng giấy",
+      "B. Văn bản thỏa thuận giữa người yêu cầu công chứng và công chứng viên",
+      "C. Chứng thư điện tử",
+      "D. Giao dịch điện tử"
+    ],
+    "correct_answer": "C. Chứng thư điện tử"
+  },
+  {
+    "question": "Câu 98 : Công chứng viên được cung cấp dịch vụ công chứng điện tử khi đáp ứng đủ các điều kiện sau đây:",
+    "options": [
+      "A. Có tài khoản để thực hiện công chứng điện tử;",
+      "B. Có chữ ký số và sử dụng dịch vụ cấp dấu thời gian theo quy định của pháp luật về giao dịch điện tử.",
+      "C. Có đủ trang thiết bị kỹ thuật để thực hiện công chứng điện tử",
+      "D. Cả A và B"
+    ],
+    "correct_answer": "D. Cả A và B"
+  },
+  {
+    "question": "Câu 99: Công chứng điện tử bao gồm:",
+    "options": [
+      "A. Công chứng điện tử trực tiếp",
+      "B. Công chứng điện tử trực tuyến",
+      "C. Công chứng điện tử trực tiếp hoặc công chứng trực tuyến",
+      "D. Công chứng điện tử qua cổng thông tin điện tử quốc gia"
+    ],
+    "correct_answer": "C. Công chứng điện tử trực tiếp hoặc công chứng trực tuyến"
+  },
+  {
+    "question": "Câu 100: Cơ quan, tổ chức có thẩm quyền và trách nhiệm chứng thực",
+    "options": [
+      "A. Chủ tịch/phó chủ tịch UBND xã/phường",
+      "B. Công chứng viên hành nghề công chứng",
+      "C. Cơ quan đại diện ngoại giao, Cơ quan đại diện lãnh sự và Cơ quan khác được ủy quyền thực hiện chức năng lãnh sự của Việt Nam ở nước ngoài",
+      "D. Viên chức lãnh sự của Cơ quan đại diện ngoại giao, Cơ quan đại diện lãnh sự và cơ quan khác được ủy quyền thực hiện chức năng lãnh sự của Việt Nam ở nước ngoài."
+    ],
+    "correct_answer": "C. Cơ quan đại diện ngoại giao, Cơ quan đại diện lãnh sự và Cơ quan khác được ủy quyền thực hiện chức năng lãnh sự của Việt Nam ở nước ngoài"
+  },
+  {
+    "question": "Câu 101: Người có thẩm quyền thực hiện ký chứng thực",
+    "options": [
+      "A. Cán bộ tư pháp xã/phường",
+      "B. Cán bộ địa chính xã/phường",
+      "C. Công chứng viên của tổ chức hành nghề công chứng",
+      "D. Trưởng phòng tư pháp"
+    ],
+    "correct_answer": "C. Công chứng viên của tổ chức hành nghề công chứng"
+  },
+  {
+    "question": "Câu 102: Chia tài sản chung chung vợ chồng trong thời kỳ hôn nhân, phải:",
+    "options": [
+      "A. Công chứng, chứng thực",
+      "B. Không công chứng, chứng thực",
+      "C. Thỏa thuận bằng văn bản và không buộc công chứng, chứng thực",
+      "D. Thỏa thuận bằng văn bản và có công chứng"
+    ],
+    "correct_answer": "D. Thỏa thuận bằng văn bản và có công chứng"
+  },
+  {
+    "question": "Câu 103: Việc xác lập chế độ tài sản của vợ chồng trước khi kết hôn:",
+    "options": [
+      "A. Thỏa thuận sau khi kết hôn có công chứng, chứng thực",
+      "B. Thỏa thuận bằng văn bản",
+      "C. Lập thành văn bản, có công chứng hoặc chứng thực",
+      "D. Thỏa thuận này phải được lập trước khi kết hôn, bằng hình thức văn bản có công chứng hoặc chứng thực"
+    ],
+    "correct_answer": "D. Thỏa thuận này phải được lập trước khi kết hôn, bằng hình thức văn bản có công chứng hoặc chứng thực"
+  },
+  {
+    "question": "Câu 104: Công chứng ngoài trụ sở của tổ chức hành nghề công chứng:",
+    "options": [
+      "A. Phụ nữ đang mang thai hoặc nuôi con nhỏ dưới 12 tháng tuổi;",
+      "B. Người cao tuổi, người khuyết tật hoặc có khó khăn trong việc đi lại;",
+      "C. Không thể đi lại được vì lý do sức khỏe; đang điều trị nội trú hoặc bị cách ly theo chỉ định của cơ sở y tế;",
+      "D. Cả 3 trường hợp trên",
+      "Bottom of Form"
+    ],
+    "correct_answer": "D. Cả 3 trường hợp trên"
+  },
+  {
+    "question": "Câu 105. Theo Luật Doanh nghiệp 2020, có bao nhiêu loại hình doanh nghiệp được quy định?",
+    "options": [
+      "A. 3 loại",
+      "B. 4 loại",
+      "C. 5 loại",
+      "D. 6 loại"
+    ],
+    "correct_answer": "C. 5 loại"
+  },
+  {
+    "question": "Câu 106. Doanh nghiệp tư nhân có tư cách pháp nhân không?",
+    "options": [
+      "A. Có",
+      "B. Không",
+      "C. Chỉ có khi đăng ký vốn trên 10 tỷ",
+      "D. Chỉ có khi có 2 chủ sở hữu"
+    ],
+    "correct_answer": "B. Không"
+  },
+  {
+    "question": "Câu 107. Công ty TNHH một thành viên có thể có bao nhiêu chủ sở hữu?*",
+    "options": [
+      "A. 1 cá nhân hoặc 1 tổ chức",
+      "B. Tối đa 3 cá nhân",
+      "C. Tối thiểu 2 thành viên",
+      "D. Không giới hạn số thành viên"
+    ],
+    "correct_answer": "A. 1 cá nhân hoặc 1 tổ chức"
+  },
+  {
+    "question": "Câu 108. Công ty TNHH hai thành viên trở lên có số lượng thành viên tối đa là bao nhiêu?*",
+    "options": [
+      "A. 50",
+      "B. 100",
+      "C. Không giới hạn",
+      "D. 25"
+    ],
+    "correct_answer": "A. 50"
+  },
+  {
+    "question": "Câu 109. Công ty cổ phần phải có tối thiểu bao nhiêu cổ đông?*",
+    "options": [
+      "A. 1",
+      "B. 2",
+      "C. 3",
+      "D. 5"
+    ],
+    "correct_answer": "C. 3"
+  },
+  {
+    "question": "Câu 110. Công ty cổ phần có tư cách pháp nhân kể từ khi nào?*",
+    "options": [
+      "A. Ngày cấp giấy chứng nhận đăng ký doanh nghiệp",
+      "B. Ngày họp Đại hội đồng cổ đông",
+      "C. Ngày góp vốn đủ",
+      "D. Ngày ký điều lệ công ty"
+    ],
+    "correct_answer": "A. Ngày cấp giấy chứng nhận đăng ký doanh nghiệp"
+  },
+  {
+    "question": "Câu 111. Công ty hợp danh có bao nhiêu loại thành viên?*",
+    "options": [
+      "A. 1 loại",
+      "B. 2 loại (thành viên hợp danh và thành viên góp vốn)",
+      "C. 3 loại",
+      "D. 4 loại"
+    ],
+    "correct_answer": "B. 2 loại (thành viên hợp danh và thành viên góp vốn)"
+  },
+  {
+    "question": "Câu 112. Doanh nghiệp tư nhân do ai làm chủ?*",
+    "options": [
+      "A. Một cá nhân",
+      "B. Một tổ chức",
+      "C. Một cá nhân hoặc một tổ chức",
+      "D. Nhóm cá nhân"
+    ],
+    "correct_answer": "A. Một cá nhân"
+  },
+  {
+    "question": "Câu 113. Chủ doanh nghiệp tư nhân có quyền bán toàn bộ doanh nghiệp của mình không?",
+    "options": [
+      "A. Có",
+      "B. Không",
+      "C. Chỉ được bán 50%",
+      "D. Chỉ được bán khi có vốn trên 10 tỷ"
+    ],
+    "correct_answer": "A. Có"
+  },
+  {
+    "question": "Câu 114. Thành viên hợp danh trong công ty hợp danh chịu trách nhiệm như thế nào?",
+    "options": [
+      "A. Trong phạm vi số vốn góp",
+      "B. Vô hạn và liên đới",
+      "C. Hữu hạn",
+      "D. Không chịu trách nhiệm"
+    ],
+    "correct_answer": "B. Vô hạn và liên đới"
+  },
+  {
+    "question": "Câu 115. Thành viên góp vốn trong công ty hợp danh chịu trách nhiệm:",
+    "options": [
+      "A. Vô hạn",
+      "B. Liên đới vô hạn",
+      "C. Trong phạm vi số vốn góp",
+      "D. Không chịu trách nhiệm"
+    ],
+    "correct_answer": "C. Trong phạm vi số vốn góp"
+  },
+  {
+    "question": "Câu 116. Công ty TNHH hai thành viên trở lên có tư cách pháp nhân không?",
+    "options": [
+      "A. Có",
+      "B. Không",
+      "C. Chỉ khi có vốn trên 10 tỷ",
+      "D. Tùy điều lệ công ty"
+    ],
+    "correct_answer": "A. Có"
+  },
+  {
+    "question": "Câu 117. Doanh nghiệp nào sau đây được phát hành chứng khoán?",
+    "options": [
+      "A. Công ty cổ phần",
+      "B. Công ty TNHH",
+      "C. Công ty hợp danh",
+      "D. Doanh nghiệp tư nhân"
+    ],
+    "correct_answer": "A. Công ty cổ phần"
+  },
+  {
+    "question": "Câu 118. Điều kiện tổ chức kinh doanh bất động sản",
+    "options": [
+      "A. Phải thành lập doanh nghiệp theo quy định của pháp luật về doanh nghiệp",
+      "B. Phải có vốn pháp định 20 tỷ đồng",
+      "C. Phải có vốn và khả năng huy động vốn",
+      "D.Phải có tài sản là bất động sản"
+    ],
+    "correct_answer": "A. Phải thành lập doanh nghiệp theo quy định của pháp luật về doanh nghiệp"
+  },
+  {
+    "question": "Câu 119. Cá nhân kinh doanh bất động sản với quy mô nhỏ",
+    "options": [
+      "A. Phải thành lập doanh nghiệp",
+      "B. Không phải thành lập doanh nghiệp, nhưng phải kê khai nộp thuế",
+      "C. Phải kê khai nộp thuế",
+      "D. Phải lập dự án kinh doanh bất động sản"
+    ],
+    "correct_answer": "B. Không phải thành lập doanh nghiệp, nhưng phải kê khai nộp thuế"
+  },
+  {
+    "question": "Câu 120. Doanh nghiệp kinh doanh dịch vụ môi giới bất động sản phải:",
+    "options": [
+      "A. Có ít nhất 2 chứng chỉ hành nghề môi giới bất động sản",
+      "B. Có ít nhất 1 chứng chỉ hành nghề môi giới bất động sản",
+      "C. Tất cả nhân viên phải có chứng chỉ hành nghề môi giới bất động sản",
+      "D. Giám đốc phải có chứng chỉ hành nghề môi giới bất động sản"
+    ],
+    "correct_answer": "B. Có ít nhất 1 chứng chỉ hành nghề môi giới bất động sản"
+  },
+  {
+    "question": "Câu 121. Điều kiện của tổ chức, cá nhân kinh doanh dịch vụ môi giới bất động sản",
+    "options": [
+      "A. Phải thành lập doanh nghiệp kinh doanh dịch vụ bất động sản",
+      "B. Không phải thành lập doanh nghiệp kinh doanh dịch vụ bất động sản",
+      "C. Phải có nhân viên môi giới bất động sản",
+      "D. Phải có chứng chỉ hành nghề môi giới bất động sản"
+    ],
+    "correct_answer": "A. Phải thành lập doanh nghiệp kinh doanh dịch vụ bất động sản"
+  },
+  {
+    "question": "Câu 122. Điều kiện về chủ thể thành lập doanh nghiệp",
+    "options": [
+      "A. Cán bộ, công chức, viên chức",
+      "B. Tổ chức không có tư cách pháp nhân;",
+      "C. Người thành niên",
+      "D. Cán bộ lãnh đạo, quản lý nghiệp vụ trong doanh nghiệp nhà nước"
+    ],
+    "correct_answer": "C. Người thành niên"
+  },
+  {
+    "question": "Câu 123. Thành viên công ty TNHH hai thành viên trở lên chịu trách nhiệm về các khoản nợ của công ty như thế nào?",
+    "options": [
+      "A. Trong phạm vi vốn góp",
+      "B. Vô hạn",
+      "C. Liên đới toàn bộ",
+      "D. Không chịu trách nhiệm"
+    ],
+    "correct_answer": "A. Trong phạm vi vốn góp"
+  },
+  {
+    "question": "Câu 124. Hoạt động chuyển nhượng bất động sản chịu thuế suất GTGT bao nhiêu?",
+    "options": [
+      "A. 0%",
+      "B. 5%",
+      "C. 8%",
+      "D. 10%"
+    ],
+    "correct_answer": "D. 10%"
+  },
+  {
+    "question": "Câu 125. Khi doanh nghiệp bán nhà, công trình xây dựng gắn liền với quyền sử dụng đất thì phần giá đất được:\nA. Chịu thuế GTGT",
+    "options": [
+      "B. Không chịu thuế GTGT",
+      "C. Chịu thuế TNDN nhưng không chịu thuế GTGT",
+      "D. Chịu thuế cả GTGT và TNDN"
+    ],
+    "correct_answer": "B. Không chịu thuế GTGT"
+  },
+  {
+    "question": "Câu 126. Giá tính thuế GTGT khi chuyển nhượng bất động sản là:\nA. Toàn bộ giá bán ghi trong hợp đồng",
+    "options": [
+      "B. Giá bán trừ giá đất được trừ theo quy định UBND cấp tỉnh",
+      "C. Giá đất Nhà nước quy định",
+      "D. Giá bán trừ chi phí xây dựng"
+    ],
+    "correct_answer": "B. Giá bán trừ giá đất được trừ theo quy định UBND cấp tỉnh"
+  },
+  {
+    "question": "Câu 127. Hoạt động cho thuê bất động sản (nhà, mặt bằng) áp dụng thuế GTGT:",
+    "options": [
+      "A. 0%",
+      "B. 5%",
+      "C. 8%",
+      "D. 10%"
+    ],
+    "correct_answer": "D. 10%"
+  },
+  {
+    "question": "Câu 128. Theo Luật TNDN 2013, thuế suất phổ thông áp dụng cho hoạt động kinh doanh bất động sản là:",
+    "options": [
+      "A. 15%",
+      "B. 20% (từ 01/01/2016)",
+      "C. 25%",
+      "D. 28%"
+    ],
+    "correct_answer": "B. 20% (từ 01/01/2016)"
+  },
+  {
+    "question": "Câu 129. Doanh thu từ hoạt động chuyển nhượng bất động sản được xác định:",
+    "options": [
+      "A. Thu nhập khác",
+      "B. Thu nhập từ hoạt động SXKD chính",
+      "C. Doanh thu được xác định theo giá thực tế chuyển nhượng bất động sản theo hợp đồng chuyển nhượng, mua bán bất động sản phù hợp với quy định của pháp luật",
+      "D. Không thuộc đối tượng nộp thuế"
+    ],
+    "correct_answer": "C. Doanh thu được xác định theo giá thực tế chuyển nhượng bất động sản theo hợp đồng chuyển nhượng, mua bán bất động sản phù hợp với quy định của pháp luật"
+  },
+  {
+    "question": "Câu 130. Thu nhập tính thuế từ hoạt động chuyển nhượng bất động sản là",
+    "options": [
+      "A. Toàn bộ giá trị hợp đồng",
+      "B. Bằng thu nhập chịu thuế -các khoản lỗ trong hoạt động chuyển nhượng BĐS theo quy định",
+      "C. Giá trị còn lại trên sổ sách kế toán",
+      "D. Giá bán do Nhà nước quy định"
+    ],
+    "correct_answer": "B. Bằng thu nhập chịu thuế -các khoản lỗ trong hoạt động chuyển nhượng BĐS theo quy định"
+  },
+  {
+    "question": "Câu 131. Giá đất được trừ khi xác định thu nhập chịu thuế từ chuyển nhượng bất động sản là:",
+    "options": [
+      "A. Giá do UBND tỉnh quy định tại thời điểm chuyển nhượng",
+      "B. Giá thực tế doanh nghiệp trả khi nhận chuyển nhượng và có chứng từ hợp pháp",
+      "C. Giá thẩm định độc lập",
+      "D. Tùy doanh nghiệp lựa chọn"
+    ],
+    "correct_answer": "B. Giá thực tế doanh nghiệp trả khi nhận chuyển nhượng và có chứng từ hợp pháp"
+  },
+  {
+    "question": "Câu 132. Thu nhập từ chuyển nhượng bất động sản phải được:",
+    "options": [
+      "A. Hạch toán riêng để kê khai nộp thuế",
+      "B. Gộp chung vào thu nhập từ hoạt động SXKD chính",
+      "C. Không cần hạch toán riêng",
+      "D. Doanh nghiệp lựa chọn cách tính"
+    ],
+    "correct_answer": "A. Hạch toán riêng để kê khai nộp thuế"
+  },
+  {
+    "question": "Câu 133. Thời điểm xác định doanh thu tính thuế TNDN từ chuyển nhượng bất động sản là:",
+    "options": [
+      "A. Khi ký hợp đồng chuyển nhượng",
+      "B. Khi bàn giao bất động sản",
+      "C. Khi nhận tiền thanh toán",
+      "D. Khi đăng ký sang tên"
+    ],
+    "correct_answer": "B. Khi bàn giao bất động sản"
+  },
+  {
+    "question": "Câu 134. Cá nhân chuyển nhượng bất động sản phải nộp thuế TNCN với thuế suất:",
+    "options": [
+      "A. 2% trên giá chuyển nhượng",
+      "B. 10% trên thu nhập tính thuế",
+      "C. 20% trên thu nhập tính thuế",
+      "D. 5% trên giá chuyển nhượng"
+    ],
+    "correct_answer": "A. 2% trên giá chuyển nhượng"
+  },
+  {
+    "question": "Câu 135. Trường hợp nào dưới đây được miễn thuế TNCN khi chuyển nhượng bất động sản?",
+    "options": [
+      "A. Chuyển nhượng giữa cha mẹ và con",
+      "B. Chuyển nhượng giữa anh em ruột",
+      "C. Chuyển nhượng duy nhất 1 nhà ở, quyền sử dụng đất ở",
+      "D. Tất cả các đáp án trên"
+    ],
+    "correct_answer": "D. Tất cả các đáp án trên"
+  },
+  {
+    "question": "Câu 136. Miễn lệ phí trước bạ khi nhận thừa kế nhà, đất, đối với:",
+    "options": [
+      "A. Vợ với chồng; cha đẻ, mẹ đẻ với con đẻ; cha nuôi, mẹ nuôi với con nuôi; cha chồng, mẹ chồng với con dâu; cha vợ, mẹ vợ với con rể; ông nội, bà nội với cháu nội; ông ngoại, bà ngoại với cháu ngoại; anh, chị, em ruột với nhau",
+      "B. Chú, bác, dì, dượng ruột với cháu",
+      "C. Anh em chú, bác với cháu",
+      "D. Cha dượng, mẹ kế với con riêng(chồng/vợ)"
+    ],
+    "correct_answer": "A. Vợ với chồng; cha đẻ, mẹ đẻ với con đẻ; cha nuôi, mẹ nuôi với con nuôi; cha chồng, mẹ chồng với con dâu; cha vợ, mẹ vợ với con rể; ông nội, bà nội với cháu nội; ông ngoại, bà ngoại với cháu ngoại; anh, chị, em ruột với nhau"
+  },
+  {
+    "question": "Câu 137. Mức thu lệ phí trước bạ khi đăng ký quyền sử dụng đất là:",
+    "options": [
+      "A. 0,5% giá trị chuyển nhượng",
+      "B. 1% giá trị chuyển nhượng",
+      "C. 2% giá trị chuyển nhượng",
+      "D. 10% giá trị chuyển nhượng"
+    ],
+    "correct_answer": "A. 0,5% giá trị chuyển nhượng"
+  },
+  {
+    "question": "Câu 138. Lệ phí trước bạ khi đăng ký quyền sở hữu nhà ở được tính theo:",
+    "options": [
+      "A. Giá do Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ban hành",
+      "B. Giá ghi trong hợp đồng",
+      "C. Giá đất thị trường",
+      "D. Giá trị thẩm định độc lập"
+    ],
+    "correct_answer": "A. Giá do Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ban hành"
+  },
+  {
+    "question": "Câu 139. Trường hợp nhận thừa kế, tặng cho bất động sản giữa cha mẹ và con:",
+    "options": [
+      "A. Phải nộp thuế TNCN và lệ phí trước bạ",
+      "B. Miễn thuế TNCN nhưng vẫn nộp lệ phí trước bạ",
+      "C. Miễn cả thuế TNCN và lệ phí trước bạ",
+      "D. Chỉ miễn thuế TNCN"
+    ],
+    "correct_answer": "C. Miễn cả thuế TNCN và lệ phí trước bạ"
+  },
+  {
+    "question": "Câu 140. Nguyên tắc trong phòng, chống rửa tiền",
+    "options": [
+      "A. Việc phòng, chống rửa tiền phải thực hiện theo quy định của pháp luật trên cơ sở bảo đảm chủ quyền và toàn vẹn lãnh thổ, an ninh quốc gia, lợi ích quốc gia;",
+      "B. Hành vi rửa tiền phải được xử lý theo quy định của pháp luật.",
+      "C. Biện pháp phòng, chống rửa tiền phải được thực hiện đồng bộ, kịp thời.",
+      "D. Cả 3 đều đúng"
+    ],
+    "correct_answer": "D. Cả 3 đều đúng"
+  },
+  {
+    "question": "Câu 141. Đối tượng báo cáo là tổ chức, cá nhân kinh doanh ngành, nghề phi tài chính có liên quan theo quy định của pháp luật thực hiện một hoặc một số hoạt động sau đây:",
+    "options": [
+      "A. Kinh doanh bất động sản,",
+      "B. Hoạt động cho thuê,",
+      "C. Hoạt động cho thuê lại bất động sản",
+      "D. Dịch vụ tư vấn bất động sản"
+    ],
+    "correct_answer": "A. Kinh doanh bất động sản,"
+  },
+  {
+    "question": "Câu 142. Khi nhận biết khách hàng, đối với khách hàng cá nhân có một quốc tịch là người Việt Nam, thì cần nhận biết:",
+    "options": [
+      "A. Họ và tên; ngày, tháng, năm sinh; quốc tịch; nghề nghiệp, chức vụ; số điện thoại liên lạc; số Chứng minh nhân dân hoặc số Căn cước công dân hoặc số định danh cá nhân hoặc số Hộ chiếu, ngày cấp, nơi cấp; địa chỉ đăng ký thường trú và nơi ở hiện tại khác (nếu có);",
+      "B. Ngành nghề, lĩnh vực kinh doanh",
+      "C. Mã số thuế",
+      "D. Số tài khoản mạng xã hội"
+    ],
+    "correct_answer": "A. Họ và tên; ngày, tháng, năm sinh; quốc tịch; nghề nghiệp, chức vụ; số điện thoại liên lạc; số Chứng minh nhân dân hoặc số Căn cước công dân hoặc số định danh cá nhân hoặc số Hộ chiếu, ngày cấp, nơi cấp; địa chỉ đăng ký thường trú và nơi ở hiện tại khác (nếu có);"
+  },
+  {
+    "question": "Câu 143. Trường hợp khách hàng là tổ chức nước ngoài tham gia giao dịch bất động sản, doanh nghiệp phải:",
+    "options": [
+      "A. Không cần xác minh",
+      "B. Thu thập giấy phép đăng ký kinh doanh, người đại diện theo pháp luật",
+      "C. Chỉ cần hộ chiếu của đại diện",
+      "D. Doanh nghiệp tự quyết"
+    ],
+    "correct_answer": "B. Thu thập giấy phép đăng ký kinh doanh, người đại diện theo pháp luật"
+  },
+  {
+    "question": "Câu 144. Ngưỡng giá trị giao dịch tiền mặt phải báo cáo trong kinh doanh bất động sản là:",
+    "options": [
+      "A. 100 triệu đồng",
+      "B. 200 triệu đồng",
+      "C. 300 triệu đồng",
+      "D. 400 triệu đồng"
+    ],
+    "correct_answer": "D. 400 triệu đồng"
+  },
+  {
+    "question": "Câu 145. Tình huống nào sau đây được coi là giao dịch đáng ngờ:",
+    "options": [
+      "A. Khách hàng từ chối cung cấp thông tin hoặc cung cấp thông tin nhận biết khách hàng không chính xác, không đầy đủ, không nhất quán.",
+      "B. Khách hàng thuyết phục đối tượng báo cáo không báo cáo giao dịch cho cơ quan nhà nước có thẩm quyền.",
+      "C. Khách hàng yêu cầu đối tượng báo cáo thực hiện giao dịch không đúng trình tự, thủ tục theo quy định của pháp luật.",
+      "D. Tất cả các đáp án trên"
+    ],
+    "correct_answer": "D. Tất cả các đáp án trên"
+  },
+  {
+    "question": "Câu 146. Khi biết giao dịch được thực hiện theo yêu cầu của bị can, bị cáo, người bị kết án và có cơ sở hợp lý để nghi ngờ tài sản trong giao dịch là tài sản thuộc quyền sở hữu hoặc có nguồn gốc thuộc quyền sở hữu, quyền kiểm soát của bị can, bị cáo, người bị kết án đó, thì đối tượng phải báo cáo:",
+    "options": [
+      "A. Ngay lập tức",
+      "B. Trong thời gian 3 ngày làm việc",
+      "C. Trong thời gian 5 ngày làm việc",
+      "D. Trong thời gian 7 ngày làm việc"
+    ],
+    "correct_answer": "B. Trong thời gian 3 ngày làm việc"
+  },
+  {
+    "question": "Câu 147. Thời hạn báo cáo giao dịch đáng ngờ có giá trị lớn bằng dữ liệu điện tử là:",
+    "options": [
+      "A. Ngay lập tức",
+      "B. 1 ngày làm việc",
+      "C. Trong 48 giờ",
+      "D. Trong 7 ngày làm việc"
+    ],
+    "correct_answer": "B. 1 ngày làm việc"
+  },
+  {
+    "question": "Câu 148. Thời hạn lưu trữ hồ sơ nhận biết khách hàng và báo cáo PCRT tối thiểu là:",
+    "options": [
+      "A. 2 năm",
+      "B. 3 năm",
+      "C. 5 năm",
+      "D. 10 năm"
+    ],
+    "correct_answer": "C. 5 năm"
+  },
+  {
+    "question": "Câu 149. Trường hợp phát hiện dấu hiệu đáng ngờ khách hàng rửa tiền thì đối tượng báo cáo, các bộ ngành có liên quan:",
+    "options": [
+      "A. Giao dịch và chờ xử lý",
+      "B. Tiếp tục giao dịch bình thường",
+      "C. Chờ thêm chứng cứ rồi mới báo cáo",
+      "D. Thông báo cho Ngân hàng Nhà nước Việt Nam"
+    ],
+    "correct_answer": "D. Thông báo cho Ngân hàng Nhà nước Việt Nam"
+  },
+  {
+    "question": "Câu 150. Đối tượng báo cáo là tổ chức phải ban hành quy định:",
+    "options": [
+      "A. Quy định nội bộ về PCRT",
+      "B. Quy định về phòng cháy chữa cháy",
+      "C. Quy trình bảo mật CNTT",
+      "D. Bộ quy tắc đạo đức nghề nghiệp"
+    ],
+    "correct_answer": "A. Quy định nội bộ về PCRT"
+  },
+  {
+    "question": "Câu 151. Dấu hiệu đáng ngờ trong lĩnh vực trung gian thanh toán trong lĩnh vực bất động sản?",
+    "options": [
+      "A. Có sự thay đổi đột biến trong doanh số giao dịch trên ví điện tử; tiền nạp vào và rút ra nhanh khỏi ví điện tử; doanh số giao dịch lớn trong ngày nhưng số dư ví điện tử rất nhỏ hoặc bằng không",
+      "B. Khách hàng nộp thuế nhà nước.",
+      "C. Doanh nghiệp thanh toán tiền lương.",
+      "D. Khách hàng chuyển tiền theo Hợp đông chuyển nhượng BĐS"
+    ],
+    "correct_answer": "A. Có sự thay đổi đột biến trong doanh số giao dịch trên ví điện tử; tiền nạp vào và rút ra nhanh khỏi ví điện tử; doanh số giao dịch lớn trong ngày nhưng số dư ví điện tử rất nhỏ hoặc bằng không"
+  },
+  {
+    "question": "Câu 152. Theo quy định của Luật PCRT 2023, thì tổ chức, cán bộ, nhân viên và cá nhân liên quan đến biện pháp phòng, chống rửa tiền phải:",
+    "options": [
+      "A. Minh bạch thông tin của pháp nhân",
+      "B. Minh bạch thông tin của thỏa thuận pháp lý",
+      "C. Minh bạch trong hoạt động của tổ chức phi lợi nhuận ế",
+      "D. Cả 3 trường hợp trên"
+    ],
+    "correct_answer": "D. Cả 3 trường hợp trên"
+  },
+  {
+    "question": "Câu 153. Báo cáo giao dịch có giá trị lớn phải báo cáo",
+    "options": [
+      "A. Đối tượng báo cáo có trách nhiệm báo cáo Ngân hàng Nhà nước Việt Nam khi thực hiện các giao dịch có giá trị lớn phải báo cáo.",
+      "B. Thủ tướng Chính phủ quyết định mức giao dịch có giá trị lớn phải báo cáo phù hợp với điều kiện kinh tế - xã hội trong từng thời kỳ.",
+      "C. Thống đốc Ngân hàng Nhà nước Việt Nam quy định chế độ báo cáo về giao dịch có giá trị lớn phải báo cáo.",
+      "D. Cả 3 trường hợp trên"
+    ],
+    "correct_answer": "D. Cả 3 trường hợp trên"
+  },
+  {
+    "question": "Câu 154. Dấu hiệu đáng ngờ trong lĩnh vực kinh doanh bất động sản",
+    "options": [
+      "A. Các giao dịch bất động sản là giao dịch ủy quyền nhưng không có cơ sở pháp lý.",
+      "B. Khách hàng không quan tâm đến giá bất động sản, phí giao dịch phải trả.",
+      "C. Khách hàng không cung cấp được các thông tin liên quan đến bất động sản hoặc không muốn cung cấp bổ sung thông tin về nhân thân",
+      "D. Cả 3 trường hợp trên"
+    ],
+    "correct_answer": "D. Cả 3 trường hợp trên"
+  },
+  {
+    "question": "Câu 155. Xử lý vi phạm liên quan đến pháp luật phòng chống rửa tiền:",
+    "options": [
+      "A. Thu hồi Giấy chứng nhận đăng ký kinh doanh",
+      "B. Buộc giải thể",
+      "C. Cấm hoạt động 3 năm",
+      "D. Tất cả đều sai"
+    ],
+    "correct_answer": "D. Tất cả đều sai"
+  },
+  {
+    "question": "Câu 156. Áp dụng các biện pháp tạm thời và xử lý vi phạm",
+    "options": [
+      "A. Trì hoãn giao dịch",
+      "B. Phong tỏa tài khoản, niêm phong, phong tỏa hoặc tạm giữ tài sản",
+      "C. Cấm di chuyển",
+      "D. Cả A và B"
+    ],
+    "correct_answer": "D. Cả A và B"
+  },
+  {
+    "question": "Câu 157. Nguyên tắc xử phạt vi phạm hành chính theo Luật XLVPHC là:",
+    "options": [
+      "A. Một hành vi vi phạm hành chính chỉ bị xử phạt 1 lần",
+      "B. Một hành vi vi phạm hành chính có thể xử phạt nhiều lần",
+      "C. Chỉ cảnh cáo, không xử phạt tiền",
+      "D. Doanh nghiệp tự thỏa thuận với cơ quan quản lý"
+    ],
+    "correct_answer": "A. Một hành vi vi phạm hành chính chỉ bị xử phạt 1 lần"
+  },
+  {
+    "question": "Câu 158. Cơ quan nào có thẩm quyền xử phạt vi phạm hành chính trong hoạt động kinh doanh bất động sản?",
+    "options": [
+      "A. UBND các cấp xã",
+      "B. Thanh tra Bộ Xây dựng, Sở Xây dựng",
+      "C. Công an nhân dân",
+      "D. Cả A và B"
+    ],
+    "correct_answer": "D. Cả A và B"
+  },
+  {
+    "question": "Câu 159. Hành vi kinh doanh BĐS mà Hợp đồng kinh doanh bất động sản không được lập thành văn bản hoặc lập hợp đồng kinh doanh bất động sản không đầy đủ các nội dung chính theo quy định hoặc trái quy định của pháp luật, bị xử phạt:",
+    "options": [
+      "A. 50 – 100 triệu đồng",
+      "B. 100 – 120 triệu đồng",
+      "C. 120 – 250 triệu đồng",
+      "D. 250 – 300 triệu đồng"
+    ],
+    "correct_answer": "B. 100 – 120 triệu đồng"
+  },
+  {
+    "question": "Câu 160. Kinh doanh bất động sản mà bất động sản đó không đảm bảo đầy đủ các điều kiện theo quy định hoặc không được phép đưa vào kinh doanh theo quy định bị xử phạt:",
+    "options": [
+      "A. 200 - 300 triệu đồng",
+      "B. 300 – 400 triệu đồng",
+      "C. 400 – 600 triệu đồng",
+      "D. Trên 600 triệu đồng"
+    ],
+    "correct_answer": "C. 400 – 600 triệu đồng"
+  },
+  {
+    "question": "Câu 161. Kinh doanh dịch vụ bất động sản mà không thành lập doanh nghiệp theo quy định hoặc không đủ số người có chứng chỉ hành nghề môi giới bất động sản theo quy định hoặc chứng chỉ hành nghề hết thời hạn sử dụng theo quy định bị xử phạt:",
+    "options": [
+      "A. 60 – 80 triệu đồng",
+      "B. 80 – 100 triệu đồng",
+      "C. 100 – 120 triệu đồng",
+      "D. 120 – 160 triệu đồng"
+    ],
+    "correct_answer": "D. 120 – 160 triệu đồng"
+  },
+  {
+    "question": "Câu 162. Kinh doanh dịch vụ môi giới bất động sản độc lập mà không có chứng chỉ hành nghề hoặc chứng chỉ hành nghề hết thời hạn sử dụng theo quy định bị phạt:",
+    "options": [
+      "A. 40 – 60 triệu đồng",
+      "B. 60 – 80 triệu đồng",
+      "C. 80 – 100 triệu đồng",
+      "D. 100 – 120 triệu đồng"
+    ],
+    "correct_answer": "A. 40 – 60 triệu đồng"
+  },
+  {
+    "question": "Câu 163. Không cung cấp, cung cấp không chính xác, không đầy đủ hoặc không đúng thời hạn kê khai thông tin, dữ liệu về thị trường bất động sản cho cơ quan quản lý hệ thống thông tin về nhà ở và thị trường bất động sản theo quy định:",
+    "options": [
+      "A. 60 – 80 triệu đồng",
+      "B. 80 – 150 triệu đồng",
+      "C. 150 – 200 triệu đồng",
+      "D. 200 – 250 triệu đồng"
+    ],
+    "correct_answer": "A. 60 – 80 triệu đồng"
+  },
+  {
+    "question": "Câu 164. Xử phạt đối với hành vi không công khai giấy phép xây dựng tại địa điểm thi công xây dựng trong suốt quá trình thi công đối với xây dựng công trình có yêu cầu phải lập báo cáo nghiên cứu khả thi đầu tư xây dựng hoặc công trình phải lập báo cáo kinh tế - kỹ thuật đầu tư xây dựng như sau:",
+    "options": [
+      "A. 5 – 10 triệu đồng",
+      "B. 10 – 20 triệu đồng",
+      "C. 20 – 30 triệu đồng",
+      "D. 30 – 50 triệu đồng"
+    ],
+    "correct_answer": "C. 20 – 30 triệu đồng"
+  },
+  {
+    "question": "Câu 165. Xử phạt hành vi tổ chức thi công xây dựng công trình không che chắn hoặc có che chắn nhưng để rơi vãi vật liệu xây dựng xuống các khu vực xung quanh hoặc để vật liệu xây dựng không đúng nơi quy định đối với xây dựng nhà ở riêng lẻ hoặc công trình xây dựng khác như sau:",
+    "options": [
+      "A. 1 – 3 triệu đồng",
+      "B. 3 – 5 triệu đồng",
+      "C. 10 – 20 triệu đồng",
+      "D. 25 – 30 triệu đồng"
+    ],
+    "correct_answer": "B. 3 – 5 triệu đồng"
+  },
+  {
+    "question": "Câu 166. Xử phạt đối với hành vi tổ chức thi công xây dựng công trình không có giấy phép xây dựng mà theo quy định phải có giấy phép xây dựng đối với xây dựng nhà ở riêng lẻ trong khu bảo tồn, khu di tích lịch sử - văn hóa hoặc công trình xây dựng khác;",
+    "options": [
+      "A. 60 – 80 triệu đồng",
+      "B. 80 – 100 triệu đồng",
+      "C. 100 – 120 triệu đồng",
+      "D. 120 – 150 triệu đồng"
+    ],
+    "correct_answer": "B. 80 – 100 triệu đồng"
+  },
+  {
+    "question": "Câu 167. Vi phạm quy định về kinh doanh bất động sản",
+    "options": [
+      "A. Phạt tiền theo quy định",
+      "B. Đình chỉ hoạt động kinh doanh bất động sản từ 03 tháng đến 06 tháng đối với dự án: Kinh doanh bất động sản mà bất động sản đó không đảm bảo đầy đủ các điều kiện theo quy định hoặc không được phép đưa vào kinh doanh theo quy định; Kinh doanh bất động sản không đúng phạm vi được kinh doanh theo quy định;",
+      "C. Buộc trả lại cho bên mua phần phí liên quan đến chuyển nhượng bất động sản không đúng quy định",
+      "D. Cả 3 trường hợp trên"
+    ],
+    "correct_answer": "D. Cả 3 trường hợp trên"
+  },
+  {
+    "question": "Câu 168. Thời hiệu xử phạt vi phạm hành chính trong lĩnh vực đất đai là:",
+    "options": [
+      "A. 1 năm",
+      "B. 2 năm",
+      "C. 3 năm",
+      "D. 5 năm"
+    ],
+    "correct_answer": "B. 2 năm"
+  },
+  {
+    "question": "Câu 169. Cá nhân, tổ chức bị xử phạt VPHC trong KD BĐS có quyền khiếu nại, khởi kiện theo:",
+    "options": [
+      "A. Luật Khiếu nại, Luật Tố tụng hành chính",
+      "B. Luật Đầu tư",
+      "C. Luật Doanh nghiệp",
+      "D. Bộ luật Dân sự"
+    ],
+    "correct_answer": "A. Luật Khiếu nại, Luật Tố tụng hành chính"
+  },
+  {
+    "question": "Câu 170: Khái niệm \"Bất động sản\" được hiểu là gì theo pháp luật Việt Nam (Luật Đất đai 2024, Bộ luật Dân sự 2015)?",
+    "options": [
+      "A. Là đất đai và tài sản gắn liền với đất đai, bao gồm nhà ở, công trình xây dựng, rừng sản xuất là rừng tự nhiên.",
+      "B. Là các tài sản bao gồm đất đai; nhà, công trình xây dựng gắn liền với đất; tài sản khác gắn liền với đất, tài sản khác theo quy định của pháp luật.",
+      "C. Là tài sản không thể di dời, chỉ bao gồm đất đai và nhà ở.",
+      "D. Là quyền sử dụng đất và các công trình hình thành trong tương lai trên đất."
+    ],
+    "correct_answer": "B. Là các tài sản bao gồm đất đai; nhà, công trình xây dựng gắn liền với đất; tài sản khác gắn liền với đất, tài sản khác theo quy định của pháp luật."
+  },
+  {
+    "question": "Câu 171: Thị trường bất động sản được đặc trưng bởi yếu tố nào sau đây?",
+    "options": [
+      "A. Giá trị và thanh khoản cao, dễ dàng giao dịch và chuyển nhượng.",
+      "B. Tính không hoàn hảo, tính cục bộ, tính chu kỳ và chịu ảnh hưởng sâu sắc bởi các yếu tố pháp lý, kinh tế vĩ mô.",
+      "C. Cung cầu cân bằng, giá cả ổn định và tính thanh khoản gần như tuyệt đối.",
+      "D. Thị trường luôn hoạt động minh bạch, hoàn hảo, mọi thông tin đều được công khai đầy đủ."
+    ],
+    "correct_answer": "B. Tính không hoàn hảo, tính cục bộ, tính chu kỳ và chịu ảnh hưởng sâu sắc bởi các yếu tố pháp lý, kinh tế vĩ mô."
+  },
+  {
+    "question": "Câu 172: Theo Luật Kinh doanh Bất động sản 2023, một trong những hoạt động kinh doanh bất động sản là gì?",
+    "options": [
+      "A. Đầu tư vốn vào các dự án bất động sản.",
+      "B. Tổ chức quản lý và khai thác các công trình công cộng.",
+      "C. Mua bán, chuyển nhượng, cho thuê các bất động sản không gắn liền với đất.",
+      "D. Đầu tư xây dựng nhà, công trình xây dựng để bán, cho thuê, cho thuê mua."
+    ],
+    "correct_answer": "C. Mua bán, chuyển nhượng, cho thuê các bất động sản không gắn liền với đất."
+  },
+  {
+    "question": "Câu 173: Tính chất nào của bất động sản khiến thị trường này mang tính cục bộ (local market)?",
+    "options": [
+      "A. Tính khan hiếm về nguồn cung và tính bền vững về giá trị.",
+      "B. Tính đồng nhất về mặt kiến trúc và kết cấu xây dựng.",
+      "C. Tính chịu ảnh hưởng bởi chính sách thuế và tiền tệ.",
+      "D. Tính cố định về vị trí (bất động) và tính không di dời được."
+    ],
+    "correct_answer": "D. Tính cố định về vị trí (bất động) và tính không di dời được."
+  },
+  {
+    "question": "Câu 174: Thị trường bất động sản thường được phân loại theo cấp độ nào?",
+    "options": [
+      "A. Thị trường sơ cấp và thị trường thứ cấp.",
+      "B. Thị trường nội địa và thị trường quốc tế.",
+      "C. Thị trường nhà ở và thị trường đất nông nghiệp.",
+      "D. Thị trường giao dịch và thị trường thế chấp."
+    ],
+    "correct_answer": "A. Thị trường sơ cấp và thị trường thứ cấp."
+  },
+  {
+    "question": "Câu 175: Yếu tố kinh tế nào sau đây có tác động lớn nhất đến tổng cầu và khả năng chi trả của người mua trên thị trường bất động sản?",
+    "options": [
+      "A. Sự phát triển của công nghệ xây dựng.",
+      "B. Tốc độ tăng trưởng GDP, lạm phát và thu nhập bình quân đầu người.",
+      "C. Thay đổi trong quy hoạch sử dụng đất và hạ tầng giao thông.",
+      "D. Yếu tố về văn hóa, phong tục tập quán trong xây dựng."
+    ],
+    "correct_answer": "B. Tốc độ tăng trưởng GDP, lạm phát và thu nhập bình quân đầu người."
+  },
+  {
+    "question": "Câu 176: Vai trò của Chính phủ (Nhà nước) đối với thị trường bất động sản được thể hiện rõ nhất qua hoạt động nào sau đây?",
+    "options": [
+      "A. Trực tiếp tham gia vào mọi giao dịch mua bán để niêm yết giá.",
+      "B. Trực tiếp cấp vốn cho mọi dự án phát triển bất động sản.",
+      "C. Ban hành các quy định pháp luật về giao dịch, thuế, quản lý và sử dụng đất đai.",
+      "D. Kiểm soát quy hoạch, kế hoạch sử dụng đất, điều tiết cung cầu thông qua các công cụ tài chính, pháp luật."
+    ],
+    "correct_answer": "D. Kiểm soát quy hoạch, kế hoạch sử dụng đất, điều tiết cung cầu thông qua các công cụ tài chính, pháp luật."
+  },
+  {
+    "question": "Câu 177: Thị trường thứ cấp trong thị trường bất động sản là gì?",
+    "options": [
+      "A. Thị trường giao dịch bất động sản đã cũ hoặc đã qua sử dụng.",
+      "B. Thị trường giao dịch đất đai chưa phát triển hạ tầng.",
+      "C. Thị trường giao dịch lại các bất động sản đã được bán lần đầu từ thị trường sơ cấp.",
+      "D. Thị trường giao dịch bất động sản công nghiệp và du lịch."
+    ],
+    "correct_answer": "C. Thị trường giao dịch lại các bất động sản đã được bán lần đầu từ thị trường sơ cấp."
+  },
+  {
+    "question": "Câu 178: Yếu tố nào sau đây thuộc về nhóm yếu tố hành chính - pháp luật tác động trực tiếp đến việc hình thành nguồn cung bất động sản?",
+    "options": [
+      "A. Dân số và cơ cấu tuổi.",
+      "B. Lãi suất ngân hàng và tỷ giá hối đoái.",
+      "C. Trình tự, thủ tục giao đất, cho thuê đất và chấp thuận chủ trương đầu tư dự án.",
+      "D. Chi phí vật liệu xây dựng và tiền công lao động."
+    ],
+    "correct_answer": "C. Trình tự, thủ tục giao đất, cho thuê đất và chấp thuận chủ trương đầu tư dự án."
+  },
+  {
+    "question": "Câu 179: Xu hướng phát triển nào của thị trường bất động sản được coi là tất yếu trong bối cảnh toàn cầu hóa và công nghiệp 4.0?",
+    "options": [
+      "A. Chuyển dịch dòng vốn đầu tư sang thị trường ngách như bất động sản nghỉ dưỡng.",
+      "B. Phát triển bất động sản xanh, thông minh và ứng dụng công nghệ (Proptech) trong quản lý, giao dịch.",
+      "C. Tăng cường đầu tư vào các thành phố cấp 3 và cấp 4.",
+      "D. Sự giảm sút về vai trò của các nhà phát triển dự án."
+    ],
+    "correct_answer": "B. Phát triển bất động sản xanh, thông minh và ứng dụng công nghệ (Proptech) trong quản lý, giao dịch."
+  },
+  {
+    "question": "Câu 180: Trong chu kỳ thị trường bất động sản, giai đoạn nào thường có đặc điểm là nguồn cung khan hiếm, giá tăng mạnh và giao dịch sôi động?",
+    "options": [
+      "A. Giai đoạn khủng hoảng và suy thoái.",
+      "B. Giai đoạn phục hồi.",
+      "C. Giai đoạn tăng trưởng (Nóng).",
+      "D. Giai đoạn ổn định."
+    ],
+    "correct_answer": "C. Giai đoạn tăng trưởng (Nóng)."
+  },
+  {
+    "question": "Câu 181: Vai trò điều tiết của Nhà nước thông qua công cụ tín dụng/tiền tệ được thể hiện như thế nào?",
+    "options": [
+      "A. Kiểm soát chặt chẽ giá mua bán và cho thuê trên thị trường.",
+      "B. Thường xuyên thay đổi quy hoạch sử dụng đất để tăng nguồn cung.",
+      "C. Trực tiếp mua lại các dự án đang gặp khó khăn tài chính.",
+      "D. Điều chỉnh lãi suất cho vay, tỷ lệ vốn tự có bắt buộc và kiểm soát dòng vốn vào lĩnh vực bất động sản."
+    ],
+    "correct_answer": "D. Điều chỉnh lãi suất cho vay, tỷ lệ vốn tự có bắt buộc và kiểm soát dòng vốn vào lĩnh vực bất động sản."
+  },
+  {
+    "question": "Câu 182: Theo Luật Đất đai 2024, quyền nào sau đây là quyền cơ bản của người sử dụng đất, tạo cơ sở cho hoạt động kinh doanh bất động sản?",
+    "options": [
+      "A. Quyền được Nhà nước cấp vốn đầu tư xây dựng.",
+      "B. Quyền được miễn mọi nghĩa vụ tài chính liên quan đến đất.",
+      "C. Quyền được tham gia quyết định quy hoạch sử dụng đất.",
+      "D. Quyền chuyển đổi, chuyển nhượng, cho thuê, thừa kế, tặng cho quyền sử dụng đất."
+    ],
+    "correct_answer": "D. Quyền chuyển đổi, chuyển nhượng, cho thuê, thừa kế, tặng cho quyền sử dụng đất."
+  },
+  {
+    "question": "Câu 183: Yếu tố nào sau đây thuộc nhóm yếu tố xã hội có ảnh hưởng đến thị trường bất động sản?",
+    "options": [
+      "A. Lãi suất, tỷ lệ thất nghiệp.",
+      "B. Chính sách phát triển hạ tầng giao thông.",
+      "C. Tốc độ đô thị hóa, dân số và tâm lý (kỳ vọng) đầu tư của cộng đồng.",
+      "D. Chi phí san lấp mặt bằng và giải phóng mặt bằng."
+    ],
+    "correct_answer": "C. Tốc độ đô thị hóa, dân số và tâm lý (kỳ vọng) đầu tư của cộng đồng."
+  },
+  {
+    "question": "Câu 184: Điều nào sau đây là yêu cầu bắt buộc đối với bất động sản đưa vào kinh doanh theo Luật Kinh doanh Bất động sản 2023?",
+    "options": [
+      "A. Phải có ít nhất 70% giá trị hợp đồng được bảo lãnh bởi ngân hàng.",
+      "B. Phải được xây dựng và hoàn thành đồng bộ toàn bộ hạ tầng kỹ thuật.",
+      "C. Phải có Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất đối với bất động sản có sẵn.",
+      "D. Phải có sự chấp thuận giao dịch của Ủy ban nhân dân cấp tỉnh."
+    ],
+    "correct_answer": "C. Phải có Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất đối với bất động sản có sẵn."
+  },
+  {
+    "question": "Câu 185: Sự phát triển của hệ thống hạ tầng kỹ thuật và hạ tầng xã hội thuộc nhóm yếu tố nào tác động đến thị trường bất động sản?",
+    "options": [
+      "A. Yếu tố tự nhiên.",
+      "B. Yếu tố kinh tế.",
+      "C. Yếu tố xã hội.",
+      "D. Yếu tố quy hoạch và phát triển hạ tầng."
+    ],
+    "correct_answer": "D. Yếu tố quy hoạch và phát triển hạ tầng."
+  },
+  {
+    "question": "Câu 186. Đối tượng nào sau đây không được hành nghề thẩm định giá theo quy định tại Khoản 2 Điều 45 Luật Giá 2023?",
+    "options": [
+      "A. Người có Thẻ thẩm định viên về giá hết hạn.",
+      "B. Người đang trong thời gian bị khởi tố, truy tố, xét xử.",
+      "C. Người có bằng đại học chuyên ngành thẩm định giá.",
+      "D. Người làm việc tại doanh nghiệp thẩm định giá."
+    ],
+    "correct_answer": "B. Người đang trong thời gian bị khởi tố, truy tố, xét xử."
+  },
+  {
+    "question": "Câu 187. Các phương pháp định giá đất bao gồm:",
+    "options": [
+      "A. Phương pháp so sánh",
+      "B. Phương pháp thu nhập",
+      "C. Phương pháp thặng dư và phương pháp hệ số điều chỉnh giá đất",
+      "D. Cả 3 trường hợp trên"
+    ],
+    "correct_answer": "D. Cả 3 trường hợp trên"
+  },
+  {
+    "question": "Câu 188. Việc xây dựng Bảng giá đất chi tiết đến từng thửa đất theo Luật Đất đai 2024 yêu cầu phải có điều kiện gì về hạ tầng thông tin?",
+    "options": [
+      "A. Mạng lưới internet tốc độ cao",
+      "B. Hệ thống định vị toàn cầu",
+      "C. Bản đồ địa chính số và cơ sở dữ liệu giá đất",
+      "D. Hệ thống camera giám sát"
+    ],
+    "correct_answer": "C. Bản đồ địa chính số và cơ sở dữ liệu giá đất"
+  },
+  {
+    "question": "Câu 189. Một doanh nghiệp thẩm định giá có thể bị thu hồi Giấy chứng nhận đủ điều kiện kinh doanh nếu không phát hành chứng thư thẩm định giá, báo cáo thẩm định giá trong:",
+    "options": [
+      "A. 6 tháng liên tục",
+      "B. 12 tháng liên tục",
+      "C. 18 tháng liên tục",
+      "D. 24 tháng liên tục"
+    ],
+    "correct_answer": "B. 12 tháng liên tục"
+  },
+  {
+    "question": "Câu 190. Cơ quan nhà nước có thẩm quyền định giá thực hiện định giá theo các hình thức sau đây:",
+    "options": [
+      "A.Giá cụ thể là mức giá mà cơ quan, tổ chức, cá nhân phải mua, bán theo đúng mức giá đó;",
+      "B. Giá tối thiểu là mức giá mà cơ quan, tổ chức, cá nhân không được định giá, mua, bán thấp hơn mức giá đó;",
+      "C. Giá tối đa là mức giá mà cơ quan, tổ chức, cá nhân không được định giá, mua, bán cao hơn mức giá đó;",
+      "D. Cả 3 trương hợp trên"
+    ],
+    "correct_answer": "D. Cả 3 trương hợp trên"
+  },
+  {
+    "question": "Câu 191. Phương thức giải quyết tranh chấp về hợp đồng thẩm định giá",
+    "options": [
+      "A.Thương lượng, hòa giải trên cơ sở những cam kết đã ghi trong hợp đồng thẩm định giá.",
+      "B. Giải quyết bằng trọng tài thương mại.",
+      "C. Khởi kiện tại Tòa án theo quy định của pháp luật về tố tụng dân sự.",
+      "D. Cả 3 trường hợp trên"
+    ],
+    "correct_answer": "D. Cả 3 trường hợp trên"
+  },
+  {
+    "question": "Câu 192. Điều kiện cấp giấy chứng nhận đủ điều kiện kinh doanh dịch vụ thẩm định giá",
+    "options": [
+      "A. Doanh nghiệp phải có ít nhất 02 người có thẻ thẩm định viên về giá đủ các điều kiện đăng ký hành nghề thẩm định giá",
+      "B. Doanh nghiệp phải có ít nhất 03 người có thẻ thẩm định viên về giá đủ các điều kiện đăng ký hành nghề thẩm định giá",
+      "C. Doanh nghiệp phải có ít nhất 04 người có thẻ thẩm định viên về giá đủ các điều kiện đăng ký hành nghề thẩm định giá",
+      "D. Doanh nghiệp phải có ít nhất 05 người có thẻ thẩm định viên về giá đủ các điều kiện đăng ký hành nghề thẩm định giá\\"
+    ],
+    "correct_answer": "D. Doanh nghiệp phải có ít nhất 05 người có thẻ thẩm định viên về giá đủ các điều kiện đăng ký hành nghề thẩm định giá\\"
+  },
+  {
+    "question": "Câu 193. Căn cứ định giá của Nhà nước được quy định",
+    "options": [
+      "A. Yếu tố hình thành giá của hàng hóa, dịch vụ tại thời điểm định giá hoặc thời gian xác định yếu tố hình thành giá trong phương án giá phù hợp với đặc điểm, tính chất của hàng hóa, dịch vụ;",
+      "B. Quan hệ cung cầu của hàng hóa, dịch vụ, nhu cầu của thị trường và sức mua của đồng tiền; khả năng thanh toán của người tiêu dùng;",
+      "C. Giá thị trường trong nước, thế giới và khả năng cạnh tranh của hàng hoá, dịch vụ.",
+      "D. Cả 3 trường hợp trên"
+    ],
+    "correct_answer": "D. Cả 3 trường hợp trên"
+  },
+  {
+    "question": "Câu 194. Nguyên tắc định giá đất của Nhà nước",
+    "options": [
+      "A. Bảo đảm quyền, lợi ích hợp pháp của Nhà nước, tổ chức, cá nhân kinh doanh hàng hóa, dịch vụ, người tiêu dùng",
+      "B. Theo giá Nhà nước quy định sẵn",
+      "C. Theo giá doanh nghiệp đề xuất",
+      "D. Theo ý kiến Hội đồng nhân dân"
+    ],
+    "correct_answer": "A. Bảo đảm quyền, lợi ích hợp pháp của Nhà nước, tổ chức, cá nhân kinh doanh hàng hóa, dịch vụ, người tiêu dùng"
+  },
+  {
+    "question": "Câu 195. Bảng giá đất hằng năm được công bố và áp dụng từ thời điểm nào?",
+    "options": [
+      "A. Từ ngày 01 tháng 01 hằng năm",
+      "B. Từ ngày 01 tháng 7 hằng năm",
+      "C. Từ ngày 01 tháng 4 hằng năm",
+      "D. Sau khi có quyết định của Chính phủ"
+    ],
+    "correct_answer": "A. Từ ngày 01 tháng 01 hằng năm"
+  },
+  {
+    "question": "Câu 196. Giá đất cụ thể được áp dụng trong trường hợp nào sau đây?\nA. Khi Nhà nước thu hồi đất",
+    "options": [
+      "B. Khi giao đất, cho thuê đất có thu tiền",
+      "C. Khi chuyển mục đích sử dụng đất",
+      "D. Tất cả các trường hợp trên"
+    ],
+    "correct_answer": "D. Tất cả các trường hợp trên"
+  },
+  {
+    "question": "Câu 197. Bảng giá đất được áp dụng cho các trường hợp sau đây:",
+    "options": [
+      "A. Tính tiền thuê đất khi Nhà nước cho thuê đất thu tiền thuê đất hằng năm;",
+      "B. Tính thuế sử dụng đất; Tính thuế thu nhập từ chuyển quyền sử dụng đất đối với hộ gia đình, cá nhân;",
+      "C. Tính tiền xử phạt vi phạm hành chính trong lĩnh vực đất đai;",
+      "D. Tất cả các đáp án trên"
+    ],
+    "correct_answer": "D. Tất cả các đáp án trên"
+  },
+  {
+    "question": "Câu 198. Phương pháp thu nhập được áp dụng để định giá",
+    "options": [
+      "A. Thửa đất, khu đất nông nghiệp, đất phi nông nghiệp",
+      "B. Đất ở",
+      "C. Đất gắn liền với tài sản trên đất",
+      "D. Đất nghĩa trang"
+    ],
+    "correct_answer": "A. Thửa đất, khu đất nông nghiệp, đất phi nông nghiệp"
+  },
+  {
+    "question": "Câu 199. Phương pháp so sánh được áp dụng để định giá",
+    "options": [
+      "A. Đất ở",
+      "B. Đất thương mại, dịch vụ, sản xuất kinh doanh",
+      "C. Đất có tối thiểu 03 thửa đất có cùng mục đích sử dụng đất, tương đồng nhất định về các yếu tố có ảnh hưởng đến giá đất đã chuyển nhượng trên thị trường, trúng đấu giá quyền sử dụng đất mà người trúng đấu giá đã hoàn thành nghĩa vụ tài chính theo quyết định trúng đấu giá",
+      "D. Đất nông nghiệp"
+    ],
+    "correct_answer": "C. Đất có tối thiểu 03 thửa đất có cùng mục đích sử dụng đất, tương đồng nhất định về các yếu tố có ảnh hưởng đến giá đất đã chuyển nhượng trên thị trường, trúng đấu giá quyền sử dụng đất mà người trúng đấu giá đã hoàn thành nghĩa vụ tài chính theo quyết định trúng đấu giá"
+  },
+  {
+    "question": "Câu 200. Bảng giá đất hằng năm do cơ quan nào ban hành?",
+    "options": [
+      "A. Bộ Tài chính",
+      "B. Bộ Tài nguyên và Môi trường",
+      "C. Ủy ban nhân dân cấp tỉnh",
+      "D. Hội đồng nhân dân cấp tỉnh"
+    ],
+    "correct_answer": "C. Ủy ban nhân dân cấp tỉnh"
+  },
+  {
+    "question": "Hành vi nào sau đây bị nghiêm cẩm theo Luật KDBDS 20237",
+    "options": [
+      "A. Kinh doanh BĐS đủ điều kiện theo quy định.",
+      "B. Công khai đây dủ thông tin về dự ản BĐS.",
+      "C. Thu tiền đặt cọc mua nhà hình thành trong tương lai không quả 5% giả bán.",
+      "D. Giá mạo tài liệu, cố ý làm sai lệch thông tin về BĐS"
+    ],
+    "correct_answer": "D. Giá mạo tài liệu, cố ý làm sai lệch thông tin về BĐS"
+  },
+  {
+    "question": "Nêu bền mua, thuế mua nhà ở, công trinh xãy dựng tự thực hiện việc xin cấp Giấy chứng nhận thì tổng số tiền thanh toán trước khi được cấp giấy không vượt quá bao nhiều % giá trị hợp đồng?",
+    "options": [
+      "A. 0.7",
+      "B. 0.8",
+      "C. 0.9",
+      "D. 0.95"
+    ],
+    "correct_answer": "D. 0.95"
+  },
+  {
+    "question": "Mức đặt cọc tối đa mà chủ đầu tư được thu khi bán nhà ở hình thành trong tương lai theo Luật KDBĐS 2023 là bao nhiêu?",
+    "options": [
+      "A. 10% giá bán",
+      "B. 5% giả bản",
+      "C. 30% giả bản",
+      "D. Không giời hạn"
+    ],
+    "correct_answer": "B. 5% giả bản"
+  },
+  {
+    "question": "Cá nhân hành nghề mỗi giới BĐS được nhận thủ lao/hoa hồng từ đầu theo Luật KDBĐS 2023?",
+    "options": [
+      "A. Trực tiếp từ khách hàng (bên mua/bên bán).",
+      "B. Từ chủ đầu tư dự án.",
+      "C. Từ sàn giao dịch BĐS hoặc doanh nghiệp kinh doanh dịch vụ môi giới BĐS nơi cá nhân đó làm việc.",
+      "D. Từ cơ quan quản lý nhà nước."
+    ],
+    "correct_answer": "C. Từ sàn giao dịch BĐS hoặc doanh nghiệp kinh doanh dịch vụ môi giới BĐS nơi cá nhân đó làm việc."
+  },
+  {
+    "question": "Tình huống: Công ty BĐS An Khang đang triển khai dự án nhà ở thương mại quy mô 18 ha. Để đáp ứng điều kiện về vốn chủ sở hữu theo Luật KDBĐS 2023, An Khang cần đảm bảo tỷ lệ vốn chủ sở hữu tối thiểu là bao nhiêu so với tổng mức đầu tư?",
+    "options": [
+      "A. 15%, vì dự án dưới 20 ha.",
+      "B. 20%, vì dự án dưới 20 ha.",
+      "C. 15%, vì là dự án nhà ở thương mại.",
+      "D. 20%, bất kể quy mô dự án."
+    ],
+    "correct_answer": "B. 20%, vì dự án dưới 20 ha."
+  },
+  {
+    "question": "Tình huống: Bà Lan là một nhà môi giới BĐS tự do, có chứng chỉ hành nghề còn hiệu lực. Bà tự mình tìm kiếm khách hàng và thực hiện giao dịch môi giới cho một vụ mua bán nhà đất giữa ông Bình và bà Hoa, nhận hoa hồng trực tiếp từ ông Bình. Hoạt động của bà Lan có vi phạm Luật KDBĐS 2023 không?",
+    "options": [
+      "A. Không vi phạm, vì bà có chứng chỉ hành nghề.",
+      "B. Chỉ vi phạm nếu không kê khai thuế thu nhập.",
+      "C. Vi phạm, vì cá nhân không được hoạt động môi giới độc lập và không được nhận hoa hồng trực tiếp từ khách hàng.",
+      "D. Chỉ vi phạm nếu giá trị giao dịch trên 300 tỷ đồng."
+    ],
+    "correct_answer": "C. Vi phạm, vì cá nhân không được hoạt động môi giới độc lập và không được nhận hoa hồng trực tiếp từ khách hàng."
+  },
+  {
+    "question": "Doanh nghiệp BĐS M ký hợp đồng bán căn hộ hình thành trong tương lai cho khách hàng, trong hợp đồng có điều khoản \"Bên mua đồng ý không yêu cầu Bên bán cung cấp bảo lãnh ngân hàng\". Khách hàng ký vào hợp đồng này. Điều khoản này có hiệu lực pháp lý không?",
+    "options": [
+      "A. Có hiệu lực vì khách hàng đã đồng ý ký.",
+      "B. Không có hiệu lực vì bảo lãnh ngân hàng là bắt buộc theo luật.",
+      "C. Có hiệu lực, vì Luật Kinh doanh BĐS 2023 cho phép người mua lựa chọn không yêu cầu bảo lãnh.",
+      "D. Chỉ có hiệu lực nếu được công chứng."
+    ],
+    "correct_answer": "C. Có hiệu lực, vì Luật Kinh doanh BĐS 2023 cho phép người mua lựa chọn không yêu cầu bảo lãnh."
+  },
+  {
+    "question": "Yêu cầu đối với dự án đầu tư bất động sản để kinh doanh là gì?",
+    "options": [
+      "A. Dự án đầu tư BĐS để kinh doanh phải phù hợp với quy hoạch, kế hoạch sử dụng đất, quy hoạch đô thị, quy hoạch xây dựng nông thôn và phải theo kế hoạch thực hiện được cơ quan nhà nước có thẩm quyền phê duyệt.",
+      "B. Trình tự, thủ tục đầu tư dự án BĐS để kinh doanh thực hiện theo quy định của pháp luật về đầu tư, đất đai, xây dựng, đô thị, nhà ở và quy định khác của pháp luật có liên quan.",
+      "C. Dự án đầu tư bất động sản phải được thi công đúng tiến độ, bảo đảm chất lượng theo quy định của pháp luật về xây dựng.",
+      "D. Tất cả các phương án trên."
+    ],
+    "correct_answer": "D. Tất cả các phương án trên."
+  },
+  {
+    "question": "Hợp đồng đặt cọc mua căn hộ hình thành trong tương lai giữa chủ đầu tư và khách hàng có ghi giá bán dự kiến là 3 tỷ đồng, tiền cọc là 150 triệu đồng (5%). Tuy nhiên, khi ký hợp đồng mua bán, chủ đầu tư tăng giá bán lên 3.2 tỷ đồng do biến động thị trường. Khách hàng có bắt buộc phải chấp nhận giá mới không?",
+    "options": [
+      "A. Có, vì giá trong hợp đồng đặt cọc chỉ là dự kiến.",
+      "B. Có, vì thị trường biến động là yếu tố khách quan.",
+      "C. Không, thỏa thuận đặt cọc theo Luật KD BĐS 2023 yêu cầu ghi rõ giá bán/cho thuê mua. Việc tăng giá sau đó mà không có thóa thuận trước là vi phạm thỏa thuận đặt cọc, khách hàng có quyền từ chối ký HĐMB và yêu cầu trả lại cọc, thậm chí phạt cọc.",
+      "D. Chỉ bắt buộc chấp nhận nếu mức tăng dưới 10%."
+    ],
+    "correct_answer": "C. Không, thỏa thuận đặt cọc theo Luật KD BĐS 2023 yêu cầu ghi rõ giá bán/cho thuê mua. Việc tăng giá sau đó mà không có thóa thuận trước là vi phạm thỏa thuận đặt cọc, khách hàng có quyền từ chối ký HĐMB và yêu cầu trả lại cọc, thậm chí phạt cọc."
+  },
+  {
+    "question": "Mức thù lao của dịch vụ môi giới bất động sản được xác định:",
+    "options": [
+      "A. Không quá 3% giá trị bất động sản được tư vấn",
+      "B. Theo thỏa thuận trong hợp đồng",
+      "C. Không ít hơn 500.000 đồng cho mỗi lần tư vấn",
+      "D. Đáp án A, B và C đều đúng"
+    ],
+    "correct_answer": "B. Theo thỏa thuận trong hợp đồng"
+  },
+  {
+    "question": "Doanh nghiệp kinh doanh dịch vụ sàn giao dịch bất động sản có quyền:",
+    "options": [
+      "A. Tự ý bán, chuyển nhượng, cho thuê, cho thuê lại, cho thuê mua tất cả các bất động sản",
+      "B. được đưa lên sàn giao dịch bất động sản.",
+      "C. Quản lý, giám sát việc khai thác, sử dụng bất động sản của khách hàng",
+      "D. Được thu phí dịch vụ của khách hàng có bất động sản được đưa lên sàn giao dịch bất động sản"
+    ],
+    "correct_answer": "C. Quản lý, giám sát việc khai thác, sử dụng bất động sản của khách hàng"
+  },
+  {
+    "question": "Dự án Bất động sản, công trình xây dựng đủ điều kiện được giao dịch trên thị trường bất động sản khi:",
+    "options": [
+      "A. Có quy hoạch 1/500 được duyệt.",
+      "B. Có chứng nhận đầu tư của cơ quan có thẩm quyền.",
+      "C. Có quyết định cho phép thực hiện dự án của cấp có thẩm quyền, có giấy phép xây dựng công trình.",
+      "D. Cả 3 phương án trên đều đúng."
+    ],
+    "correct_answer": "D. Cả 3 phương án trên đều đúng."
+  },
+  {
+    "question": "Mức vốn pháp định tối thiểu đối với ngành nghề kinh doanh bất động sản:",
+    "options": [
+      "A. 20 tỷ đồng.",
+      "B. 50 tỷ đồng.",
+      "C. 10 tỷ đồng.",
+      "D. Pháp luật không quy định."
+    ],
+    "correct_answer": "D. Pháp luật không quy định."
+  },
+  {
+    "question": "Tổng số tiền thanh toán trước khi bên mua được cấp Giấy chứng nhận không được vượt quá bao nhiêu % giá trị hợp đồng?",
+    "options": [
+      "A. 70%",
+      "B. 80%",
+      "C. 95%",
+      "D. 100%"
+    ],
+    "correct_answer": "C. 95%"
+  },
+  {
+    "question": "Thỏa thuận đặt cọc để mua nhà ở hình thành trong tương lai theo Luật KD BĐS 2023 phải bao gồm nội dung gì về giá?",
+    "options": [
+      "A. Không cần ghi giá, chỉ cần ghi số tiền cọc.",
+      "B. Chỉ cần ghi khoảng giá tham khảo.",
+      "C. Phải ghi rõ giá bán hoặc giá cho thuê mua dự kiến tại thời điểm ký thỏa thuận đặt cọc.",
+      "D. Giá sẽ được xác định khi ký hợp đồng mua bán chính thức."
+    ],
+    "correct_answer": "C. Phải ghi rõ giá bán hoặc giá cho thuê mua dự kiến tại thời điểm ký thỏa thuận đặt cọc."
+  },
+  {
+    "question": "Khi áp dụng phương pháp định giá đất \"thặng dư\" theo Luật Đất đai 2024, yếu tố nào là cơ sở chính để xác định giá trị đất?",
+    "options": [
+      "A. Giá chuyển nhượng của các thửa đất tương tự đã giao dịch.",
+      "B. Thu nhập ròng hàng năm dự kiến từ việc sử dụng đất.",
+      "C. Lấy tổng doanh thu phát triển giả định của bất động sản trừ đi tổng chi phí phát triển ước tính.",
+      "D. Hệ số điều chỉnh giá đất do UBND tỉnh ban hành."
+    ],
+    "correct_answer": "C. Lấy tổng doanh thu phát triển giả định của bất động sản trừ đi tổng chi phí phát triển ước tính."
+  },
+  {
+    "question": "Tình huống: Anh L muốn đặt cọc 10% giá trị căn hộ hình thành trong tương lai của chủ đầu tư M vào tháng 6/2025 để giữ chỗ. Dự án đã có giấy phép xây dựng và đã thi công xong phần móng. Chủ đầu tư M có được nhận tiền đặt cọc 10% từ anh L không?",
+    "options": [
+      "A. Được, vì dự án đã có giấy phép và đang thi công.",
+      "B. Được, nếu anh L tự nguyện đồng ý.",
+      "C. Không được, vì mức đặt cọc tối đa chỉ là 5% giá bán/cho thuê mua.",
+      "D. Không được, vì phải xây xong móng mới được nhận đặt cọc."
+    ],
+    "correct_answer": "C. Không được, vì mức đặt cọc tối đa chỉ là 5% giá bán/cho thuê mua."
+  },
+  {
+    "question": "Theo Luật Kinh doanh bất động sản, tổ chức, cá nhân muốn kinh doanh BĐS phải có điều kiện gì?",
+    "options": [
+      "A. Thành lập doanh nghiệp/HTX, trừ trường hợp cá nhân kinh doanh quy mô nhỏ.",
+      "B. Có vốn pháp định tối thiểu 50 tỷ đồng.",
+      "C. Đăng ký hộ kinh doanh cá thể.",
+      "D. Được Sở Xây dựng cấp phép hành nghề."
+    ],
+    "correct_answer": "A. Thành lập doanh nghiệp/HTX, trừ trường hợp cá nhân kinh doanh quy mô nhỏ."
+  },
+  {
+    "question": "Hợp đồng kinh doanh bất động sản mà hai bên tham gia giao dịch là doanh nghiệp kinh doanh bất động sản.",
+    "options": [
+      "A. Phải công chứng hoặc chứng thực",
+      "B. Không công chứng hoặc chứng thực",
+      "C. Công chứng hoặc chứng thực theo yêu cầu các bên",
+      "D. Chọn B, C"
+    ],
+    "correct_answer": "D. Chọn B, C"
+  },
+  {
+    "question": "Doanh nghiệp kinh doanh BĐS phải công khai thông tin dự án ở đâu?",
+    "options": [
+      "A. Website của Bộ Xây dựng.",
+      "B. Báo chí trung ương.",
+      "C. Hệ thống thông tin về nhà ở và thị trường BĐS & website của doanh nghiệp.",
+      "D. Chỉ cần niêm yết tại trụ sở doanh nghiệp."
+    ],
+    "correct_answer": "C. Hệ thống thông tin về nhà ở và thị trường BĐS & website của doanh nghiệp."
+  },
+  {
+    "question": "Khi một môi giới cùng một thẩm định viên thẩm định giá trị một căn nhà ở Block A, Khu đô thị X, họ nên chọn cách tiếp nào dưới đây để đưa ra mô hình thẩm định giá BĐS phù hợp. Biết rằng, khách hàng dự định mua căn nhà này để cùng gia đình sinh sống lâu dài?",
+    "options": [
+      "A. Cách tiếp cận thu nhập.",
+      "B. Cách tiếp cận so sánh.",
+      "C. Cách tiếp cận chi phí.",
+      "D. Tất cả các cách trên."
+    ],
+    "correct_answer": "B. Cách tiếp cận so sánh."
+  },
+  {
+    "question": "Theo Luật Kinh doanh bất động sản 2023, điều kiện chung đối với tổ chức kinh doanh BĐS là gì (ngoại trừ trường hợp quy mô nhỏ)?",
+    "options": [
+      "A. Phải có vốn pháp định tối thiểu là 20 tỷ đồng.",
+      "B. Phải thành lập doanh nghiệp hoặc hợp tác xã và công khai thông tin về doanh nghiệp.",
+      "C. Phải có Giấy phép kinh doanh BĐS do cơ quan có thẩm quyền cấp.",
+      "D. Phải có ít nhất 02 người có chứng chỉ môi giới BĐS."
+    ],
+    "correct_answer": "B. Phải thành lập doanh nghiệp hoặc hợp tác xã và công khai thông tin về doanh nghiệp."
+  },
+  {
+    "question": "Bà An bán 03 căn hộ và cho thuê 05 phòng trọ do mình xây dựng. Bà có cần thành lập doanh nghiệp không?",
+    "options": [
+      "A. Bắt buộc phải thành lập doanh nghiệp vì có mục đích sinh lời.",
+      "B. Phải thành lập doanh nghiệp vì số lượng căn hộ vượt quá quy mô nhỏ.",
+      "C. Không cần thành lập doanh nghiệp vì đây là hoạt động kinh doanh BĐS quy mô nhỏ, không thường xuyên.",
+      "D. Không cần thành lập nếu tổng giá trị giao dịch không vượt mức quy định của Bộ Tài chính."
+    ],
+    "correct_answer": "C. Không cần thành lập doanh nghiệp vì đây là hoạt động kinh doanh BĐS quy mô nhỏ, không thường xuyên."
+  },
+  {
+    "question": "Dự án nhà ở thương mại quy mô 15 ha cần vốn chủ sở hữu tối thiểu là bao nhiêu so với tổng mức đầu tư?",
+    "options": [
+      "A. Không thấp hơn 15% tổng mức đầu tư.",
+      "B. Không thấp hơn 20% tổng mức đầu tư.",
+      "C. Không thấp hơn 25% tổng mức đầu tư.",
+      "D. Không thấp hơn 10% tổng mức đầu tư."
+    ],
+    "correct_answer": "B. Không thấp hơn 20% tổng mức đầu tư."
+  },
+  {
+    "question": "Nhà ở, công trình xây dựng có sẵn đưa vào kinh doanh phải đáp ứng điều kiện nào về pháp lý?",
+    "options": [
+      "A. Phải có Giấy phép xây dựng và biên bản nghiệm thu.",
+      "B. Phải có Giấy chứng nhận quyền sở hữu và không đang bị kê biên để thi hành án.",
+      "C. Chưa có bất kỳ khiếu nại, tố cáo nào liên quan đến quyền sở hữu.",
+      "D. Đã hoàn thành xây dựng theo đúng thiết kế được duyệt."
+    ],
+    "correct_answer": "B. Phải có Giấy chứng nhận quyền sở hữu và không đang bị kê biên để thi hành án."
+  },
+  {
+    "question": "Điều kiện quan trọng nhất để nhà ở hình thành trong tương lai được đưa vào kinh doanh là gì?",
+    "options": [
+      "A. Đã hoàn thành phần thô và có bảo lãnh ngân hàng.",
+      "B. Đã nộp đủ tiền sử dụng đất và được phê duyệt thiết kế kỹ thuật.",
+      "C. Có giấy tờ chứng minh đã được nghiệm thu hoàn thành xây dựng phần móng theo quy định của pháp luật về xây dựng tương ứng theo tiến độ dự án và có văn bản thông báo đủ điều kiện bán của cơ quan quản lý nhà ở cấp tỉnh.",
+      "D. Có văn bản chấp thuận của Sở Xây dựng và đã có Giấy phép xây dựng."
+    ],
+    "correct_answer": "C. Có giấy tờ chứng minh đã được nghiệm thu hoàn thành xây dựng phần móng theo quy định của pháp luật về xây dựng tương ứng theo tiến độ dự án và có văn bản thông báo đủ điều kiện bán của cơ quan quản lý nhà ở cấp tỉnh."
+  },
+  {
+    "question": "Để kinh doanh quyền sử dụng đất đã có hạ tầng kỹ thuật, điều kiện bắt buộc là gì?",
+    "options": [
+      "A. Đã hoàn thành nghĩa vụ tài chính và được cho phép phân lô bán nền.",
+      "B. Có Giấy chứng nhận QSDĐ và hoàn thành đầu tư xây dựng các công trình hạ tầng kỹ thuật theo tiến độ dự án.",
+      "C. Đất không có tranh chấp và đã nộp đủ 50% tiền sử dụng đất.",
+      "D. Hoàn thành hạ tầng đồng bộ và đảm bảo cung cấp dịch vụ cơ bản."
+    ],
+    "correct_answer": "B. Có Giấy chứng nhận QSDĐ và hoàn thành đầu tư xây dựng các công trình hạ tầng kỹ thuật theo tiến độ dự án."
+  },
+  {
+    "question": "Trong thời hạn bao nhiêu ngày kể từ ngày bàn giao nhà ở cho bên mua thì Chủ đầu tư phải nộp hồ sơ đề nghị cơ quan nhà nước có thẩm quyền cấp giấy chứng nhận về quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất cho bên mua.",
+    "options": [
+      "A. 30 ngày",
+      "B. 40 ngày",
+      "C. 50 ngày",
+      "D. 60 ngày."
+    ],
+    "correct_answer": "C. 50 ngày"
+  },
+  {
+    "question": "Điều kiện cốt lõi đối với bên nhận chuyển nhượng toàn bộ hoặc một phần dự án BĐS là gì?",
+    "options": [
+      "A. Phải có kinh nghiệm 03 năm trong lĩnh vực BĐS.",
+      "B. Cam kết tiếp tục triển khai dự án theo đúng nội dung đã được phê duyệt.",
+      "C. Phải hoàn thành 50% nghĩa vụ tài chính về đất đai của dự án.",
+      "D. Không nợ thuế quá 60 ngày."
+    ],
+    "correct_answer": "B. Cam kết tiếp tục triển khai dự án theo đúng nội dung đã được phê duyệt."
+  },
+  {
+    "question": "Cơ quan nào có thẩm quyền cho phép chuyển nhượng dự án do UBND cấp tỉnh quyết định chủ trương đầu tư?",
+    "options": [
+      "A. Sở Xây dựng cấp tỉnh.",
+      "B. Bộ Xây dựng.",
+      "C. Ủy ban nhân dân cấp tỉnh.",
+      "D. Thủ tướng Chính phủ."
+    ],
+    "correct_answer": "C. Ủy ban nhân dân cấp tỉnh."
+  },
+  {
+    "question": "Trường hợp nào sau đây chủ đầu tư bị nghiêm cấm chuyển nhượng dự án?",
+    "options": [
+      "A. Dự án đang trong quá trình thế chấp tại ngân hàng.",
+      "B. Dự án chưa hoàn thành xong phần móng công trình.",
+      "C. Có quyết định thu hồi đất hoặc chấm dứt hoạt động của dự án từ cơ quan có thẩm quyền.",
+      "D. Dự án đã chuyển nhượng một phần trước đó."
+    ],
+    "correct_answer": "C. Có quyết định thu hồi đất hoặc chấm dứt hoạt động của dự án từ cơ quan có thẩm quyền."
+  },
+  {
+    "question": "Theo Luật Kinh doanh bất động sản 2023, trường hợp nào đất đã có hạ tầng kỹ thuật trong dự án bất động sản không được chuyển nhượng quyền sử dụng đất cho cá nhân tự xây dựng nhà ở",
+    "options": [
+      "A. Đất nông nghiệp vùng sâu v",
+      "B. Đất nông nghiệp vùng sâu vùng xa.",
+      "C. Đất thuộc khu vực Phường thuộc đô thị loại đặc biệt, loại I, loại II và loại III.",
+      "D. Đất ở nông thôn mới hoàn thiện hạ tầng."
+    ],
+    "correct_answer": "B. Đất nông nghiệp vùng sâu vùng xa."
+  },
+  {
+    "question": "Chủ đầu tư dự án nhà ở thương mại chỉ được phân lô, bán nền đối với phần diện tích nào?",
+    "options": [
+      "A. Toàn bộ diện tích đất ở của dự án.",
+      "B. Đối với phần diện tích đất Không thuộc khu vực phường, thành phố của đô thị loại đặc biệt, loại I, loại II và loại I!I.",
+      "C. Phần diện tích đất xây dựng nhà ở cao tầng.",
+      "D. Đất ở thuộc khu vực chưa cần xây dựng nhà ở ngay."
+    ],
+    "correct_answer": "B. Đối với phần diện tích đất Không thuộc khu vực phường, thành phố của đô thị loại đặc biệt, loại I, loại II và loại I!I."
+  },
+  {
+    "question": "Theo quy định của Luật kinh doanh bất động sản 2023, Hợp đồng kinh doanh bất động sản mà ít nhất một bên tham gia giao dịch là doanh nghiệp kinh doanh bất động sản có bắt buộc công chứng hoặc chứng thực không ?",
+    "options": [
+      "A. Bắt buộc phải công chứng trong mọi trường hợp.",
+      "B. Được công chứng hoặc chứng thực theo yêu cầu của các bên.",
+      "C. Phải có xác nhận của cơ quan đăng ký đất đai.",
+      "D. Phải được lập thành văn bản và có chữ ký người đại diện pháp luật."
+    ],
+    "correct_answer": "B. Được công chứng hoặc chứng thực theo yêu cầu của các bên."
+  },
+  {
+    "question": "Nội dung nào không bắt buộc phải có trong hợp đồng mua bán nhà ở giữa chủ đầu tư và khách hàng?",
+    "options": [
+      "A. Thời hạn bảo hành và trách nhiệm bảo trì.",
+      "B. Thông tin về tổ chức hành nghề công chứng (nếu có công chứng).",
+      "C. Thời điểm chuyển giao quyền sở hữu.",
+      "D. Giá bán và phương thức thanh toán."
+    ],
+    "correct_answer": "B. Thông tin về tổ chức hành nghề công chứng (nếu có công chứng)."
+  },
+  {
+    "question": "Việc chuyển nhượng hợp đồng mua bán nhà ở hình thành trong tương lai yêu cầu gì?",
+    "options": [
+      "A. Phải có sự đồng ý bằng văn bản của chủ đầu tư.",
+      "B. Phải được công chứng và thông báo cho cơ quan thuế.",
+      "C. Hợp đồng hợp đồng mua bán nhà ở hình thành trong tương lai không có tranh chấp",
+      "D. Chỉ được thực hiện sau khi có Giấy chứng nhận quyền sử dụng đất."
+    ],
+    "correct_answer": "C. Hợp đồng hợp đồng mua bán nhà ở hình thành trong tương lai không có tranh chấp"
+  },
+  {
+    "question": "Hình thức công khai thông tin dự án BĐS nào là bắt buộc theo quy định?",
+    "options": [
+      "A. Tại cổng thông tin Sở Xây dựng và địa điểm kinh doanh.",
+      "B. Trên trang điện tử của chủ đầu tư, Hệ thống thông tin về nhà ở và thị trường BĐS của Bộ Xây dựng và tại Sàn giao dịch BĐS (nếu có).",
+      "C. Chỉ cần trên trang điện tử của doanh nghiệp.",
+      "D. Tại trang điện tử chủ đầu tư và trụ sở Ban quản lý."
+    ],
+    "correct_answer": "B. Trên trang điện tử của chủ đầu tư, Hệ thống thông tin về nhà ở và thị trường BĐS của Bộ Xây dựng và tại Sàn giao dịch BĐS (nếu có)."
+  },
+  {
+    "question": "Hành vi nào bị nghiêm cấm trong kinh doanh bất động sản theo Luật 2023?",
+    "options": [
+      "A. Không thực hiện đúng cam kết tiến độ xây dựng.",
+      "B. Gian lận, lừa dối, lừa đảo trong kinh doanh bất động sản.",
+      "C. Không thực hiện chuyển nhượng dự án cho bên thứ ba sau khi đã được chấp thuận.",
+      "D. Tiếp tục giao dịch sau khi bị đình chỉ nhưng đã khắc phục xong lỗi."
+    ],
+    "correct_answer": "B. Gian lận, lừa dối, lừa đảo trong kinh doanh bất động sản."
+  },
+  {
+    "question": "Theo Luật Nhà ở 2023, tổ chức, cá nhân nước ngoài được sở hữu nhà ở tại Việt Nam trong khu vực nào?",
+    "options": [
+      "A. Trong bất kỳ dự án nhà ở thương mại nào trên toàn quốc.",
+      "B. Trong dự án đầu tư xây dựng nhà ở, trừ dự án thuộc khu vực cần bảo đảm quốc phòng, an ninh theo quy định của pháp luật Việt Nam.",
+      "C. Chỉ được sở hữu nhà ở tại các khu công nghiệp, khu kinh tế.",
+      "D. Trong dự án nhà ở thương mại đã hoàn thành xây dựng và có Giấy chứng nhận."
+    ],
+    "correct_answer": "B. Trong dự án đầu tư xây dựng nhà ở, trừ dự án thuộc khu vực cần bảo đảm quốc phòng, an ninh theo quy định của pháp luật Việt Nam."
+  },
+  {
+    "question": "Định nghĩa \"Nhà chung cư\" theo Điều 3 Luật Nhà ở 2023 bao gồm đặc điểm nào?",
+    "options": [
+      "A. Phải có ít nhất 5 tăng và 100 căn hộ.",
+      "B. Có từ 02 tầng trở lên, có nhiều căn hộ, có lối đi, câu thang chung, có phần sở hữu riêng, phần sở hữu chung.",
+      "D. Luôn thuộc sở hữu toàn dân do Nhà nước quản lý."
+    ],
+    "correct_answer": "B. Có từ 02 tầng trở lên, có nhiều căn hộ, có lối đi, câu thang chung, có phần sở hữu riêng, phần sở hữu chung."
+  },
+  {
+    "question": "Điều kiện đối với nhà ở có sẵn đưa vào kinh doanh theo Luật Kinh doanh Bất động sản 2023 là gì?",
+    "options": [
+      "A. Phải được xây dựng bằng vật liệu cao cấp.",
+      "B. Phải có Giấy chứng nhận; không tranh chấp; không bị kê biên; tuân thủ giấy phép xây dựng và đảm bảo chất lượng.",
+      "C. Phải năm trong khu đô thị loại I.",
+      "D. Phải có giá trị tối thiểu 1 tỷ đồng."
+    ],
+    "correct_answer": "B. Phải có Giấy chứng nhận; không tranh chấp; không bị kê biên; tuân thủ giấy phép xây dựng và đảm bảo chất lượng."
+  },
+  {
+    "question": "Việc công nhận quyền sở hữu nhà ở được Nhà nước thực hiện thông qua hình thức nào theo Luật Nhà ở 2023?",
+    "options": [
+      "A. Thông qua hợp đồng mua bán có công chứng.",
+      "B. Thông qua việc cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất (trừ nhà ở thuộc tài sản công).",
+      "C. Thông qua biên bản bàn giao nhà giữa các bên.",
+      "D. Thông qua việc đăng ký tạm trú, thường trú."
+    ],
+    "correct_answer": "B. Thông qua việc cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất (trừ nhà ở thuộc tài sản công)."
+  },
+  {
+    "question": "Đối tượng nước ngoài nào được sở hữu nhà ở tại Việt Nam theo Luật Nhà ở 2023?",
+    "options": [
+      "A. Cá nhân nước ngoài thuộc diện được miễn thị thực.",
+      "B. Tổ chức nước ngoài có vốn đầu tư tại Việt Nam từ 100 tỷ đồng.",
+      "C. Tổ chức, cá nhân nước ngoài đầu tư xây dựng nhà ở theo dự án tại Việt Nam.",
+      "D. Tổ chức nước ngoài có trụ sở hoặc văn phòng đại diện tại Việt Nam."
+    ],
+    "correct_answer": "C. Tổ chức, cá nhân nước ngoài đầu tư xây dựng nhà ở theo dự án tại Việt Nam."
+  },
+  {
+    "question": "Cá nhân nước ngoài được sở hữu tối đa bao nhiêu căn nhà ở riêng lẻ trong một dự án?",
+    "options": [
+      "A. Không quá 10% tổng số lượng nhà ở riêng lẻ trong dự án.",
+      "B. Không quá 30% tổng số lượng nhà ở riêng lẻ trong dự án.",
+      "C. Không quá 250 căn nhà ở riêng lẻ.",
+      "D. Khổng giới hạn số lượng."
+    ],
+    "correct_answer": "C. Không quá 250 căn nhà ở riêng lẻ."
+  },
+  {
+    "question": "Người Việt Nam định cư ở nước ngoài được sở hữu nhà ở tại Việt Nam khi đáp ứng điều kiện gì?",
+    "options": [
+      "A. Được phép nhập cảnh vào Việt Nam và có giấy tờ chứng minh quốc tịch Việt Nam hoặc xác nhận gốc Việt Nam.",
+      "B. Có nguồn thu nhập hợp pháp để mua nhà và được phép nhập cảnh.",
+      "C. Có thẻ căn cước công dân hoặc giấy khai sinh.",
+      "D. Có dự án đầu tư tại Việt Nam."
+    ],
+    "correct_answer": "A. Được phép nhập cảnh vào Việt Nam và có giấy tờ chứng minh quốc tịch Việt Nam hoặc xác nhận gốc Việt Nam."
+  },
+  {
+    "question": "Thời gian tối thiểu người mua nhà ở xã hội (NOXH) được phép bán lại là bao lâu?",
+    "options": [
+      "A. Tối thiểu 05 năm.",
+      "B. Tối thiểu 08 năm.",
+      "C. Tối thiếu 10 năm.",
+      "D. Tôi thiếu 03 năm."
+    ],
+    "correct_answer": "A. Tối thiểu 05 năm."
+  },
+  {
+    "question": "Sau 05 năm, khi bán lại NƠXH dạng nhà chung cư, người bán phải thực hiện nghĩa vụ gì đối với Nhà nước?",
+    "options": [
+      "A. Nộp 50% tiền sử dụng đất được phân bổ.",
+      "B. Nộp 100% tiền sử dụng đất theo bảng giá đất hiện hành.",
+      "C. Không phải nộp lại tiền sử dụng đất cho Nhà nước.",
+      "D. Nộp 100% tiền sử dụng đất cho chủ đầu tư."
+    ],
+    "correct_answer": "C. Không phải nộp lại tiền sử dụng đất cho Nhà nước."
+  },
+  {
+    "question": "Người mua NƠXH được cho thuê lại nhà ở không?",
+    "options": [
+      "A. Không được phép cho thuê tại trong mọi trường hợp,",
+      "B. Được phép cho thuê lại nhưng phải bảo đảm quy định của Luật Nhà ở,",
+      "C. Được phép cho thuê lại nếu đã thanh toán xong 50% tiền mua nhà.",
+      "D. Chỉ được cho thuê lại khi đã đủ 08 năm."
+    ],
+    "correct_answer": "B. Được phép cho thuê lại nhưng phải bảo đảm quy định của Luật Nhà ở,"
+  },
+  {
+    "question": "Luật Nhà ở 2023 (Luật số 27/2023/QH15) định nghĩa \"Nhà ở\" như thế nào?",
+    "options": [
+      "A. Mọi công trình xây dựng có mái che và tường bao.",
+      "B. Công trình xây dựng với mục đích để ở và phục vụ nhu cầu sinh hoạt của gia đình, cá nhân.",
+      "C. Chỉ bao gôm các căn hộ trong dự án nhà ở thương mại.",
+      "D. Công trình được sử dụng cho cả mục đích ở và sản xuất công nghiệp."
+    ],
+    "correct_answer": "B. Công trình xây dựng với mục đích để ở và phục vụ nhu cầu sinh hoạt của gia đình, cá nhân."
+  },
+  {
+    "question": "Gia đình chị Hoa (gồm 2 vợ chồng) có tổng thu nhập hàng tháng sau khi trừ các khoản đóng góp bắt buộc là 35 triệu đồng. Gia đình chị chưa có nhà ở và có hộ khẩu tại tỉnh X. Gia đình chị có đủ điều kiện về thu nhập để mua NOXH tại tỉnh X không (theo NĐ 100/2024)?",
+    "options": [
+      "A. Đủ điều kiện vì chưa có nhà ở.",
+      "B. Đủ điều kiện vì tổng thu nhập hộ gia đình của người đó có tổng thu nhập bình quân hàng tháng thực nhận không quá 40 triệu đồng .",
+      "C. Đủ điều kiện nếu chứng minh được chi phí sinh hoạt cao.",
+      "D. Chỉ đủ điều kiện nếu có con nhỏ."
+    ],
+    "correct_answer": "B. Đủ điều kiện vì tổng thu nhập hộ gia đình của người đó có tổng thu nhập bình quân hàng tháng thực nhận không quá 40 triệu đồng ."
+  },
+  {
+    "question": "Ông An (công dân Việt Nam) mua một căn hộ chung cư thương mại tử chủ đầu tư B. Ông An đã thanh toán 95% giá trị hợp đồng và nhận bàn giao nhà. Tuy nhiên, Giấy chứng nhận chưa được cấp. Theo quy định, quyền sở hữu của ông An đổi với căn hộ này được xác lập khi nào?",
+    "options": [
+      "A. Khi ông An ký hợp đồng mua bán.",
+      "B. Khi ông An thanh toán đủ 100% giá trì hợp đồng.",
+      "C. Khi ông An thanh toán đủ tiền (theo thỏa thuận hoặc 95% trong trường hợp này) và nhận bàn giao nhà ở (trừ khi có thỏa thuận khác).",
+      "D. Khi Giấy chứng nhận được cấp cho ông An."
+    ],
+    "correct_answer": "C. Khi ông An thanh toán đủ tiền (theo thỏa thuận hoặc 95% trong trường hợp này) và nhận bàn giao nhà ở (trừ khi có thỏa thuận khác)."
+  },
+  {
+    "question": "Ông Tuấn mua một căn hộ tại dự án A. Khi ký hợp đồng, chủ đầu tư yêu cầu ông đóng 2% phí bảo trì tính trên giá bán đã bao gồm VAT. Yêu cầu này có đúng quy định không?",
+    "options": [
+      "A. Đúng, phí bảo trì 2% tính trên tổng giá trị hợp đồng.",
+      "B. Không đúng, phí bảo trì 2% phải được tính trên giá bán căn hộ trước thuế VAT.",
+      "C. Đúng, nếu được ghi rõ trong hợp đồng.",
+      "D. Không đúng, phí bảo trì chỉ 1.5%."
+    ],
+    "correct_answer": "B. Không đúng, phí bảo trì 2% phải được tính trên giá bán căn hộ trước thuế VAT."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất là gì?",
+    "options": [
+      "A. Là văn bản của cơ quan có thẩm quyền cho phép người sử dụng đất thực hiện các quyền chuyển nhượng, tặng cho.",
+      "B. Là văn bản hành chính do Ủy ban nhân dân cấp tỉnh ban hành để quản lý đất đai.",
+      "C. Là tài liệu ghi nhận sự thỏa thuận về quyền sử dụng đất giữa Nhà nước và người sử dụng đất.",
+      "D. Là chứng thư pháp lý để Nhà nước xác nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất hợp pháp của người có quyền."
+    ],
+    "correct_answer": "D. Là chứng thư pháp lý để Nhà nước xác nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất hợp pháp của người có quyền."
+  },
+  {
+    "question": "Trường hợp thửa đất là tài sản chung của vợ và chồng, nguyên tắc ghi tên trên GCN được quy định như thế nào?",
+    "options": [
+      "A. Bắt buộc phải ghi tên người chồng (hoặc người vợ) làm đại diện.",
+      "B. Ghi tên một người đại diện cho hộ gia đình.",
+      "C. Phải ghi cả họ, tên vợ và họ, tên chồng, trừ trường hợp vợ và chồng có thỏa thuận ghi tên một người.",
+      "D. Chỉ ghi tên người đứng tên trong hồ sơ giao đất, cho thuê đất ban đầu."
+    ],
+    "correct_answer": "C. Phải ghi cả họ, tên vợ và họ, tên chồng, trừ trường hợp vợ và chồng có thỏa thuận ghi tên một người."
+  },
+  {
+    "question": "Theo Luật Đất đai 2024, tổ chức kinh tế được Nhà nước giao đất có thu tiền sử dụng đất được thực hiện quyền nào sau đây?",
+    "options": [
+      "A. Bán tài sản gắn liền với đất trong thời gian thuê đất trả tiền hằng năm.",
+      "B. Cho thuê lại quyền sử dụng đất dưới hình thức trả tiền thuê đất một lần cho cả thời gian thuê.",
+      "C. Thế chấp bằng quyền sử dụng đất tại các tổ chức tín dụng nước ngoài không hoạt động tại Việt Nam.",
+      "D. Chuyển nhượng quyền sử dụng đất, tài sản gắn liền với đất thuộc sở hữu của mình."
+    ],
+    "correct_answer": "D. Chuyển nhượng quyền sử dụng đất, tài sản gắn liền với đất thuộc sở hữu của mình."
+  },
+  {
+    "question": "Nguyên tắc bồi thường về đất khi Nhà nước thu hồi đất là gì?",
+    "options": [
+      "A. Luôn bồi thường bằng tiền mặt.",
+      "B. Bòi thường bằng việc giao đất cùng mục đích sử dụng; nếu không có đất thì bồi thường bằng tiền theo giá đất cụ thể tại thời điểm phê duyệt phương án.",
+      "C. Chỉ bồi thường cho đất ở, không bồi thường cho đất nông nghiệp.",
+      "D. Bồi thường theo giá đất trong Bảng giá đất hàng năm."
+    ],
+    "correct_answer": "B. Bòi thường bằng việc giao đất cùng mục đích sử dụng; nếu không có đất thì bồi thường bằng tiền theo giá đất cụ thể tại thời điểm phê duyệt phương án."
+  },
+  {
+    "question": "Một doanh nghiệp thuê đất trả tiền hàng năm muốn vay vốn ngân hàng, doanh nghiệp có quyền thế chấp gì?",
+    "options": [
+      "A. Thế chấp quyền sử dụng đất tại ngân hàng.",
+      "B. Thế chấp tài sản thuộc sở hữu gắn liền với đất tại tổ chức tín dụng.",
+      "C. Thế chấp quyền thuê đất tại tổ chức tín dụng.",
+      "D. Không có quyền thế chấp bất kỳ tài sản nào."
+    ],
+    "correct_answer": "B. Thế chấp tài sản thuộc sở hữu gắn liền với đất tại tổ chức tín dụng."
+  },
+  {
+    "question": "Khi hết thời hạn thuê đất hàng năm, chủ đầu tư dự án nhà ở xã hội được xử lý thế nào theo Luật Đất đai 2024?",
+    "options": [
+      "A. Phải làm thủ tục xin gia hạn tối thiểu 06 tháng trước khi hết hạn.",
+      "B. Khi hết thời hạn, chủ đầu tư dự án nhà ở xã hội nếu có nhu câu tiếp tục sử dụng thì được Nhà nước xem xét gia hạn sử dụng đất",
+      "C. Nhà nước sẽ thu hồi đất để đấu giá lại.",
+      "D. Được gia hạn tự động không quá 20 năm."
+    ],
+    "correct_answer": "B. Khi hết thời hạn, chủ đầu tư dự án nhà ở xã hội nếu có nhu câu tiếp tục sử dụng thì được Nhà nước xem xét gia hạn sử dụng đất"
+  },
+  {
+    "question": "Một hộ gia đình sử dụng đất ổn định từ trước 01/7/2014 không có giấy tờ thì có được cấp Giấy chứng nhận không?",
+    "options": [
+      "A. Có, nếu sử dụng ổn định và không tranh chấp.",
+      "B. Không, vì đã quá thời hạn đăng ký.",
+      "C. Chỉ được cấp nếu sử dụng đất trước năm 1993.",
+      "D. Có, nhưng phải nộp hồ sơ trước ngày 01/01/2025."
+    ],
+    "correct_answer": "A. Có, nếu sử dụng ổn định và không tranh chấp."
+  },
+  {
+    "question": "Tổ chức được Nhà nước giao đất có thu tiền hoặc thuê đất trả tiền một lần có được bồi thường về đất khi bị thu hồi không?",
+    "options": [
+      "A. Được bồi thường giá trị quyền sử dụng đất.",
+      "B. Được bồi thường về đất",
+      "C. Được bôi thường 50% giá trị đất theo bảng giá.",
+      "D. Được bồi thường theo giá thị trường."
+    ],
+    "correct_answer": "B. Được bồi thường về đất"
+  },
+  {
+    "question": "Doanh nghiệp muốn góp vốn bằng QSDĐ thuê trả tiền hàng năm vào liên doanh thì có được không?",
+    "options": [
+      "A. Được phép góp vốn bằng quyền sử dụng đất.",
+      "B. Không được phép góp vốn bằng QSDĐ, chỉ được góp vốn bằng tài sản gắn liền với đất.",
+      "C. Được phép nếu có sự đồng ý của UBND cấp tỉnh.",
+      "D. Được phép nếu thời gian thuê còn trên 20 năm."
+    ],
+    "correct_answer": "B. Không được phép góp vốn bằng QSDĐ, chỉ được góp vốn bằng tài sản gắn liền với đất."
+  },
+  {
+    "question": "Công ty A được Nhà nước cho thuê 5ha đất trong Khu Công nghiệp X để xây dựng nhà xưởng, trả tiền thuê đất hăng năm. Sau 5 năm hoạt động, Công ty A muốn chuyển nhượng toàn bộ dự án và quyền sử dụng đất này cho Công ty B. Theo Luật Đất đai 2024, Công ty A có thể thực hiện giao dịch này không?",
+    "options": [
+      "A. Có, được phép chuyển nhượng QSDĐ như đất trả tiền một lần.",
+      "B. Không, vì đất thuê trả tiền hằng năm không được chuyển nhượng QSDĐ.",
+      "C. Có, nhưng chỉ được chuyển nhượng \"quyền thuê trong hợp đồng thuê đất\" và tài sản gắn liền với đất, không phải chuyển nhượng QSDĐ.",
+      "D. Chỉ được chuyển nhượng nếu Công ty B cũng là doanh nghiệp nhà nước."
+    ],
+    "correct_answer": "C. Có, nhưng chỉ được chuyển nhượng \"quyền thuê trong hợp đồng thuê đất\" và tài sản gắn liền với đất, không phải chuyển nhượng QSDĐ."
+  },
+  {
+    "question": "Hợp đồng nào sau đây bắt buộc phải được công chứng hoặc chứng thực theo Luật Đất đai 2024?",
+    "options": [
+      "A. Hợp đồng cho thuê quyền sử dụng đất.",
+      "B. Hợp đồng chuyển đổi quyền sử dụng đất nông nghiệp.",
+      "C. Hợp đồng thế chấp quyền sử dụng đất.",
+      "D. Hợp đồng cho thuê lại quyền sử dụng đất mà một bên là tổ chức kinh doanh bất động sản."
+    ],
+    "correct_answer": "C. Hợp đồng thế chấp quyền sử dụng đất."
+  },
+  {
+    "question": "Năm 2026, bà Mai được Nhà nước công nhận quyền sử dụng 100m2 đất ở do khai hoang từ năm 1990 (trước 15/10/1993), không có giấy tờ, phù hợp quy hoạch. Bà Mai có phải nộp tiền sử dụng đất không?",
+    "options": [
+      "A. Có, phải nộp 100% theo giá đất cụ thể.",
+      "B. Có, phải nộp 50% theo giá đất trong Bảng giá đất.",
+      "C. Không, trường hợp sử dụng đất ổn định trước 15/10/1993, phù hợp quy hoạch thường không phải nộp tiền sử dụng đất đối với diện tích trong hạn mức công nhận đất ở.",
+      "D. Chỉ phải nộp lệ phí trước bạ."
+    ],
+    "correct_answer": "C. Không, trường hợp sử dụng đất ổn định trước 15/10/1993, phù hợp quy hoạch thường không phải nộp tiền sử dụng đất đối với diện tích trong hạn mức công nhận đất ở."
+  },
+  {
+    "question": "Cá nhân G có thửa đất ở đã được Giấy chứng nhận quyền sử dụng đất (LURC). Nay G muốn dùng QSDĐ này để góp vốn cùng bạn thành lập Công ty TNHH kinh doanh dịch vụ ăn uống. Việc góp vốn này có cần làm thủ tục gì về đất đai?",
+    "options": [
+      "A. Không cần, chỉ cân thỏa thuận trong nội bộ công ty.",
+      "B. Phải làm thủ tục đăng ký biến động đất đai (chuyển quyền do góp vốn) và hợp đồng góp vốn phải được công chứng hoặc chứng thực.",
+      "C. Chỉ cần thông báo cho cơ quan thuế.",
+      "D. Phải xin phép UBND cấp tỉnh."
+    ],
+    "correct_answer": "B. Phải làm thủ tục đăng ký biến động đất đai (chuyển quyền do góp vốn) và hợp đồng góp vốn phải được công chứng hoặc chứng thực."
+  },
+  {
+    "question": "Hình thức bắt buộc đối với hợp đồng mua bán bất động sản theo quy định chung của Luật đất đai năm 2024 là gì?",
+    "options": [
+      "A. Bằng lời nói.",
+      "B. Phải lập thành văn bản, có công chứng hoặc chứng thực (trừ trường hợp luật có quy định khác).",
+      "C. Chỉ cần lập thành văn bản.",
+      "D. Bằng thông điệp dữ liệu điện tử."
+    ],
+    "correct_answer": "B. Phải lập thành văn bản, có công chứng hoặc chứng thực (trừ trường hợp luật có quy định khác)."
+  },
+  {
+    "question": "Ông Thành và bà Vân ly hôn, có thỏa thuận phân chia tài sản chung là QSDĐ tại Bình Dương. Họ muốn công chứng thỏa thuận này.",
+    "options": [
+      "A. Thỏa thuận phân chia tài sản chung của vợ chồng sau ly hôn liên quan đến QSDĐ có bắt buộc công chứng/chứng thực không?",
+      "B. Không bắt buộc.",
+      "C. Bắt buộc phải công chứng hoặc chứng thực.",
+      "D. Chỉ bắt buộc nếu giá trị đất trên 1 tỷ đồng."
+    ],
+    "correct_answer": "B. Không bắt buộc."
+  },
+  {
+    "question": "Trường hợp nào sau đây KHÔNG bắt buộc phải công chứng, chứng thực theo Luật Đất đai 2024?",
+    "options": [
+      "A. Hợp đồng chuyển nhượng quyền sử dụng đất giữa các cá nhân.",
+      "B. Hợp đồng thế chấp quyền sử dụng đất giữa cá nhân và ngân hàng.",
+      "C. Hợp đồng tặng cho quyền sử dụng đất giữa cha mẹ và con cái.",
+      "D. Hợp đồng chuyển nhượng quyền sử dụng đất mà một bên là tổ chức kinh doanh bất động sản."
+    ],
+    "correct_answer": "D. Hợp đồng chuyển nhượng quyền sử dụng đất mà một bên là tổ chức kinh doanh bất động sản."
+  },
+  {
+    "question": "Trình tự, thủ tục đầu tư xây dựng dự án bất động sản phải thực hiện theo quy định của các pháp luật nào?",
+    "options": [
+      "A. Pháp luật về đầu tư, đất đai, kinh doanh bất động sản và thuế.",
+      "B. Pháp luật về quy hoạch, xây dựng, nhà ở và đầu tư.",
+      "C. Pháp luật về đấu thầu, xây dựng, đất đai và nhà ở.",
+      "D. Pháp luật về quy hoạch, đầu tư, đất đai, xây dựng, nhà ở và pháp luật có liên quan."
+    ],
+    "correct_answer": "D. Pháp luật về quy hoạch, đầu tư, đất đai, xây dựng, nhà ở và pháp luật có liên quan."
+  },
+  {
+    "question": "Dự án đầu tư xây dựng khu đô thị được xác định là loại hình nào theo Luật Kinh doanh Bất động sản 2023?",
+    "options": [
+      "A. Dự án đầu tư xây dựng công trình hạ tầng kỹ thuật.",
+      "B. Dự án bất động sản.",
+      "C. Dự án đầu tư xây dựng khu dân cư nông thôn.",
+      "D. Dự án đầu tư xây dựng nhà ở."
+    ],
+    "correct_answer": "B. Dự án bất động sản."
+  },
+  {
+    "question": "Hồ sơ hoàn thành công trình xây dựng (hô sơ hoàn công) do ai lập và lưu trữ?",
+    "options": [
+      "A. Nhà thầu thi công.",
+      "B. Đơn vị tư vấn giám sát.",
+      "C. Chủ đầu tư.",
+      "D. Cơ quan cấp phép xây dựng."
+    ],
+    "correct_answer": "C. Chủ đầu tư."
+  },
+  {
+    "question": "Vai trò của quy hoạch chi tiết tỷ lệ 1/500 trong quy trình thực hiện dự án khu đô thị là gì?",
+    "options": [
+      "A. Là căn cứ để xin Chấp thuận chủ trương đầu tư.",
+      "B. Là cơ sở để lập báo cáo Đánh giá tác động môi trường.",
+      "C. Là căn cứ pháp lý trực tiếp để lập dự án đầu tư xây dựng, cấp Giấy phép xây dựng và giao đất, cho thuê đất chi tiết.",
+      "D. Là cơ sở để tính tiền sử dụng đất phải nộp."
+    ],
+    "correct_answer": "C. Là căn cứ pháp lý trực tiếp để lập dự án đầu tư xây dựng, cấp Giấy phép xây dựng và giao đất, cho thuê đất chi tiết."
+  },
+  {
+    "question": "Trình tự thực hiện một dự án đầu tư BĐS thông thường bao gôm các giai đoạn nào?",
+    "options": [
+      "A. Chuẩn bị đầu tư -> Thực hiện dự án -> Kết thúc đầu tư và khai thác vận hành.",
+      "B. Chấp thuận chủ trương -> Quyết định đầu tư -> Đấu thầu - > Kết thúc.",
+      "C. Lập quy hoạch -> Thu hồi đất - Xây dựng - Bàn giao.",
+      "D. Chuẩn bị đầu tư -> Thực hiện dự án -> Thẩm định thiết kế cơ sở."
+    ],
+    "correct_answer": "A. Chuẩn bị đầu tư -> Thực hiện dự án -> Kết thúc đầu tư và khai thác vận hành."
+  },
+  {
+    "question": "Vốn chủ sở hữu tối thiểu của nhà đầu tư cho dự án có quy mô sử dụng đất dưới 20 ha là?",
+    "options": [
+      "A.15% tổng vốn đầu tư.",
+      "B. 20% tổng vốn đầu tư.",
+      "C. 25% tổng vốn đầu tư.",
+      "D.10% tổng vốn đầu tư."
+    ],
+    "correct_answer": "B. 20% tổng vốn đầu tư."
+  },
+  {
+    "question": "Một tư nhân dự định xây dựng một khu du lịch sinh thái. Sau khi dự án đã được phê duyệt, nhà đầu tư này đã tiến hành xin giao đất, xin phép xây dựng và khai thác tài nguyên. Bước kế tiếp ông ta nên làm gì?",
+    "options": [
+      "A. Thấm định, phê duyệt thiết kế và tổng dự toán, dự toán công trình.",
+      "B. Đền bù giải phóng mặt bằng, thực hiện kế hoạch tái định cư và phục hồi, chuẩn bị mặt bằng xây dựng.",
+      "C. Mua sắm thiết bị và công nghệ.",
+      "D. Thực hiện việc khảo sát - thiết kế xây dựng."
+    ],
+    "correct_answer": "B. Đền bù giải phóng mặt bằng, thực hiện kế hoạch tái định cư và phục hồi, chuẩn bị mặt bằng xây dựng."
+  },
+  {
+    "question": "Thủ tục nào theo Luật Đầu tư 2020 thường áp dụng cho các dự án BĐS quy mô lớn?",
+    "options": [
+      "A. Chỉ cần xin Giấy phép xây dựng.",
+      "B. Chấp thuận chủ trương đầu tư.",
+      "C. Chỉ cân đăng ký kinh doạnh.",
+      "D. Chỉ cần thẩm định giá đất."
+    ],
+    "correct_answer": "B. Chấp thuận chủ trương đầu tư."
+  },
+  {
+    "question": "Theo Luật Đầu tư 2020, thẩm quyền chấp thuận chủ trương đầu tư dự án nhà ở/khu đô thị có quy mô sử dụng đất trên 300 ha thuộc về ai?",
+    "options": [
+      "A. Ủy ban nhân dân cấp tỉnh.",
+      "B. Bộ Xây dựng.",
+      "C. Quốc hội.",
+      "D. Thủ tướng Chính phủ."
+    ],
+    "correct_answer": "D. Thủ tướng Chính phủ."
+  },
+  {
+    "question": "Theo Bộ luật Dân sự (BLDS) 2015, loại tài sản nào sau đây được xem là bất động sản?",
+    "options": [
+      "A. Chỉ có đất đai.",
+      "B. Đất đai; Nhà, công trình xây dựng gắn liền với đất đai; Tài sản khác gắn liền với đất đai, nhà, công trình xây dựng; Tài sản khác do pháp luật quy định.",
+      "C. Chỉ có nhà ở và công trình xây dựng.",
+      "D. Chỉ có quyền sử dụng đất."
+    ],
+    "correct_answer": "B. Đất đai; Nhà, công trình xây dựng gắn liền với đất đai; Tài sản khác gắn liền với đất đai, nhà, công trình xây dựng; Tài sản khác do pháp luật quy định."
+  },
+  {
+    "question": "Bên thuê bất động sản có được phép cho thuê lại không?",
+    "options": [
+      "A. Không được phép trong mọi trường hợp.",
+      "B. Được phép nếu có sự đồng ý bằng văn bản của bên cho thuê.",
+      "C. Chỉ được phép khi thời hạn thuê còn trên 1 năm.",
+      "D. Được phép tự do mà không cần sự đồng ý."
+    ],
+    "correct_answer": "B. Được phép nếu có sự đồng ý bằng văn bản của bên cho thuê."
+  },
+  {
+    "question": "Hợp đồng được giao kết hợp pháp có hiệu lực từ thời điểm nào?",
+    "options": [
+      "A. Từ thời điểm các bên ký kết văn bản hợp đồng.",
+      "B. Từ thời điểm hợp đồng được công chứng, chứng thực theo quy định của pháp luật.",
+      "C. Từ thời điểm các bên hoàn thành nghĩa vụ chính.",
+      "D. Từ thời điểm giao kết, trừ trường hợp có thỏa thuận khác hoặc luật liên quan có quy định khác."
+    ],
+    "correct_answer": "D. Từ thời điểm giao kết, trừ trường hợp có thỏa thuận khác hoặc luật liên quan có quy định khác."
+  },
+  {
+    "question": "Hợp đồng nào sau đây là hợp đồng mà hiệu lực phụ thuộc vào hợp đồng chính?",
+    "options": [
+      "A. Hợp đồng song vụ.",
+      "B. Hợp đồng chính.",
+      "C. Hợp đồng phụ.",
+      "D. Hợp đồng vì lợi ích của người thứ ba."
+    ],
+    "correct_answer": "C. Hợp đồng phụ."
+  },
+  {
+    "question": "Trụ sở của pháp nhân được xác định là nơi nào?",
+    "options": [
+      "A. Nơi đặt trụ sở chính và địa điểm liên lạc.",
+      "B. Địa điểm diễn ra phần lớn các hoạt động kinh doanh.",
+      "C. Nơi đặt cơ quan điều hành và được ghi trong điều lệ hoặc quyết định thành lập.",
+      "D. Nơi đăng ký văn phòng giao dịch chính thức."
+    ],
+    "correct_answer": "C. Nơi đặt cơ quan điều hành và được ghi trong điều lệ hoặc quyết định thành lập."
+  },
+  {
+    "question": "Hình thức của giao dịch dân sự bao gồm những gì?",
+    "options": [
+      "A. Lời nói và văn bản.",
+      "B. Văn bản có công chứng và văn bản thông thường.",
+      "C. Lời nói, văn bản hoặc hành vi cụ thể.",
+      "D. Chỉ bằng văn bản đối với bất động sản."
+    ],
+    "correct_answer": "C. Lời nói, văn bản hoặc hành vi cụ thể."
+  },
+  {
+    "question": "Một khách hàng nhờ thẩm định giá căn nhà riêng lẻ để mua và sử dụng lâu dài. Trong trường hợp này, thẩm định viên nên ưu tiên cách tiếp cận nào để đưa ra kết quả phù hợp nhất?",
+    "options": [
+      "A. Cách tiếp cận từ thu nhập",
+      "B. Cách tiếp cận chi phí",
+      "C. Cách tiếp cận so sánh",
+      "D. Cách tiếp cận thặng dư"
+    ],
+    "correct_answer": "C. Cách tiếp cận so sánh"
+  },
+  {
+    "question": "Ai KHÔNG thuộc diện người thừa kế không phụ thuộc vào nội dung di chúc theo Điều 644 BLDS 2015?",
+    "options": [
+      "A. Con chưa thành niên của người để lại di sản.",
+      "B. Vợ hoặc chồng của người để lại di sản.",
+      "C. Cha, mẹ của người để lại di sản.",
+      "D. Anh, chị, em ruột của người để lại di sản."
+    ],
+    "correct_answer": "D. Anh, chị, em ruột của người để lại di sản."
+  },
+  {
+    "question": "Doanh nghiệp BĐS X bán căn hộ cho khách hàng Y và thu tiền đợt đầu là 30%. Sau đó, dự án bị chậm tiến độ nghiêm trọng so với cam kết trong hợp đồng. Khách hàng Y có quyền gì trong trường hợp này?",
+    "options": [
+      "A. Chỉ có thể chờ đợi chủ đầu tư tiếp tục xây dựng.",
+      "B. Có quyền tạm dừng thanh toán các đợt tiếp theo và yêu câu bồi thường thiệt hại (nếu có) hoặc thỏa thuận lại tiến độ.",
+      "C. Phải tiếp tục thanh toán theo đúng lịch trong hợp đồng.",
+      "D. Có quyền yêu câu ngân hàng bảo lãnh trả lại tiền ngay lập tức."
+    ],
+    "correct_answer": "B. Có quyền tạm dừng thanh toán các đợt tiếp theo và yêu câu bồi thường thiệt hại (nếu có) hoặc thỏa thuận lại tiến độ."
+  },
+  {
+    "question": "Hợp đồng tặng cho bất động sản có hiệu lực kể từ thời điểm nào nếu bất động sản đó phải đăng ký quyền sở hữu?",
+    "options": [
+      "A. Kể từ thời điểm các bên ký hợp đồng.",
+      "B. Kể từ thời điểm hợp đồng được công chứng/chứng thực.",
+      "C. Kể từ thời điểm đăng ký quyền sở hữu.",
+      "D. Kể từ thời điểm bên được tặng cho nhận tài sản."
+    ],
+    "correct_answer": "B. Kể từ thời điểm hợp đồng được công chứng/chứng thực."
+  },
+  {
+    "question": "Ông N muốn bán căn nhà đứng tên mình. Ông N đã ly hôn bà T cách đây 5 năm và căn nhà này được tạo lập trong thời kỳ hôn nhân nhưng Tòa án chưa phân chia khi ly hôn. Ông N có thể tự mình bán căn nhà này không?",
+    "options": [
+      "A. Có, vì đã ly hôn và nhà đứng tên ông N.",
+      "B. Có, nhưng phải trích một nửa tiền bán nhà cho bà T.",
+      "C. Chỉ cần thông báo cho bà T biết về việc bán nhà.",
+      "D. Không, vì đây vẫn được xem là tài sản chung chưa chia sau ly hôn, việc bán cần có sự đồng ý của bà T hoặc quyết định của Tòa án về phân chia tài sản."
+    ],
+    "correct_answer": "D. Không, vì đây vẫn được xem là tài sản chung chưa chia sau ly hôn, việc bán cần có sự đồng ý của bà T hoặc quyết định của Tòa án về phân chia tài sản."
+  },
+  {
+    "question": "Theo Luật Công chứng 2024, tổ chức hành nghề công chứng bao gồm những loại hình nào?",
+    "options": [
+      "A. Chỉ có Phòng Công chứng.",
+      "B. Chỉ có Văn phòng công chứng.",
+      "C. Phòng Công chứng và Văn phòng công chứng.",
+      "D. Văn phòng công chứng và Công ty luật có chức năng công chứng."
+    ],
+    "correct_answer": "C. Phòng Công chứng và Văn phòng công chứng."
+  },
+  {
+    "question": "Trường hợp nào sau đây vẫn bắt buộc phải công chứng hoặc chứng thực theo quy định của Luật Đất đai 2024?",
+    "options": [
+      "A. Hợp đồng cho thuê Quyền sử dụng đất giữa hai doanh nghiệp.",
+      "B. Hợp đồng chuyển nhượng Quyền sử dụng đất mà một bên là doanh nghiệp kinh doanh BĐS.",
+      "C. Văn bản về thừa kế Quyền sử dụng đất giữa các cá nhân.",
+      "D. Hợp đồng chuyển đổi Quyền sử dụng đất nông nghiệp."
+    ],
+    "correct_answer": "C. Văn bản về thừa kế Quyền sử dụng đất giữa các cá nhân."
+  },
+  {
+    "question": "Thời hạn công chứng hợp đồng, giao dịch thông thường là bao lâu kể từ ngày nhận đủ hồ sơ hợp lệ?",
+    "options": [
+      "A. Không quá 01 ngày làm việc.",
+      "B. Không quá 02 ngày làm việc.",
+      "C. Không quá 05 ngày làm việc.",
+      "D. Không quá 10 ngày làm việc."
+    ],
+    "correct_answer": "B. Không quá 02 ngày làm việc."
+  },
+  {
+    "question": "Điểm mới quan trọng nhất của Luật Công chứng 2024 là gì?",
+    "options": [
+      "A. Tăng lệ phí công chứng.",
+      "B. Bỏ hoàn toàn Văn phòng công chứng.",
+      "C. Quy định về công chứng điện tử.",
+      "D. Yêu cầu công chứng viên phải là Thẩm phán."
+    ],
+    "correct_answer": "C. Quy định về công chứng điện tử."
+  },
+  {
+    "question": "Thẩm quyền chứng thực bản sao từ bản chính thuộc về cơ quan nào?",
+    "options": [
+      "A. Văn phòng công chứng.",
+      "B. Sở Tư pháp.",
+      "C. Ủy ban nhân dân cấp xã.",
+      "D. Cơ quan Tài nguyên và Môi trường."
+    ],
+    "correct_answer": "C. Ủy ban nhân dân cấp xã."
+  },
+  {
+    "question": "Văn bản công chứng có giá trị pháp lý như thế nào?",
+    "options": [
+      "A. Chỉ có giá trị tham khảo.",
+      "B. Có hiệu lực thi hành đối với các bên và có giá trị chứng cứ cao.",
+      "C. Cần phải được Tòa án phê duyệt mới có hiệu lực.",
+      "D. Có giá trị tương đương văn bản chứng thực."
+    ],
+    "correct_answer": "B. Có hiệu lực thi hành đối với các bên và có giá trị chứng cứ cao."
+  },
+  {
+    "question": "Loại hình doanh nghiệp nào mà thành viên chịu trách nhiệm hữu hạn trong phạm vi vốn góp và không được phát hành cổ phần?",
+    "options": [
+      "A. Công ty Cổ phần.",
+      "B. Doanh nghiệp Tư nhân.",
+      "C. Công ty Hợp danh.",
+      "D. Công ty Trách nhiệm hữu hạn."
+    ],
+    "correct_answer": "D. Công ty Trách nhiệm hữu hạn."
+  },
+  {
+    "question": "Luật Kinh doanh BĐS 2023 ghi nhận chủ thể nào, bên cạnh doanh nghiệp, được phép kinh doanh BĐS?",
+    "options": [
+      "A. Chỉ tổ chức phi chính phủ.",
+      "B. Hộ kinh doanh cá thể.",
+      "C. Hợp tác xã, liên hiệp hợp tác xã.",
+      "D. Quỹ đầu tư."
+    ],
+    "correct_answer": "C. Hợp tác xã, liên hiệp hợp tác xã."
+  },
+  {
+    "question": "Việc không công khai thông tin về BĐS, dự án BĐS theo quy định có phải là hành vi bị cấm không?",
+    "options": [
+      "A. Không, chỉ là thiếu sót nhỏ.",
+      "B. Chỉ bị nhắc nhở.",
+      "C. Có, đây là hành vi bị nghiêm cấm theo Luật kinh doanh BĐS 2023.",
+      "D. Chỉ bị cẩm nếu gây hậu quả nghiêm trọng."
+    ],
+    "correct_answer": "C. Có, đây là hành vi bị nghiêm cấm theo Luật kinh doanh BĐS 2023."
+  },
+  {
+    "question": "Hoạt động kinh doanh bất động sản tại Việt Nam chịu sự điều chỉnh của những luật cốt lõi nào?",
+    "options": [
+      "A. Chỉ Luật Kinh doanh bất động sản.",
+      "B. Luật Kinh doanh bất động sản, Luật Doanh nghiệp, Luật Đầu tư, Luật Đất đai, Luật Nhà ở.",
+      "C. Chỉ Luật Đất đai và Luật Nhà ở.",
+      "D. Luật Doanh nghiệp và Luật Đầu tư."
+    ],
+    "correct_answer": "B. Luật Kinh doanh bất động sản, Luật Doanh nghiệp, Luật Đầu tư, Luật Đất đai, Luật Nhà ở."
+  },
+  {
+    "question": "Doanh nghiệp kinh doanh BĐS có bắt buộc phải đăng ký ngành nghề kinh doanh BĐS là ngành chính không?",
+    "options": [
+      "A. Bắt buộc vì đây là ngành nghề có điều kiện.",
+      "B. Không bắt buộc, miễn là đáp ứng đủ điều kiện kinh doanh theo pháp luật.",
+      "C. Bắt buộc đối với Doanh nghiệp tư nhân.",
+      "D. Không bắt buộc nhưng phải chiếm tỷ trọng doanh thu lớn nhất."
+    ],
+    "correct_answer": "B. Không bắt buộc, miễn là đáp ứng đủ điều kiện kinh doanh theo pháp luật."
+  },
+  {
+    "question": "Thời hạn cấp Giấy chứng nhận đăng ký doanh nghiệp kể từ ngày nhận đủ hồ sơ hợp lệ là bao lâu?",
+    "options": [
+      "A. 03 ngày làm việc.",
+      "B. 05 ngày làm việc.",
+      "C. 07 ngày làm việc.",
+      "D. 10 ngày làm việc."
+    ],
+    "correct_answer": "A. 03 ngày làm việc."
+  },
+  {
+    "question": "Trong giao dịch mua bán nhà đất giữa vợ và chồng (quan hệ hôn nhân), loại thuế nào được miễn theo quy định?",
+    "options": [
+      "A. Thuế thu nhập cá nhân",
+      "B. Thuế giá trị gia tăng",
+      "C. Thuế sử dụng đất phi nông nghiệp",
+      "D. Thuế môn bài"
+    ],
+    "correct_answer": "A. Thuế thu nhập cá nhân"
+  },
+  {
+    "question": "Trong thủ tục tách thửa đất, nếu bản đồ giải thửa do đơn vị đo đạc không chính xác, hậu quả có thế là:",
+    "options": [
+      "A. Quá trình tách thửa bị chậm và có thể phải điều chỉnh lại bản đồ",
+      "B. Giấy chứng nhận được cấp mà không cần điều chỉnh",
+      "C. Doanh nghiệp chịu thêm lệ phí xử lý hồ sơ",
+      "D. Hệ thống đăng ký đất tự động cập nhật thông tin đúng"
+    ],
+    "correct_answer": "A. Quá trình tách thửa bị chậm và có thể phải điều chỉnh lại bản đồ"
+  },
+  {
+    "question": "Trong một giao dịch mua bán bất động sản, hai bên sử dụng \"vi bằng\" thay cho hợp đồng công chứng. Hệ quả của việc này là:",
+    "options": [
+      "A. Vi bằng có giá trị pháp lý như hợp đồng công chứng",
+      "B. Người mua có thể không được đảm bảo quyền sử dụng tài sản do không có căn cứ pháp lý cao",
+      "C. Vi bằng giúp giảm chi phí giao dịch mà không có rủi ro pháp lý",
+      "D. Vi bằng chỉ áp dụng đối với giao dịch thương mại, không phải bất động sản"
+    ],
+    "correct_answer": "B. Người mua có thể không được đảm bảo quyền sử dụng tài sản do không có căn cứ pháp lý cao"
+  },
+  {
+    "question": "Anh Nguyễn là người bán bất động sản, đây là bất động sản duy nhất anh sở hữu và đã giữ trên 183 ngày. Khi thực hiện giao dịch chuyển nhượng, anh Nguyễn có phải đóng Thuế Thu Nhập Cá Nhân không?",
+    "options": [
+      "A. Có, tính theo 2% giá trị chuyển nhượng",
+      "B. Không, được miễn theo quy định",
+      "C. Có, nhưng tính theo biểu thuế lũy tiến",
+      "D. Không, nhưng phải đóng lệ phí công chứng"
+    ],
+    "correct_answer": "B. Không, được miễn theo quy định"
+  },
+  {
+    "question": "Một hợp đồng chuyển nhượng bất động sản được ghi nhận sai giá (không phản ánh đúng giá giao dịch thực tế). Hậu quả của việc kê khai sai giá này là:",
+    "options": [
+      "A. Doanh nghiệp được giảm thuế phải nộp hợp pháp",
+      "B. Dễ dẫn đến tính sai số thuế phải nộp và bị xử phạt",
+      "C. Không ảnh hưởng vì chỉ là lỗi về hình thức",
+      "D. Chỉ cần điều chỉnh hồ sơ trong lần kê khai sau"
+    ],
+    "correct_answer": "B. Dễ dẫn đến tính sai số thuế phải nộp và bị xử phạt"
+  },
+  {
+    "question": "Doanh thu tính thuế TNDN đối với hoạt động cho thuê BĐS là số tiền nào?",
+    "options": [
+      "A. Tổng số tiền thuê đã thu trong năm tính thuế.",
+      "B. Số tiền thuê trả từng kỳ theo hợp đồng thuê.",
+      "C. Số tiền ghi nhận một lần tại thời điểm ký hợp đồng.",
+      "D. Số tiền sau khi đã trừ đi chi phí môi giới."
+    ],
+    "correct_answer": "B. Số tiền thuê trả từng kỳ theo hợp đồng thuê."
+  },
+  {
+    "question": "Theo Luật Thuế thu nhập cá nhân và các văn bản hưởng dẫn, trong trường hợp nào cá nhân được miễn thuế TNCN khi chuyển nhượng nhà ở, đất ở?",
+    "options": [
+      "A. Khi chuyển nhượng nhà ở, quyền sử dụng đất ở duy nhất của cá nhân đó.",
+      "B. Khi chuyển nhượng bất kỳ loại bất động sản nào có giá trị dưới 1 tỷ đồng.",
+      "C. Khi chuyển nhượng nhà ở trong vòng 5 năm kể từ ngày mua..",
+      "D. Khi chuyển nhượng bất động sản cho bạn thân."
+    ],
+    "correct_answer": "A. Khi chuyển nhượng nhà ở, quyền sử dụng đất ở duy nhất của cá nhân đó."
+  },
+  {
+    "question": "Chủ đầu tư khi bán bất động sản phải nộp những loại thuế gì sau đây?",
+    "options": [
+      "A. Thuế thu nhập doanh nghiệp.",
+      "B. Thuế chuyển nhượng bất động sản.",
+      "C. Không phải nộp thuế.",
+      "D. Thuế trước bạ."
+    ],
+    "correct_answer": "A. Thuế thu nhập doanh nghiệp."
+  },
+  {
+    "question": "Theo Luật phòng chống rửa tiền 2022, \"Rửa tiền\" được định nghĩa là gì?",
+    "options": [
+      "A. Hành vi che giấu nguồn gốc tài sản hợp pháp.",
+      "B. Hành vi sử dụng tài sản để tài trợ khủng bố.",
+      "C. Hành vi của tổ chức, cá nhân nhằm hợp pháp hóa nguồn gốc của tải sản do phạm tội mà có.",
+      "D. Hành vi không bảo cáo giao dịch đáng ngờ."
+    ],
+    "correct_answer": "C. Hành vi của tổ chức, cá nhân nhằm hợp pháp hóa nguồn gốc của tải sản do phạm tội mà có."
+  },
+  {
+    "question": "Mức giao dịch tiền mặt có giá trị lớn phải báo cáo theo luật phòng chống rửa tiên hiện hành theo Quyết định 11/2023/QĐ-TTg là bao nhiêu?",
+    "options": [
+      "A. Từ 300 triệu đồng trở lên.",
+      "B. Từ 400 triệu đồng trở lên.",
+      "C. Từ 500 triệu đồng trở lên. .",
+      "D. Không quy định mức cụ thể, tùy thuộc vào đánh giá rủi ro."
+    ],
+    "correct_answer": "B. Từ 400 triệu đồng trở lên."
+  },
+  {
+    "question": "Hoạt động nào sau đây trong lĩnh vực bất động sản KHÔNG thuộc đối tượng phải báo cáo phòng chống rửa tiền theo Luật phòng chống rửa tiền 2022?",
+    "options": [
+      "A. Kinh doanh dịch vụ môi giới bất động sản.",
+      "B. Đầu tư, phát triển dự án bất động sản.",
+      "C. Dịch vụ tư vấn bất động sản.",
+      "D. Hoạt động của sàn giao dịch bất động sản."
+    ],
+    "correct_answer": "C. Dịch vụ tư vấn bất động sản."
+  },
+  {
+    "question": "Ai chịu trách nhiệm chính trong việc triển khai các biện pháp phòng chống rửa tiền tại một doanh nghiệp kinh doanh bất động sản?",
+    "options": [
+      "A. Nhân viên môi giới.",
+      "B. Khách hàng.",
+      "C. Doanh nghiệp bất động sản đó (Đối tượng bảo cáo).",
+      "D. Ngân hàng Nhà nước."
+    ],
+    "correct_answer": "C. Doanh nghiệp bất động sản đó (Đối tượng bảo cáo)."
+  },
+  {
+    "question": "Đối tượng báo cáo trong lĩnh vực kinh doanh BĐS theo Luật Phòng, chống rửa tiền 2022 gồm những ai?",
+    "options": [
+      "A. Tổ chức, cá nhân kinh doanh dịch vụ quản lý, tư vấn, sàn giao dịch BĐS, thuê, cho thuê mua BĐS.",
+      "B. Chỉ gồm sàn giao dịch BĐS và doanh nghiệp phát triển dự án.",
+      "C. Tất cả cá nhân tham gia giao dịch mua bán nhà đất.",
+      "D. Tổ chức kinh doanh BĐS có giao dịch từ 500 triệu đồng trở lên."
+    ],
+    "correct_answer": "A. Tổ chức, cá nhân kinh doanh dịch vụ quản lý, tư vấn, sàn giao dịch BĐS, thuê, cho thuê mua BĐS."
+  },
+  {
+    "question": "Khi \"cầu\" BĐS tăng sẽ ảnh hưởng như thế nào đến giá bán và tiền thuê BĐS trong ngắn hạn?",
+    "options": [
+      "A. Giá và tiền thuê sẽ giảm.",
+      "B. Giá sẽ giảm nhưng tiền thuê sẽ tăng.",
+      "C. Giá và tiền thuê sẽ tăng.",
+      "D. Giá sẽ tăng nhưng tiền thuê sẽ giảm."
+    ],
+    "correct_answer": "C. Giá và tiền thuê sẽ tăng."
+  },
+  {
+    "question": "Sau khi phát hiện giao dịch đáng ngờ, thời hạn tối đa để đối tượng báo cáo gửi báo cáo cho Cơ quan PCRT là bao lâu?",
+    "options": [
+      "A. 01 ngày làm việc kể từ ngày phát hiện giao dịch đáng ngờ.",
+      "B. 03 ngày làm việc kể từ ngày giao dịch phát sinh.",
+      "C. 24 giờ kể từ khi ký hợp đồng.",
+      "D. 07 ngày kể từ ngày nghi ngờ."
+    ],
+    "correct_answer": "A. 01 ngày làm việc kể từ ngày phát hiện giao dịch đáng ngờ."
+  },
+  {
+    "question": "Theo Luật Phòng, chống rửa tiền 2022, tổ chức, cá nhân kinh doanh bất động sản (trừ cho thuê, tư vẫn) có nghĩa vụ báo cáo giao dịch đáng ngờ (STR) không?",
+    "options": [
+      "A. Không, chỉ ngân hàng mới phải báo cáo.",
+      "B. Chỉ báo cáo khi có yêu cầu của cơ quan công an. :",
+      "C. Có, đây là một trong các nghĩa vụ phòng chống rửa tiền.",
+      "D. Chỉ báo cáo các giao dịch trên 1 tỷ đồng."
+    ],
+    "correct_answer": "C. Có, đây là một trong các nghĩa vụ phòng chống rửa tiền."
+  },
+  {
+    "question": "Bà P cho bà Q vay 500 triệu đồng tiền mặt để mua đất. Giao dịch này có phải báo cáo theo quy định về phòng chống rửa tiền không?",
+    "options": [
+      "A. Có, vì liên quan đến mua bán bất động sản.",
+      "B. Có, vì giá trị giao dịch trên 400 triệu đồng.",
+      "C. Không, vì đây là giao dịch cho vay cá nhân, không phải do đối tượng báo cáo (như kinh doanh BĐS, ngân hàng) thực hiện.",
+      "D. Chỉ phải báo cáo nếu bà Q dùng tiền này mua đất qua sàn giao dịch BĐS."
+    ],
+    "correct_answer": "C. Không, vì đây là giao dịch cho vay cá nhân, không phải do đối tượng báo cáo (như kinh doanh BĐS, ngân hàng) thực hiện."
+  },
+  {
+    "question": "Chủ thể nào KHÔNG phải là đối tượng báo cáo theo Luật Phòng, chống rửa tiền 2022 trong lĩnh vực bất động sản?",
+    "options": [
+      "A. Doanh nghiệp kinh doanh dịch vụ môi giới bất động sản.",
+      "B. Doanh nghiệp kinh doanh sàn giao dịch bất động sản.",
+      "C. Chủ đầu tư dự án bất động sản.",
+      "D. Cá nhân cho thuê nhà ở của chính mình."
+    ],
+    "correct_answer": "D. Cá nhân cho thuê nhà ở của chính mình."
+  },
+  {
+    "question": "Công thức cơ bản tính giá trị BĐS theo Cách tiếp cận Chi phí là gì?",
+    "options": [
+      "A. Giá trị = Thu nhập Thuần (NOI) / Tỷ suất Vốn hóa.",
+      "B. Giá trị = Chi phí tạo mới/thay thế tài sản - Hao mòn tích lũy + Giá trị đất đai.",
+      "C. Giá trị = Giá giao dịch so sánh + Điều chỉnh.",
+      "D. Giá trị = Tổng chi phí xây dựng - Lợi nhuận nhà thầu."
+    ],
+    "correct_answer": "B. Giá trị = Chi phí tạo mới/thay thế tài sản - Hao mòn tích lũy + Giá trị đất đai."
+  },
+  {
+    "question": "Sự khác biệt cốt lõi giữa \"Thẩm định giá\" và \"Tư vấn giá\" bất động sản là gì?",
+    "options": [
+      "A. Thẩm định giá đưa ra một con số ước tính duy nhất; Tư vấn giá cung cấp phân tích, lời khuyên và các kịch bản giá trị.",
+      "B. Thẩm định giá là của nhà nước; Tư vấn giá là của tư nhân.",
+      "C. Thẩm định giá bắt buộc dùng phương pháp so sánh; Tư vấn giá dùng phương pháp chi phí.",
+      "D. Không có sự khác biệt giữa hai hoạt động này."
+    ],
+    "correct_answer": "A. Thẩm định giá đưa ra một con số ước tính duy nhất; Tư vấn giá cung cấp phân tích, lời khuyên và các kịch bản giá trị."
+  },
+  {
+    "question": "Khi xử phạt vi phạm hành chính, cơ quan có thẩm quyền sẽ dựa vào yếu tố nào sau đây để xác định mức phạt cụ thể?",
+    "options": [
+      "A. Mong muốn người vi phạm",
+      "B. Sự nổi tiếng của người vi phạm",
+      "C. Mức độ, hậu quả của hành vi vi phạm",
+      "D. Ý kiến từ người dân xung quanh"
+    ],
+    "correct_answer": "C. Mức độ, hậu quả của hành vi vi phạm"
+  },
+  {
+    "question": "Trong trường hợp nào sau đây, người ví phạm trong lĩnh vực bất động sản sẽ không bị xử phạt vi phạm hành chính?",
+    "options": [
+      "A. Khi người vi phạm chưa gây thiệt hại nghiêm trọng",
+      "B. Khi người vi phạm là tổ chức phi lợi nhuận",
+      "C. Khi hành vi vi phạm đã hết thời hiệu xử phạt",
+      "D. Khi người vi phạm không biết đó là hành vi bị cấm"
+    ],
+    "correct_answer": "C. Khi hành vi vi phạm đã hết thời hiệu xử phạt"
+  },
+  {
+    "question": "Cá nhân có hành vi \"kinh doanh bất động sản khi không đủ điều kiện\" sẽ bị phạt tiền trong mức nào sau đây?",
+    "options": [
+      "A. Từ 80.000.000 đồng đến dưới 120.000.000 đồng",
+      "B. Từ 120.000.000 đồng đến 160.000.000 đồng",
+      "C. Từ trên 160.000.000 đồng đến 200.000.000 đồng",
+      "D. Trên 200.000.000 đồng"
+    ],
+    "correct_answer": "B. Từ 120.000.000 đồng đến 160.000.000 đồng"
+  },
+  {
+    "question": "Mức phạt vi phạm hành chính đối với cá nhân so với tổ chức trong lĩnh vực bất động sản thường như thế nào?",
+    "options": [
+      "A. Cá nhân bị phạt cao hơn tổ chức",
+      "B. Cá nhân và tổ chức bị phạt mức như nhau",
+      "C. Cá nhân bị phạt thấp hơn tổ chức",
+      "D. Cá nhân không bị phạt, chỉ có tổ chức bị phạt"
+    ],
+    "correct_answer": "C. Cá nhân bị phạt thấp hơn tổ chức"
+  },
+  {
+    "question": "Hành vi mượn chứng chỉ hành nghề môi giới BĐS để hành nghề bị phạt tiền bao nhiêu đối với tố chức?",
+    "options": [
+      "A. Từ 40.000.000 đến 60.000.000 đồng.",
+      "B. Từ 60.000.000 đến 80.000.000 đồng.",
+      "C. Từ 80.000.000 đến 100.000.000 đồng.",
+      "D. Từ 100.000.000 đến 120.000.000 đồng."
+    ],
+    "correct_answer": "A. Từ 40.000.000 đến 60.000.000 đồng."
+  },
+  {
+    "question": "Theo Nghị định 16/2022/NĐ-CP, hành nghề môi giới bất động sản nhưng không có chứng chỉ hành nghề theo quy định thì bị phạt tiền?",
+    "options": [
+      "A. Từ 20 triệu đồng đến 40 triệu đồng",
+      "B. Từ 40 triệu đồng đến 60 triệu đồng",
+      "C. Từ 60 triệu đồng đến 80 triệu đồng",
+      "D. Từ 80 triệu đồng đến 100 triệu đồng"
+    ],
+    "correct_answer": "B. Từ 40 triệu đồng đến 60 triệu đồng"
+  },
+  {
+    "question": "Đôi với hành vi không đủ số người có chứng chỉ môi giới bất động sản theo quy định thì doanh nghiệp kinh doanh dịch vụ môi giới bất động sản sẽ bị phạt tiền?",
+    "options": [
+      "A. Từ 20.000.000 đồng đến 40.000.000 đồng",
+      "B. Từ 50.000.000 đồng đến 80.000.000 đồng",
+      "C. Từ 90.000.000 đồng đến 110.000.000 đồng",
+      "D. Từ 120.000.000 đồng đến 160.000.000 đồng"
+    ],
+    "correct_answer": "D. Từ 120.000.000 đồng đến 160.000.000 đồng"
+  },
+  {
+    "question": "Một cá nhân kinh doanh dịch vụ môi giới bất động sản độc lập cho người khác mượn chứng chỉ hành nghề của mình. Người này sẽ bị xử phạt như thế nào?",
+    "options": [
+      "A. Phạt tiền từ 40.000.000 - 60.000.000 đồng và không có hình phạt bổ sung.",
+      "B. Phạt tiền từ 40.000.000 - 60.000.000 đồng và tước quyền sử dụng chứng chỉ hành nghề từ 03 đến 06 tháng.",
+      "C. Phạt tiền từ 120.000.000 - 160.000.000 đồng và tước quyền sử dụng chứng chỉ hành nghề từ 06 đến 09 tháng.",
+      "D. Chỉ bị tước quyền sử dụng chứng chỉ hành nghề vĩnh viễn."
+    ],
+    "correct_answer": "B. Phạt tiền từ 40.000.000 - 60.000.000 đồng và tước quyền sử dụng chứng chỉ hành nghề từ 03 đến 06 tháng."
+  },
+  {
+    "question": "Khái niệm \"Bất động sản\" được hiểu là gì theo pháp luật Việt Nam (Luật Đất đai 2024, Bộ luật Dân sự 2015)?",
+    "options": [
+      "A. Là đất đai và tài sản gắn liền với đất đai, bao gồm nhà ở, công trình xây dựng, rừng sản xuất là rừng tự nhiên.",
+      "B. Là các tài sản bao gồm đất đai; nhà, công trình xây dựng gắn liền với đất; tài sản khác gắn liền với đất, tài sản khác theo quy định của pháp luật.",
+      "C. Là tài sản không thể di dời, chỉ bao gồm đất đai và nhà ở.",
+      "D. Là quyền sử dụng đất và các công trình hình thành trong tương lai trên đất."
+    ],
+    "correct_answer": "B. Là các tài sản bao gồm đất đai; nhà, công trình xây dựng gắn liền với đất; tài sản khác gắn liền với đất, tài sản khác theo quy định của pháp luật."
+  },
+  {
+    "question": "Thị trường bất động sản thường được phân loại theo cấp độ nào?",
+    "options": [
+      "A. Thị trường sơ cấp và thị trường thứ cấp.",
+      "B. Thị trường nội địa và thị trường quốc tế.",
+      "C. Thị trường nhà ở và thị trường đất nông nghiệp.",
+      "D. Thị trường giao dịch và thị trường thế chấp."
+    ],
+    "correct_answer": "A. Thị trường sơ cấp và thị trường thứ cấp."
+  },
+  {
+    "question": "Yếu tố kinh tế nào sau đây có tác động lớn nhất đến tổng cầu và khả năng chi trả của người mua trên thị trường bất động sản?",
+    "options": [
+      "A. Sự phát triển của công nghệ xây dựng.",
+      "B. Tốc độ tăng trưởng GDP, lạm phát và thu nhập bình quân đầu người.",
+      "C. Thay đổi trong quy hoạch sử dụng đất và hạ tầng giao thông.",
+      "D. Yếu tố về văn hóa, phong tục tập quán trong xây dựng."
+    ],
+    "correct_answer": "B. Tốc độ tăng trưởng GDP, lạm phát và thu nhập bình quân đầu người."
+  },
+  {
+    "question": "Vai trò của Chính phủ (Nhà nước) đối với thị trường bất động sản được thể hiện rõ nhất qua hoạt động nào sau đây?",
+    "options": [
+      "A. Trực tiếp tham gia vào mọi giao dịch mua bán để niêm yết giá.",
+      "B. Trực tiếp cấp vốn cho mọi dự án phát triển bất động sản.",
+      "C. Ban hành các quy định pháp luật về giao dịch, thuế, quản lý và sử dụng đất đai.",
+      "D. Kiểm soát quy hoạch, kế hoạch sử dụng đất, điều tiết cung cầu thông qua các công cụ tài chính, pháp luật."
+    ],
+    "correct_answer": "D. Kiểm soát quy hoạch, kế hoạch sử dụng đất, điều tiết cung cầu thông qua các công cụ tài chính, pháp luật."
+  },
+  {
+    "question": "Trong chu kỳ thị trường bất động sản, giai đoạn nào thường có đặc điểm là nguồn cung khan hiếm, giá tăng mạnh và giao dịch sôi động?",
+    "options": [
+      "A. Giai đoạn khủng hoảng và suy thoái.",
+      "B. Giai đoạn phục hồi.",
+      "C. Giai đoạn tăng trưởng (Nóng).",
+      "D. Giai đoạn ổn định."
+    ],
+    "correct_answer": "C. Giai đoạn tăng trưởng (Nóng)."
+  },
+  {
+    "question": "Theo quy định, bất động sản bao gồm những loại tài sản nào?",
+    "options": [
+      "A. Đất đai và nhà ở.",
+      "B. Đất đai, tài sản gắn liền với đất đai và các tài sản khác theo luật định.",
+      "C. Nhà ở và các công trình xây dựng.",
+      "D. Đất đai, cây trông và vật nuôi trên đất."
+    ],
+    "correct_answer": "B. Đất đai, tài sản gắn liền với đất đai và các tài sản khác theo luật định."
+  },
+  {
+    "question": "Phân đoạn thị trường là gì?",
+    "options": [
+      "A. Là quá trình phân chia thị trường thành những đoạn nhỏ hơn mang tính không đồng nhất",
+      "B. Là quá trình phân chia thị trường thành những đoạn nhỏ hơn mang tính đồng nhất cao",
+      "C. theo các tiêu chí cụ thế.",
+      "D. Là quá trình phân chia thị trường thành những đoạn khác biệt mang tính không đồng"
+    ],
+    "correct_answer": "B. Là quá trình phân chia thị trường thành những đoạn nhỏ hơn mang tính đồng nhất cao"
+  },
+  {
+    "question": "Đối tượng nào sau đây KHÔNG được hành nghề thẩm định giá theo quy định tại Khoản 2 Điều 45 Luật Giá 2023?",
+    "options": [
+      "A. Người có Thẻ thẩm định viên về giá hết hạn.",
+      "B. Người đang trong thời gian bị khởi tố, truy tố, xét xử.",
+      "C. Người có bằng đại học chuyên ngành thấm định giá:",
+      "D. Người làm việc tại doanh nghiệp thẩm định giá."
+    ],
+    "correct_answer": "B. Người đang trong thời gian bị khởi tố, truy tố, xét xử."
+  },
+  {
+    "question": "Việc xây dựng Bảng giá đất chi tiết đến từng thửa đất theo Luật Đất đai 2024 yêu cầu phải có điều kiện gì về hạ tầng thông tin?",
+    "options": [
+      "A. Mạng lưới internet tốc độ cao",
+      "B. Hệ thống định vị toàn cầu",
+      "C. Bản đồ địa chính số và cơ sở dữ liệu giá đất",
+      "D. Hệ thống camera giám sát"
+    ],
+    "correct_answer": "C. Bản đồ địa chính số và cơ sở dữ liệu giá đất"
+  },
+  {
+    "question": "Mỗi quan hệ giữa Luật Giá và các Chuẩn mực thẩm định giá Việt Nam là gì?",
+    "options": [
+      "A. Chuẩn mực TĐG VN có giá trị pháp lý cao hơn Luật Giá.",
+      "B. Luật Giá quy định các nguyên tắc chung và quản lý nhà nước, Chuẩn mực TĐG VN là các hướng dẫn kỹ thuật, nghiệp vụ chi tiết để thực hiện Luật Giá.",
+      "C. Hai hệ thống này hoàn toàn độc lập, không liên quan."
+    ],
+    "correct_answer": "B. Luật Giá quy định các nguyên tắc chung và quản lý nhà nước, Chuẩn mực TĐG VN là các hướng dẫn kỹ thuật, nghiệp vụ chi tiết để thực hiện Luật Giá."
+  },
+  {
+    "question": "Tình huống: Nhà nước thu hôi đất nông nghiệp của hộ gia đình, cá nhân để xây dựng khu công nghiệp. Việc xác định giá đất để tính tiền bồi thường sẽ áp dụng Điều nào theo Luật Đất đai 2024?",
+    "options": [
+      "A. Áp dụng giá đất trong Bảng giá đất.",
+      "B. Áp dụng Giá đất cụ thể được xác định tại thời điểm thu hồi đất.",
+      "C. Thỏa thuận giữa Nhà nước và người bị thu hồi đất.",
+      "D. Áp dụng giá đất thị trường do tổ chức độc lập khảo sát."
+    ],
+    "correct_answer": "B. Áp dụng Giá đất cụ thể được xác định tại thời điểm thu hồi đất."
+  },
+  {
+    "question": "Yếu tố nào là quan trọng nhất ảnh hưởng trực tiếp đến giá trị của bất động sản đất đai?",
+    "options": [
+      "A. Diện tích và vị trí thửa đất.",
+      "B. Mục đích sử dụng đất và thời hạn sử dụng đất.",
+      "C. Tình trạng pháp lý người sử dụng.",
+      "D. Hình dạng thửa đất."
+    ],
+    "correct_answer": "B. Mục đích sử dụng đất và thời hạn sử dụng đất."
+  },
+  {
+    "question": "Nguyên tắc thẩm định giá nào là nền tảng cho Cách tiếp cận So sánh và Cách tiếp cận Chi phí?",
+    "options": [
+      "A. Nguyên tắc Thay đổi.",
+      "B. Nguyên tắc Thay thế.",
+      "C. Nguyên tắc Phù hợp.",
+      "D. Nguyên tắc Đóng góp."
+    ],
+    "correct_answer": "B. Nguyên tắc Thay thế."
+  },
+  {
+    "question": "Bước đầu tiên và quan trọng nhất trong quy trình xác định giá bất động sản là gì?",
+    "options": [
+      "A. Thu thập dữ liệu giao dịch thị trường.",
+      "B. Phân tích Sử dụng tốt nhất và hiệu quả nhất (HBU).",
+      "C. Xác định vấn đề thẩm định giá (mục đích, đối tượng, thời điểm, cơ sở giá trị).",
+      "D. Áp dụng các phương pháp tính toán."
+    ],
+    "correct_answer": "C. Xác định vấn đề thẩm định giá (mục đích, đối tượng, thời điểm, cơ sở giá trị)."
+  }
+]
